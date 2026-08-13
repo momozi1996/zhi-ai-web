@@ -1,0 +1,170 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --ink: #0B0B0F;
+    --paper: #FFFFFF;
+    --hall: #F3F5FA;
+    --blue: #1E5EFF;
+    --yellow: #FFC53D;
+    --yellow-soft: #FFD76B;
+    --red: #F04438;
+    --green: #22B07D;
+    --text: #4A5164;
+    --muted: #8A90A0;
+    --line: #E4E7EF;
+
+    --background: 0 0% 100%;
+    --foreground: 240 10% 3.9%;
+    --card: 0 0% 100%;
+    --card-foreground: 240 10% 3.9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 240 10% 3.9%;
+    --primary: 240 5.9% 10%;
+    --primary-foreground: 0 0% 98%;
+    --secondary: 240 4.8% 95.9%;
+    --secondary-foreground: 240 5.9% 10%;
+    --muted-foreground: 240 3.8% 46.1%;
+    --accent: 240 4.8% 95.9%;
+    --accent-foreground: 240 5.9% 10%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 240 5.9% 90%;
+    --input: 240 5.9% 90%;
+    --ring: 240 5.9% 10%;
+    --radius: 0;
+    --sidebar-background: 0 0% 98%;
+    --sidebar-foreground: 240 5.3% 26.1%;
+    --sidebar-primary: 240 5.9% 10%;
+    --sidebar-primary-foreground: 0 0% 98%;
+    --sidebar-accent: 240 4.8% 95.9%;
+    --sidebar-accent-foreground: 240 5.9% 10%;
+    --sidebar-border: 220 13% 91%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+    border-radius: 0;
+  }
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-hall text-ink font-sans;
+    font-size: 15.5px;
+    line-height: 1.85;
+  }
+}
+
+@layer utilities {
+  /* 大厅网格纸背景（28px 方格） */
+  .bg-grid-hall {
+    background-color: #F3F5FA;
+    background-image:
+      linear-gradient(#E4E7EF 1px, transparent 1px),
+      linear-gradient(90deg, #E4E7EF 1px, transparent 1px);
+    background-size: 28px 28px;
+  }
+  /* 书页网格（纯白 + 32px） */
+  .bg-grid-paper {
+    background-color: #FFFFFF;
+    background-image:
+      linear-gradient(#EFF1F7 1px, transparent 1px),
+      linear-gradient(90deg, #EFF1F7 1px, transparent 1px);
+    background-size: 32px 32px;
+  }
+  /* 关键词黄底高亮条 */
+  .hl-yellow {
+    background: #FFC53D;
+    color: #0B0B0F;
+    padding: 0 8px;
+  }
+  /* 街机按钮基座 */
+  .btn-arcade {
+    @apply inline-flex items-center justify-center gap-2 border-2 border-ink font-kuaile text-base shadow-hard transition-all duration-150 select-none cursor-pointer;
+    padding: 12px 24px;
+    letter-spacing: 1px;
+  }
+  .btn-arcade:active {
+    transform: translate(3px, 3px);
+    box-shadow: 1px 1px 0 #0B0B0F;
+  }
+  .btn-primary {
+    @apply btn-arcade bg-arcade-blue text-white;
+  }
+  .btn-yellow {
+    @apply btn-arcade bg-arcade-yellow text-ink;
+  }
+  .btn-ghost {
+    @apply btn-arcade bg-paper text-ink;
+  }
+  .btn-lg {
+    padding: 16px 32px;
+    font-size: 18px;
+  }
+  /* 基础卡片 */
+  .card-arcade {
+    @apply bg-paper border-[3px] border-ink shadow-hard;
+    padding: 24px;
+  }
+  /* 贴纸标签 */
+  .sticker {
+    @apply inline-block border-2 border-ink font-silk text-[10px] leading-none;
+    padding: 5px 8px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+  /* 跑马灯 */
+  .marquee-track {
+    display: flex;
+    width: max-content;
+    animation: marquee 30s linear infinite;
+  }
+  .marquee-hover-pause:hover .marquee-track {
+    animation-play-state: paused;
+  }
+  /* 第 1 名底座黑黄斜纹 */
+  .podium-stripe {
+    background: repeating-linear-gradient(
+      45deg,
+      #FFC53D 0,
+      #FFC53D 12px,
+      #0B0B0F 12px,
+      #0B0B0F 24px
+    );
+  }
+  /* 隐藏横向滚动条 */
+  .no-scrollbar {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  /* 投币闪烁 */
+  .blink-arcade {
+    animation: blink-steps 1s steps(2) infinite;
+  }
+  /* 贴纸 idle 摇摆 */
+  .sway {
+    animation: sway 3s ease-in-out infinite alternate;
+  }
+}
+
+@keyframes marquee {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+@keyframes blink-steps {
+  0%, 49% { opacity: 1; }
+  50%, 100% { opacity: 0; }
+}
+@keyframes sway {
+  from { transform: rotate(-2deg); }
+  to { transform: rotate(2deg); }
+}
