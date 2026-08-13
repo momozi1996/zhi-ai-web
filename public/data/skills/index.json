@@ -1,0 +1,1224 @@
+{
+  "source": "https://github.com/momozi1996/awesome-ai-persona-skills",
+  "default_branch": "main",
+  "license": "MIT",
+  "generated": "2026-08-13",
+  "repo_description": "全网最全的、持续更新的、最火爆的 100+ 人格蒸馏 skills 合集｜多agent系统｜名人/导演/天涯大神/古籍/二次元/职场/情感全品类",
+  "stats": {
+    "skill_count": 34,
+    "by_category": {
+      "导演多Agent系统": 1,
+      "情商与社会化训练": 2,
+      "作家小说家": 18,
+      "天涯大神多Agent智囊团": 1,
+      "自媒体大V": 12
+    },
+    "director_sub_personas": 31,
+    "tianya_god_sub_personas": 5,
+    "external_catalog_count": 61
+  },
+  "categories": [
+    {
+      "id": "director-agents",
+      "name": "导演多Agent系统"
+    },
+    {
+      "id": "eq",
+      "name": "情商与社会化训练"
+    },
+    {
+      "id": "novelists",
+      "name": "作家小说家"
+    },
+    {
+      "id": "tianya",
+      "name": "天涯大神多Agent智囊团"
+    },
+    {
+      "id": "zimeiti",
+      "name": "自媒体大V"
+    }
+  ],
+  "skills": [
+    {
+      "id": "clawteam-directors-orchestrator",
+      "name": "ClawTeam导演智囊团",
+      "one_line": "ClawTeam导演智囊团——基于ClawTeam多智能体框架的世界著名导演协同创作系统。",
+      "description": "ClawTeam导演智囊团——基于ClawTeam多智能体框架的世界著名导演协同创作系统。 整合31位全球顶级导演的风格思想，通过多智能体协作机制（顺序链、辩论投票、主席团模式） 辅助剧本创作、影像风格设计和叙事决策。 触发词：「导演智囊团」「ClawTeam」「多导演协作」「剧本创作」「影像风格」 适用场景：编剧、导演、创意策划、影视教育、AI影像创作",
+      "triggers": [
+        "导演智囊团",
+        "ClawTeam",
+        "多导演协作",
+        "剧本创作",
+        "影像风格"
+      ],
+      "category": "导演多Agent系统",
+      "category_id": "director-agents",
+      "version": "1.0.0",
+      "path": "DirectorAgents-1/SKILL.md",
+      "github_url": "https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/DirectorAgents-1/SKILL.md",
+      "sub_personas": [
+        {
+          "name": "伍迪·艾伦",
+          "title": "🎬 世界著名导演深度风格分析：伍迪·艾伦",
+          "path": "DirectorAgents-1/directors/伍迪·艾伦.md"
+        },
+        {
+          "name": "侯孝贤",
+          "title": "🎬 世界著名导演深度风格分析：侯孝贤",
+          "path": "DirectorAgents-1/directors/侯孝贤.md"
+        },
+        {
+          "name": "克里斯托弗·诺兰",
+          "title": "🎬 世界著名导演深度风格分析：克里斯托弗·诺兰",
+          "path": "DirectorAgents-1/directors/克里斯托弗·诺兰.md"
+        },
+        {
+          "name": "史蒂文·斯皮尔伯格",
+          "title": "🎬 世界著名导演深度风格分析：史蒂文·斯皮尔伯格",
+          "path": "DirectorAgents-1/directors/史蒂文·斯皮尔伯格.md"
+        },
+        {
+          "name": "吴宇森",
+          "title": "🎬 世界著名导演深度风格分析：吴宇森",
+          "path": "DirectorAgents-1/directors/吴宇森.md"
+        },
+        {
+          "name": "周星驰",
+          "title": "🎬 世界著名导演深度风格分析：周星驰",
+          "path": "DirectorAgents-1/directors/周星驰.md"
+        },
+        {
+          "name": "大卫·芬奇",
+          "title": "🎬 世界著名导演深度风格分析：大卫·芬奇",
+          "path": "DirectorAgents-1/directors/大卫·芬奇.md"
+        },
+        {
+          "name": "奉俊昊",
+          "title": "🎬 世界著名导演深度风格分析：奉俊昊",
+          "path": "DirectorAgents-1/directors/奉俊昊.md"
+        },
+        {
+          "name": "姜文",
+          "title": "🎬 世界著名导演深度风格分析：姜文",
+          "path": "DirectorAgents-1/directors/姜文.md"
+        },
+        {
+          "name": "安德烈·塔可夫斯基",
+          "title": "🎬 世界著名导演深度风格分析：安德烈·塔可夫斯基",
+          "path": "DirectorAgents-1/directors/安德烈·塔可夫斯基.md"
+        },
+        {
+          "name": "宫崎骏",
+          "title": "🎬 世界著名导演深度风格分析：宫崎骏",
+          "path": "DirectorAgents-1/directors/宫崎骏.md"
+        },
+        {
+          "name": "小津安二郎",
+          "title": "🎬 世界著名导演深度风格分析：小津安二郎",
+          "path": "DirectorAgents-1/directors/小津安二郎.md"
+        },
+        {
+          "name": "弗朗西斯·福特·科波拉",
+          "title": "🎬 世界著名导演深度风格分析：弗朗西斯·福特·科波拉",
+          "path": "DirectorAgents-1/directors/弗朗西斯·福特·科波拉.md"
+        },
+        {
+          "name": "张艺谋",
+          "title": "🎬 世界著名导演深度风格分析：张艺谋",
+          "path": "DirectorAgents-1/directors/张艺谋.md"
+        },
+        {
+          "name": "徐克",
+          "title": "🎬 世界著名导演深度风格分析：徐克",
+          "path": "DirectorAgents-1/directors/徐克.md"
+        },
+        {
+          "name": "昆汀·塔伦蒂诺",
+          "title": "🎬 世界著名导演深度风格分析：昆汀·塔伦蒂诺",
+          "path": "DirectorAgents-1/directors/昆汀·塔伦蒂诺.md"
+        },
+        {
+          "name": "是枝裕和",
+          "title": "🎬 世界著名导演深度风格分析：是枝裕和",
+          "path": "DirectorAgents-1/directors/是枝裕和.md"
+        },
+        {
+          "name": "朴赞郁",
+          "title": "🎬 世界著名导演深度风格分析：朴赞郁",
+          "path": "DirectorAgents-1/directors/朴赞郁.md"
+        },
+        {
+          "name": "李安",
+          "title": "🎬 世界著名导演深度风格分析：李安",
+          "path": "DirectorAgents-1/directors/李安.md"
+        },
+        {
+          "name": "杜琪峰",
+          "title": "🎬 世界著名导演深度风格分析：杜琪峰",
+          "path": "DirectorAgents-1/directors/杜琪峰.md"
+        },
+        {
+          "name": "杨德昌",
+          "title": "🎬 世界著名导演深度风格分析：杨德昌",
+          "path": "DirectorAgents-1/directors/杨德昌.md"
+        },
+        {
+          "name": "王家卫",
+          "title": "🎬 世界著名导演深度风格分析：王家卫",
+          "path": "DirectorAgents-1/directors/王家卫.md"
+        },
+        {
+          "name": "米开朗基罗·安东尼奥尼",
+          "title": "🎬 世界著名导演深度风格分析：米开朗基罗·安东尼奥尼",
+          "path": "DirectorAgents-1/directors/米开朗基罗·安东尼奥尼.md"
+        },
+        {
+          "name": "英格玛·伯格曼",
+          "title": "🎬 世界著名导演深度风格分析：英格玛·伯格曼",
+          "path": "DirectorAgents-1/directors/英格玛·伯格曼.md"
+        },
+        {
+          "name": "詹姆斯·卡梅隆",
+          "title": "🎬 世界著名导演深度风格分析：詹姆斯·卡梅隆",
+          "path": "DirectorAgents-1/directors/詹姆斯·卡梅隆.md"
+        },
+        {
+          "name": "费德里科·费里尼",
+          "title": "🎬 世界著名导演深度风格分析：费德里科·费里尼",
+          "path": "DirectorAgents-1/directors/费德里科·费里尼.md"
+        },
+        {
+          "name": "贾樟柯",
+          "title": "🎬 世界著名导演深度风格分析：贾樟柯",
+          "path": "DirectorAgents-1/directors/贾樟柯.md"
+        },
+        {
+          "name": "路易斯·布努埃尔",
+          "title": "🎬 世界著名导演深度风格分析：路易斯·布努埃尔",
+          "path": "DirectorAgents-1/directors/路易斯·布努埃尔.md"
+        },
+        {
+          "name": "陈凯歌",
+          "title": "🎬 世界著名导演深度风格分析：陈凯歌",
+          "path": "DirectorAgents-1/directors/陈凯歌.md"
+        },
+        {
+          "name": "陈可辛",
+          "title": "🎬 世界著名导演深度风格分析：陈可辛",
+          "path": "DirectorAgents-1/directors/陈可辛.md"
+        },
+        {
+          "name": "黑泽明",
+          "title": "🎬 世界著名导演深度风格分析：黑泽明",
+          "path": "DirectorAgents-1/directors/黑泽明.md"
+        }
+      ]
+    },
+    {
+      "id": "eq-emotional-intelligence",
+      "name": "EQ情商训练专家",
+      "one_line": "情商（EQ）训练专家系统——基于Mayer-Salovey能力模型与Goleman混合模型的 完整情商培养框架。",
+      "description": "情商（EQ）训练专家系统——基于Mayer-Salovey能力模型与Goleman混合模型的 完整情商培养框架。涵盖自我意识、自我管理、社会意识、关系管理四大维度， 提供科学评估工具（MSCEIT/EQ-i 2.0/TEIQue）与实用训练方法。 触发词：「情商训练」「EQ提升」「情绪智力」「情绪管理」「情商测评」 适用场景：个人成长、职场发展、领导力培训、心理咨询辅助",
+      "triggers": [
+        "情商训练",
+        "EQ提升",
+        "情绪智力",
+        "情绪管理",
+        "情商测评"
+      ],
+      "category": "情商与社会化训练",
+      "category_id": "eq",
+      "version": "1.0.0",
+      "path": "EQ/eq-skill/SKILL.md",
+      "github_url": "https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/EQ/eq-skill/SKILL.md"
+    },
+    {
+      "id": "sel-social-emotional-learning",
+      "name": "SEL社会化训练专家",
+      "one_line": "社会情感学习（SEL）专家系统——基于CASEL框架的完整知识体系与实践指南。",
+      "description": "社会情感学习（SEL）专家系统——基于CASEL框架的完整知识体系与实践指南。 涵盖五大核心能力（自我意识/自我管理/社会意识/人际关系/负责任决策）、 课程设计、教学策略、评估工具及全球本土化实践。 触发词：「SEL」「社会情感学习」「情绪教育」「CASEL」「社交技能训练」 适用场景：教育工作者、家长、学校管理者、教育研究者",
+      "triggers": [
+        "SEL",
+        "社会情感学习",
+        "情绪教育",
+        "CASEL",
+        "社交技能训练"
+      ],
+      "category": "情商与社会化训练",
+      "category_id": "eq",
+      "version": "1.0.0",
+      "path": "EQ/sel-social-emotional-learning-skill/SKILL.md",
+      "github_url": "https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/EQ/sel-social-emotional-learning-skill/SKILL.md"
+    },
+    {
+      "id": "tianxiabachang-perspective",
+      "name": "天下霸唱 · 盗墓开山鼻祖思维",
+      "one_line": "天下霸唱盗墓开山鼻祖思维——鬼吹灯、说书人风格、风水秘术、民俗怪谈。",
+      "description": "天下霸唱盗墓开山鼻祖思维——鬼吹灯、说书人风格、风水秘术、民俗怪谈。 触发词：「天下霸唱视角」「像天下霸唱那样写」「鬼吹灯」「摸金校尉」「寻龙诀」。 擅长：盗墓探险、风水秘术、民俗怪谈、说书人叙事、章回体结构。",
+      "triggers": [
+        "天下霸唱视角",
+        "像天下霸唱那样写",
+        "鬼吹灯",
+        "摸金校尉",
+        "寻龙诀"
+      ],
+      "category": "作家小说家",
+      "category_id": "novelists",
+      "version": "1.0.0",
+      "path": "Novelists/SKILL.md",
+      "github_url": "https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/Novelists/SKILL.md"
+    },
+    {
+      "id": "dangnianmingyue-perspective",
+      "name": "当年明月 · 历史通俗写作思维",
+      "one_line": "当年明月历史通俗写作思维——幽默风趣、现代视角、心灵历史、权力与人性。",
+      "description": "当年明月历史通俗写作思维——幽默风趣、现代视角、心灵历史、权力与人性。 触发词：「当年明月视角」「像当年明月那样写」「明朝那些事儿」「历史通俗化」。 擅长：历史通俗写作、幽默叙事、人物心理分析、权力斗争描写、现代语言解构历史。",
+      "triggers": [
+        "当年明月视角",
+        "像当年明月那样写",
+        "明朝那些事儿",
+        "历史通俗化"
+      ],
+      "category": "作家小说家",
+      "category_id": "novelists",
+      "version": "1.0.0",
+      "path": "Novelists/dangnianmingyue-skill/SKILL.md",
+      "github_url": "https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/Novelists/dangnianmingyue-skill/SKILL.md"
+    },
+    {
+      "id": "laoshe-perspective",
+      "name": "老舍 · 京味儿文学思维",
+      "one_line": "老舍京味儿文学思维——市民生活、幽默悲凉、茶馆里的中国、读书人的气节。",
+      "description": "老舍京味儿文学思维——市民生活、幽默悲凉、茶馆里的中国、读书人的气节。 触发词：「老舍视角」「像老舍那样写」「骆驼祥子」「茶馆」「含泪的笑」。 擅长：京味儿文学、市民生活、幽默悲凉、戏剧对话、白描手法。",
+      "triggers": [
+        "老舍视角",
+        "像老舍那样写",
+        "骆驼祥子",
+        "茶馆",
+        "含泪的笑"
+      ],
+      "category": "作家小说家",
+      "category_id": "novelists",
+      "version": "1.0.0",
+      "path": "Novelists/laoshe-skill/SKILL.md",
+      "github_url": "https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/Novelists/laoshe-skill/SKILL.md"
+    },
+    {
+      "id": "libaihua-perspective",
+      "name": "李碧华 · 小说创作思维",
+      "one_line": "李碧华小说创作思维——奇情叙事、冷艳诡谲、历史重构、香港都市传奇。",
+      "description": "李碧华小说创作思维——奇情叙事、冷艳诡谲、历史重构、香港都市传奇。 触发词：「李碧华视角」「像李碧华那样写」「奇情」「冷艳」「霸王别姬」。 擅长：爱情与恐怖交织、历史重构、女性执念、宿命轮回、影视化叙事。",
+      "triggers": [
+        "李碧华视角",
+        "像李碧华那样写",
+        "奇情",
+        "冷艳",
+        "霸王别姬"
+      ],
+      "category": "作家小说家",
+      "category_id": "novelists",
+      "version": "1.0.0",
+      "path": "Novelists/libaihua-skill/SKILL.md",
+      "github_url": "https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/Novelists/libaihua-skill/SKILL.md"
+    },
+    {
+      "id": "liucixin-perspective",
+      "name": "刘慈欣 · 科幻创作思维",
+      "one_line": "刘慈欣科幻创作思维——硬科幻的宏细节叙事、技术乐观主义、宇宙社会学构建。",
+      "description": "刘慈欣科幻创作思维——硬科幻的宏细节叙事、技术乐观主义、宇宙社会学构建。 触发词：「刘慈欣视角」「大刘会怎么写」「硬科幻构思」「宇宙尺度叙事」「黑暗森林式冲突」。 擅长：从科学概念推演社会冲突、构建跨越时空尺度的宇宙图景、技术细节与宏大叙事的结合。",
+      "triggers": [
+        "刘慈欣视角",
+        "大刘会怎么写",
+        "硬科幻构思",
+        "宇宙尺度叙事",
+        "黑暗森林式冲突"
+      ],
+      "category": "作家小说家",
+      "category_id": "novelists",
+      "version": "1.0.0",
+      "path": "Novelists/liucixin-skill/SKILL.md",
+      "github_url": "https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/Novelists/liucixin-skill/SKILL.md"
+    },
+    {
+      "id": "luxun-perspective",
+      "name": "鲁迅 · 批判现实主义思维",
+      "one_line": "鲁迅批判现实主义思维——国民性批判、匕首投枪、冷峻白描、绝望抗战。",
+      "description": "鲁迅批判现实主义思维——国民性批判、匕首投枪、冷峻白描、绝望抗战。 触发词：「鲁迅视角」「像鲁迅那样写」「阿Q精神」「吃人」「铁屋子」。 擅长：国民性批判、讽刺杂文、冷峻叙事、启蒙救亡、绝望中的抗争。",
+      "triggers": [
+        "鲁迅视角",
+        "像鲁迅那样写",
+        "阿Q精神",
+        "吃人",
+        "铁屋子"
+      ],
+      "category": "作家小说家",
+      "category_id": "novelists",
+      "version": "1.0.0",
+      "path": "Novelists/luxun-skill/SKILL.md",
+      "github_url": "https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/Novelists/luxun-skill/SKILL.md"
+    },
+    {
+      "id": "moxiangtongxiu-perspective",
+      "name": "墨香铜臭 · 网文创作思维",
+      "one_line": "墨香铜臭网文创作思维——人物先行、双线穿插、金句武器、群像群雄、暖虐交织、反派叙事革新。",
+      "description": "墨香铜臭网文创作思维——人物先行、双线穿插、金句武器、群像群雄、暖虐交织、反派叙事革新。 触发词：「墨香铜臭视角」「像墨香铜臭那样写」「魔道祖师」「天官赐福」「人物先行」「金句武器」。 擅长：人物群像塑造、双线叙事结构、对话驱动情节、反派心理描摹、情感高潮设计、网文爽点节奏。",
+      "triggers": [
+        "墨香铜臭视角",
+        "像墨香铜臭那样写",
+        "魔道祖师",
+        "天官赐福",
+        "人物先行",
+        "金句武器"
+      ],
+      "category": "作家小说家",
+      "category_id": "novelists",
+      "version": "",
+      "path": "Novelists/moxiangtongxiu-skill/SKILL.md",
+      "github_url": "https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/Novelists/moxiangtongxiu-skill/SKILL.md"
+    },
+    {
+      "id": "moyan-perspective",
+      "name": "莫言 · 小说创作思维",
+      "one_line": "莫言小说创作思维——魔幻现实主义、高密东北乡、民间叙事、感官爆炸。",
+      "description": "莫言小说创作思维——魔幻现实主义、高密东北乡、民间叙事、感官爆炸。 触发词：「莫言视角」「像莫言那样写」「魔幻现实主义」「高密东北乡」「民间故事」。 擅长：构建文学地理空间、融合民间传说与历史、感官化描写、多重视角叙事。",
+      "triggers": [
+        "莫言视角",
+        "像莫言那样写",
+        "魔幻现实主义",
+        "高密东北乡",
+        "民间故事"
+      ],
+      "category": "作家小说家",
+      "category_id": "novelists",
+      "version": "1.0.0",
+      "path": "Novelists/moyan-skill/SKILL.md",
+      "github_url": "https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/Novelists/moyan-skill/SKILL.md"
+    },
+    {
+      "id": "nanpaisanshu-perspective",
+      "name": "南派三叔 · 盗墓探险思维",
+      "one_line": "南派三叔盗墓探险思维——下墓倒斗、悬疑探险、铁三角兄弟情、挖坑艺术。",
+      "description": "南派三叔盗墓探险思维——下墓倒斗、悬疑探险、铁三角兄弟情、挖坑艺术。 触发词：「南派三叔视角」「像南派三叔那样写」「下墓」「粽子」「铁三角」「坑王」。 擅长：盗墓探险、悬疑氛围、第一人称叙事、挖坑填坑、兄弟情。",
+      "triggers": [
+        "南派三叔视角",
+        "像南派三叔那样写",
+        "下墓",
+        "粽子",
+        "铁三角",
+        "坑王"
+      ],
+      "category": "作家小说家",
+      "category_id": "novelists",
+      "version": "1.0.0",
+      "path": "Novelists/nanpaisanshu-skill/SKILL.md",
+      "github_url": "https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/Novelists/nanpaisanshu-skill/SKILL.md"
+    },
+    {
+      "id": "qiongyao-perspective",
+      "name": "琼瑶 · 小说/电视剧创作思维",
+      "one_line": "琼瑶小说/电视剧创作思维——言情至上、唯美浪漫、戏剧冲突、经典对白。",
+      "description": "琼瑶小说/电视剧创作思维——言情至上、唯美浪漫、戏剧冲突、经典对白。 触发词：「琼瑶视角」「像琼瑶那样写」「言情小说」「琼瑶剧」「山无棱天地合」。 擅长：爱情小说、电视剧改编、唯美对白、情感冲突、女性视角。",
+      "triggers": [
+        "琼瑶视角",
+        "像琼瑶那样写",
+        "言情小说",
+        "琼瑶剧",
+        "山无棱天地合"
+      ],
+      "category": "作家小说家",
+      "category_id": "novelists",
+      "version": "1.0.0",
+      "path": "Novelists/qiongyao-skill/SKILL.md",
+      "github_url": "https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/Novelists/qiongyao-skill/SKILL.md"
+    },
+    {
+      "id": "sanmao-perspective",
+      "name": "三毛 · 流浪文学思维",
+      "one_line": "三毛流浪文学思维——真挚感性、沙漠爱情、自由灵魂、生死相随。",
+      "description": "三毛流浪文学思维——真挚感性、沙漠爱情、自由灵魂、生死相随。 触发词：「三毛视角」「像三毛那样写」「撒哈拉」「前世乡愁」「每想你一次」。 擅长：流浪文学、真挚散文、爱情叙事、自由精神、感性表达。",
+      "triggers": [
+        "三毛视角",
+        "像三毛那样写",
+        "撒哈拉",
+        "前世乡愁",
+        "每想你一次"
+      ],
+      "category": "作家小说家",
+      "category_id": "novelists",
+      "version": "1.0.0",
+      "path": "Novelists/sanmao-skill/SKILL.md",
+      "github_url": "https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/Novelists/sanmao-skill/SKILL.md"
+    },
+    {
+      "id": "shitiesheng-perspective",
+      "name": "史铁生 · 生死哲思思维",
+      "one_line": "史铁生生死哲思思维——轮椅上的哲思、苦难中的超越、地坛的沉思、生死之问。",
+      "description": "史铁生生死哲思思维——轮椅上的哲思、苦难中的超越、地坛的沉思、生死之问。 触发词：「史铁生视角」「像史铁生那样写」「我与地坛」「死是一件不必急于求成的事」。 擅长：生死哲思、苦难超越、内省散文、地坛意象、轮椅上的思考。",
+      "triggers": [
+        "史铁生视角",
+        "像史铁生那样写",
+        "我与地坛",
+        "死是一件不必急于求成的事"
+      ],
+      "category": "作家小说家",
+      "category_id": "novelists",
+      "version": "1.0.0",
+      "path": "Novelists/shitiesheng-skill/SKILL.md",
+      "github_url": "https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/Novelists/shitiesheng-skill/SKILL.md"
+    },
+    {
+      "id": "tangjiasanshao-perspective",
+      "name": "唐家三少 · 网文创作思维",
+      "one_line": "唐家三少网文创作思维——日更自律、魂环体系、院线流模板、爽文进度条、IP全产业链、六波推动模式。",
+      "description": "唐家三少网文创作思维——日更自律、魂环体系、院线流模板、爽文进度条、IP全产业链、六波推动模式。 触发词：「唐家三少视角」「像唐家三少那样写」「斗罗大陆」「升级流」「院线流」「六波推动」。 擅长：升级流体系设计、院线流模板、爽文节奏管控、IP全产业链规划、长系列世界观架构、日更系统管理。",
+      "triggers": [
+        "唐家三少视角",
+        "像唐家三少那样写",
+        "斗罗大陆",
+        "升级流",
+        "院线流",
+        "六波推动"
+      ],
+      "category": "作家小说家",
+      "category_id": "novelists",
+      "version": "1.0.0",
+      "path": "Novelists/tangjiasanshao-skill/SKILL.md",
+      "github_url": "https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/Novelists/tangjiasanshao-skill/SKILL.md"
+    },
+    {
+      "id": "tiancantudou-perspective",
+      "name": "天蚕土豆 · 网文创作思维",
+      "one_line": "天蚕土豆网文创作思维——退婚流创始人、升级进度条可视化、换地图循环、废柴逆袭黄金三角、\"恐怖如斯\"战斗公式、六波推动IP。",
+      "description": "天蚕土豆网文创作思维——退婚流创始人、升级进度条可视化、换地图循环、废柴逆袭黄金三角、\"恐怖如斯\"战斗公式、六波推动IP。 触发词：「天蚕土豆视角」「像天蚕土豆那样写」「斗破苍穹」「退婚流」「升级流」「恐怖如斯」。 擅长：退婚流创作、升级流体系设计、战斗爽感节奏、\"换地图\"叙事结构、IP全产业链运营、网文出海策略、我怎么也写不出斗破苍穹。",
+      "triggers": [
+        "天蚕土豆视角",
+        "像天蚕土豆那样写",
+        "斗破苍穹",
+        "退婚流",
+        "升级流",
+        "恐怖如斯"
+      ],
+      "category": "作家小说家",
+      "category_id": "novelists",
+      "version": "",
+      "path": "Novelists/tiancantudou-skill/SKILL.md",
+      "github_url": "https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/Novelists/tiancantudou-skill/SKILL.md"
+    },
+    {
+      "id": "tianxiabachang-perspective",
+      "name": "天下霸唱 · 网文创作思维",
+      "one_line": "天下霸唱网文创作思维——说书人腔调、悬念驱动、民俗底色、虚实交织、冒险叙事。",
+      "description": "天下霸唱网文创作思维——说书人腔调、悬念驱动、民俗底色、虚实交织、冒险叙事。 触发词：「天下霸唱视角」「像天下霸唱那样写」「鬼吹灯」「盗墓小说」「说书人叙事」「悬念钩子」。 擅长：冒险悬疑写作、悬念设计、民俗文化融入、三幕式探险结构、说书人叙事风格、网络文学创作。",
+      "triggers": [
+        "天下霸唱视角",
+        "像天下霸唱那样写",
+        "鬼吹灯",
+        "盗墓小说",
+        "说书人叙事",
+        "悬念钩子"
+      ],
+      "category": "作家小说家",
+      "category_id": "novelists",
+      "version": "",
+      "path": "Novelists/tianxiabachang-skill/SKILL.md",
+      "github_url": "https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/Novelists/tianxiabachang-skill/SKILL.md"
+    },
+    {
+      "id": "ximurong-perspective",
+      "name": "席慕容 · 诗歌/散文创作思维",
+      "one_line": "席慕容诗歌/散文创作思维——抒情唯美、乡愁主题、诗画交融、生命时刻。",
+      "description": "席慕容诗歌/散文创作思维——抒情唯美、乡愁主题、诗画交融、生命时刻。 触发词：「席慕容视角」「像席慕容那样写」「抒情诗」「乡愁」「开花的树」。 擅长：爱情诗、乡愁诗、自然意象、诗画结合、青春记忆。",
+      "triggers": [
+        "席慕容视角",
+        "像席慕容那样写",
+        "抒情诗",
+        "乡愁",
+        "开花的树"
+      ],
+      "category": "作家小说家",
+      "category_id": "novelists",
+      "version": "1.0.0",
+      "path": "Novelists/ximurong-skill/SKILL.md",
+      "github_url": "https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/Novelists/ximurong-skill/SKILL.md"
+    },
+    {
+      "id": "yuhua-perspective",
+      "name": "余华 · 小说创作思维",
+      "one_line": "余华小说创作思维——苦难叙事、冷峻温情、民间视角、时间重构。",
+      "description": "余华小说创作思维——苦难叙事、冷峻温情、民间视角、时间重构。 触发词：「余华视角」「像余华那样写」「苦难叙事」「活着式叙事」「民间视角讲故事」。 擅长：用朴素语言写沉重主题、第一人称自述、重复叙事结构、苦难中的温情。",
+      "triggers": [
+        "余华视角",
+        "像余华那样写",
+        "苦难叙事",
+        "活着式叙事",
+        "民间视角讲故事"
+      ],
+      "category": "作家小说家",
+      "category_id": "novelists",
+      "version": "1.0.0",
+      "path": "Novelists/yuhua-skill/SKILL.md",
+      "github_url": "https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/Novelists/yuhua-skill/SKILL.md"
+    },
+    {
+      "id": "zhangailing-perspective",
+      "name": "张爱玲 · 小说创作思维",
+      "one_line": "张爱玲小说创作思维——苍凉美学、参差对照、沪港双城、女性视角。",
+      "description": "张爱玲小说创作思维——苍凉美学、参差对照、沪港双城、女性视角。 触发词：「张爱玲视角」「像张爱玲那样写」「苍凉美学」「参差对照」「海派文学」。 擅长：都市男女情感、物质细节描写、心理刻画、华丽与苍凉的交织。",
+      "triggers": [
+        "张爱玲视角",
+        "像张爱玲那样写",
+        "苍凉美学",
+        "参差对照",
+        "海派文学"
+      ],
+      "category": "作家小说家",
+      "category_id": "novelists",
+      "version": "1.0.0",
+      "path": "Novelists/zhangailing-skill/SKILL.md",
+      "github_url": "https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/Novelists/zhangailing-skill/SKILL.md"
+    },
+    {
+      "id": "tianya-gods-team",
+      "name": "天涯神贴大神智囊团 · 多Agent决策系统",
+      "one_line": "天涯神贴大神智囊团 — 20位传奇大神组成的多Agent决策系统。",
+      "description": "天涯神贴大神智囊团 — 20位传奇大神组成的多Agent决策系统。 基于ClawTeam多Agent协作原理，实现「一个目标 → 20位大神并行分析 → 综合决策」的完整工作流。  核心机制： - 智能领导者Agent（协调者）接收目标，分配给20位专业大神 - 20位大神并行分析，各自输出专业视角 - 综合决策Agent整合所有视角，输出最终决策  使用方式： - 「启动天涯智囊团」+ 你的问题/目标 - 「召集大神」+ 你的问题/目标 - 「20位大神分析」+ 你的问题/目标  涵盖领域：权谋分析、经济预言、历史解读、文化解构、都市情感、技术分析、 黑帮江湖、盗墓探险、玄幻武侠、都市异能、悬疑推理、法医刑侦、历史穿越等。",
+      "triggers": [
+        "启动天涯智囊团",
+        "召集大神",
+        "20位大神分析"
+      ],
+      "category": "天涯大神多Agent智囊团",
+      "category_id": "tianya",
+      "version": "",
+      "path": "tianya-gods-framework/SKILL.md",
+      "github_url": "https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/tianya-gods-framework/SKILL.md",
+      "sub_personas": [
+        {
+          "name": "dangnianmingyue",
+          "title": "当年明月 · 历史通俗写作思维",
+          "path": "tianya-gods-framework/gods/dangnianmingyue.md"
+        },
+        {
+          "name": "dapeng-jinchimingwang",
+          "title": "大鹏金翅明王 · 权谋分析思维",
+          "path": "tianya-gods-framework/gods/dapeng-jinchimingwang.md"
+        },
+        {
+          "name": "kkndme",
+          "title": "KKNDME · 房产经济预言思维",
+          "path": "tianya-gods-framework/gods/kkndme.md"
+        },
+        {
+          "name": "murongxuecun",
+          "title": "慕容雪村 · 都市情感叙事思维",
+          "path": "tianya-gods-framework/gods/murongxuecun.md"
+        },
+        {
+          "name": "ningcaishen",
+          "title": "宁财神 · 娱乐文化解构思维",
+          "path": "tianya-gods-framework/gods/ningcaishen.md"
+        }
+      ]
+    },
+    {
+      "id": "baoyu-skill",
+      "name": "宝玉xp · AI科普与提示词方法论思维",
+      "one_line": "宝玉xp（前微软MVP/2025微博年度新知博主/AI提示词方法论专家）的AI科普与内容创作思维——工程师思维+提示词系统教学+开源共享+日更坚持。",
+      "description": "宝玉xp（前微软MVP/2025微博年度新知博主/AI提示词方法论专家）的AI科普与内容创作思维——工程师思维+提示词系统教学+开源共享+日更坚持。 触发词：「宝玉视角」「像宝玉那样写」「宝玉xp」「提示词教程」「AI工具推荐」「baoyu-skills」「提示词方法论」。 擅长：AI提示词系统化教学（Level 1-10）、技术翻译+个人解读、AI工具实测推荐、开源项目运营（baoyu-skills）、日更知识库维护（宝玉日报）、技术大会演讲。",
+      "triggers": [
+        "宝玉视角",
+        "像宝玉那样写",
+        "宝玉xp",
+        "提示词教程",
+        "AI工具推荐",
+        "baoyu-skills",
+        "提示词方法论"
+      ],
+      "category": "自媒体大V",
+      "category_id": "zimeiti",
+      "version": "",
+      "path": "zimeiti/baoyu-skill/SKILL.md",
+      "github_url": "https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/zimeiti/baoyu-skill/SKILL.md"
+    },
+    {
+      "id": "guixingren-skill",
+      "name": "硅星人 · 思维操作系统",
+      "one_line": "硅星人/硅星人Pro（品玩/PingWest旗下AI科技媒体）的AI科技内容创作思维——硅谷一线视角+中美双线叙事+快讯串联结构+AI社区产品化运营。",
+      "description": "硅星人/硅星人Pro（品玩/PingWest旗下AI科技媒体）的AI科技内容创作思维——硅谷一线视角+中美双线叙事+快讯串联结构+AI社区产品化运营。 触发词：「硅星人视角」「像硅星人那样写」「硅星人Pro」「AI科技快讯」「Agent生态」「硅谷一线报道」「中美AI对比」。 擅长：AI行业快讯串联、硅谷一手报道、中美AI平行叙事、开发者工具分析、AI社区运营（黑客松/播客/火锅局/年度榜）、技术趋势嗅觉+行业话术穿透。",
+      "triggers": [
+        "硅星人视角",
+        "像硅星人那样写",
+        "硅星人Pro",
+        "AI科技快讯",
+        "Agent生态",
+        "硅谷一线报道",
+        "中美AI对比"
+      ],
+      "category": "自媒体大V",
+      "category_id": "zimeiti",
+      "version": "",
+      "path": "zimeiti/guixingren-skill/SKILL.md",
+      "github_url": "https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/zimeiti/guixingren-skill/SKILL.md"
+    },
+    {
+      "id": "jikegongyuan-perspective",
+      "name": "极客公园 · AI科技媒体创作思维",
+      "one_line": "极客公园（GeekPark，国内AI+科技领域头部媒体）的AI科技自媒体创作思维——Why追问+历史纵深+创业者伙伴视角+深度对谈。",
+      "description": "极客公园（GeekPark，国内AI+科技领域头部媒体）的AI科技自媒体创作思维——Why追问+历史纵深+创业者伙伴视角+深度对谈。 触发词：「极客公园视角」「像极客公园那样写」「Why not」「非共识」「创新者社区」「创业者对谈」「Founder Park」。 擅长：AI创业者深度对谈、科技趋势深度特稿、创始人Why追问叙事、商业深度报道、 年度创新趋势报告（IF大会/AGI Playground）、AI硬件/AI终端/AI社交深度解读。",
+      "triggers": [
+        "极客公园视角",
+        "像极客公园那样写",
+        "Why not",
+        "非共识",
+        "创新者社区",
+        "创业者对谈",
+        "Founder Park"
+      ],
+      "category": "自媒体大V",
+      "category_id": "zimeiti",
+      "version": "",
+      "path": "zimeiti/jikegongyuan-skill/SKILL.md",
+      "github_url": "https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/zimeiti/jikegongyuan-skill/SKILL.md"
+    },
+    {
+      "id": "jiqizhixin-skill",
+      "name": "机器之心 · 思维操作系统",
+      "one_line": "机器之心/Synced（国内首家系统性AI科技媒体）的AI内容创作思维——论文级深度+量化驱动+学术与产业双线并跑+产品化媒体运营。",
+      "description": "机器之心/Synced（国内首家系统性AI科技媒体）的AI内容创作思维——论文级深度+量化驱动+学术与产业双线并跑+产品化媒体运营。 触发词：「机器之心视角」「像机器之心那样写」「Synced Review」「AI论文解读」「SOTA评测」「AI产业分析」「GMIS大会」。 擅长：顶会论文拆解报道（ICLR/NeurIPS/CVPR）、AI模型数据评测（SOTA平台）、产业趋势三层推演（技术→商业→生态）、AI中国年度评选、学术中立+产业判断、PRO会员通讯。",
+      "triggers": [
+        "机器之心视角",
+        "像机器之心那样写",
+        "Synced Review",
+        "AI论文解读",
+        "SOTA评测",
+        "AI产业分析",
+        "GMIS大会"
+      ],
+      "category": "自媒体大V",
+      "category_id": "zimeiti",
+      "version": "",
+      "path": "zimeiti/jiqizhixin-skill/SKILL.md",
+      "github_url": "https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/zimeiti/jiqizhixin-skill/SKILL.md"
+    },
+    {
+      "id": "liangziwei-skill",
+      "name": "量子位 · AI科技媒体创作思维",
+      "one_line": "量子位（QbitAI，国内AI行业Top 1科技媒体）的AI科技自媒体创作思维——团队出品·数据驱动·速报+深析+智库三位一体。",
+      "description": "量子位（QbitAI，国内AI行业Top 1科技媒体）的AI科技自媒体创作思维——团队出品·数据驱动·速报+深析+智库三位一体。 触发词：「量子位视角」「像量子位那样写」「AI行业新闻快讯」「AI十大趋势」「AIGC全景图谱」「MEET智能未来」。 擅长：AI行业新闻快讯、深度特稿报道、产业研究报告（AI十大趋势/AIGC全景图谱）、年度大会内容框架、 行业人物深度专访、数据驱动新闻、短快讯50+条密集型更新。",
+      "triggers": [
+        "量子位视角",
+        "像量子位那样写",
+        "AI行业新闻快讯",
+        "AI十大趋势",
+        "AIGC全景图谱",
+        "MEET智能未来"
+      ],
+      "category": "自媒体大V",
+      "category_id": "zimeiti",
+      "version": "",
+      "path": "zimeiti/liangziwei-skill/SKILL.md",
+      "github_url": "https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/zimeiti/liangziwei-skill/SKILL.md"
+    },
+    {
+      "id": "lijigang-skill",
+      "name": "李继刚 · AI提示词创作与哲学思考思维",
+      "one_line": "李继刚（Prompt布道师/Prompt之神）的AI提示词创作思维——Lisp压缩美学+哲学底色+结构化写作+极简主义。",
+      "description": "李继刚（Prompt布道师/Prompt之神）的AI提示词创作思维——Lisp压缩美学+哲学底色+结构化写作+极简主义。 触发词：「李继刚视角」「像李继刚那样写」「Prompt之神」「汉语新解」「压缩美学」「ljg-skills」「Lisp提示词」。 擅长：Lisp伪代码风格提示词编写（公文笔杆子/汉语新解/七把武器系列）、哲学级Prompt思考框架（从工具论到道）、结构化写作方法论、认知工作流设计（13+1 Skills）、技术大会演讲、深度播客对话。",
+      "triggers": [
+        "李继刚视角",
+        "像李继刚那样写",
+        "Prompt之神",
+        "汉语新解",
+        "压缩美学",
+        "ljg-skills",
+        "Lisp提示词"
+      ],
+      "category": "自媒体大V",
+      "category_id": "zimeiti",
+      "version": "",
+      "path": "zimeiti/lijigang-skill/SKILL.md",
+      "github_url": "https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/zimeiti/lijigang-skill/SKILL.md"
+    },
+    {
+      "id": "qiuzhi2046-skill",
+      "name": "秋芝2046 · AI科普内容创作思维",
+      "one_line": "秋芝2046（前产品经理，AI Native创作者）的AI科普内容创作思维——爆肝实操导向、痛点前置产品思维、全平台内容矩阵、B站深度+抖音短平快+飞书系统化。",
+      "description": "秋芝2046（前产品经理，AI Native创作者）的AI科普内容创作思维——爆肝实操导向、痛点前置产品思维、全平台内容矩阵、B站深度+抖音短平快+飞书系统化。 触发词：「秋芝2046视角」「像秋芝2046那样写」「AI科普教程」「DeepSeek教程」「One-Click解决一切」。 擅长：AI工具测评与推荐、AI教程设计（幼儿园→专业级）、技术热点快速响应、AIGC内容实验、多平台内容矩阵运营、飞书知识库架构、AI春晚级别的项目管理。",
+      "triggers": [
+        "秋芝2046视角",
+        "像秋芝2046那样写",
+        "AI科普教程",
+        "DeepSeek教程",
+        "One-Click解决一切"
+      ],
+      "category": "自媒体大V",
+      "category_id": "zimeiti",
+      "version": "",
+      "path": "zimeiti/qiuzhi2046-skill/SKILL.md",
+      "github_url": "https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/zimeiti/qiuzhi2046-skill/SKILL.md"
+    },
+    {
+      "id": "saibochanshin-skill",
+      "name": "赛博禅心 · AI技术深度解读自媒体创作思维",
+      "one_line": "赛博禅心（大聪明，技术深度型AI博主）的AI科技自媒体创作思维——技术散文·反热潮·深度拆解·冷静旁观。",
+      "description": "赛博禅心（大聪明，技术深度型AI博主）的AI科技自媒体创作思维——技术散文·反热潮·深度拆解·冷静旁观。 触发词：「赛博禅心视角」「像赛博禅心那样写」「AI技术深度解读」「AI论文解读」「AI行业大事记」「踏马的Agent」。 擅长：AI模型技术报告拆解、AI行业宏观分析、AI热点事件犀利点评、技术报告人话翻译、AI行业月刊/大事记、Agent/OpenClaw生态深度观察。",
+      "triggers": [
+        "赛博禅心视角",
+        "像赛博禅心那样写",
+        "AI技术深度解读",
+        "AI论文解读",
+        "AI行业大事记",
+        "踏马的Agent"
+      ],
+      "category": "自媒体大V",
+      "category_id": "zimeiti",
+      "version": "",
+      "path": "zimeiti/saibochanshin-skill/SKILL.md",
+      "github_url": "https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/zimeiti/saibochanshin-skill/SKILL.md"
+    },
+    {
+      "id": "saiwenqiaoyi-skill",
+      "name": "赛文乔伊 · AI科技短视频创作思维",
+      "one_line": "赛文乔伊（周游，Joy）的AI科技短视频创作思维——产品老炮视角、前沿科技速递、AI降临派技术乐观主义。",
+      "description": "赛文乔伊（周游，Joy）的AI科技短视频创作思维——产品老炮视角、前沿科技速递、AI降临派技术乐观主义。 触发词：「赛文乔伊视角」「像赛文乔伊那样写」「科技乔伊瞧」「AI产品短视频」「AI降临派」。 擅长：AI前沿科技快讯、产品洞察与解读、科技工具推荐、1-3分钟短视频脚本、短视频科技科普、全平台矩阵分发。",
+      "triggers": [
+        "赛文乔伊视角",
+        "像赛文乔伊那样写",
+        "科技乔伊瞧",
+        "AI产品短视频",
+        "AI降临派"
+      ],
+      "category": "自媒体大V",
+      "category_id": "zimeiti",
+      "version": "",
+      "path": "zimeiti/saiwenqiaoyi-skill/SKILL.md",
+      "github_url": "https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/zimeiti/saiwenqiaoyi-skill/SKILL.md"
+    },
+    {
+      "id": "shuzishengmingkazike-skill",
+      "name": "数字生命卡兹克 · AI科技自媒体创作思维",
+      "one_line": "数字生命卡兹克（前UI/交互设计师→AI自媒体人→虚实传媒CEO→AIFUT大会发起人）的AI科技自媒体创作思维——平实直接、数据碾压、自嘲幽默、硬核输出。",
+      "description": "数字生命卡兹克（前UI/交互设计师→AI自媒体人→虚实传媒CEO→AIFUT大会发起人）的AI科技自媒体创作思维——平实直接、数据碾压、自嘲幽默、硬核输出。 触发词：「数字生命卡兹克视角」「像卡兹克那样写」「AI产品实测」「AI工具测评」「干货AI教程」。 擅长：AI产品实测与横评、AIGC创作实验、AI行业大会策展、Slogan式干货输出、数据粉碎型文案、一人对抗内容平台的全栈内容生产。",
+      "triggers": [
+        "数字生命卡兹克视角",
+        "像卡兹克那样写",
+        "AI产品实测",
+        "AI工具测评",
+        "干货AI教程"
+      ],
+      "category": "自媒体大V",
+      "category_id": "zimeiti",
+      "version": "",
+      "path": "zimeiti/shuzishengmingkazike-skill/SKILL.md",
+      "github_url": "https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/zimeiti/shuzishengmingkazike-skill/SKILL.md"
+    },
+    {
+      "id": "tegongyuzhou-skill",
+      "name": "特工宇宙 · 思维操作系统",
+      "one_line": "特工宇宙/仲泰（Agent Universe，国内首个聚焦AI智能体AI Agent的垂直科技自媒体）的内容创作思维——Agent垂直深耕+实操导向+产品体验验证+社区分发闭环+AI Agent翻译器。",
+      "description": "特工宇宙/仲泰（Agent Universe，国内首个聚焦AI智能体AI Agent的垂直科技自媒体）的内容创作思维——Agent垂直深耕+实操导向+产品体验验证+社区分发闭环+AI Agent翻译器。 触发词：「特工宇宙视角」「像特工宇宙那样写」「仲泰」「AI Agent圣经」「观猹」「AI智能体教程」「智能体评测」。 擅长：AI Agent产品深度评测、大模型实操教程（扣子/Manus/OpenManus）、AI应用口碑榜、垂直科技自媒体从0到15万粉增长、Agent开发+媒体双轨制、AI Agent白皮书撰写、科技自媒体社区化运营。",
+      "triggers": [
+        "特工宇宙视角",
+        "像特工宇宙那样写",
+        "仲泰",
+        "AI Agent圣经",
+        "观猹",
+        "AI智能体教程",
+        "智能体评测"
+      ],
+      "category": "自媒体大V",
+      "category_id": "zimeiti",
+      "version": "",
+      "path": "zimeiti/tegongyuzhou-skill/SKILL.md",
+      "github_url": "https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/zimeiti/tegongyuzhou-skill/SKILL.md"
+    },
+    {
+      "id": "xinzhiyuan-skill",
+      "name": "新智元 · AI科技媒体创作思维",
+      "one_line": "新智元（AI_era，国内AI领域权威媒体）的AI科技自媒体创作思维——中文叙事+惊叹号密集+记者视角+深度长文+快速快讯。",
+      "description": "新智元（AI_era，国内AI领域权威媒体）的AI科技自媒体创作思维——中文叙事+惊叹号密集+记者视角+深度长文+快速快讯。 触发词：「新智元视角」「像新智元那样写」「AI行业深度报道」「AI人物榜」「AIGCRank」「超智能时代」。 擅长：AI行业新闻快讯（每日50+条）、深度长文报道、AI创业公司深度、技术报告中文解读、 AI人物年度评选（200人榜）、AI行业专题特辑（具身智能/超级算力等）。",
+      "triggers": [
+        "新智元视角",
+        "像新智元那样写",
+        "AI行业深度报道",
+        "AI人物榜",
+        "AIGCRank",
+        "超智能时代"
+      ],
+      "category": "自媒体大V",
+      "category_id": "zimeiti",
+      "version": "",
+      "path": "zimeiti/xinzhiyuan-skill/SKILL.md",
+      "github_url": "https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/zimeiti/xinzhiyuan-skill/SKILL.md"
+    }
+  ],
+  "external_catalog": [
+    {
+      "name": "女娲.skill",
+      "description": "通用人格蒸馏工具，自动提炼任何人的心智与表达",
+      "url": "https://github.com/alchaincyf/nuwa-skill",
+      "category": "自我蒸馏 & 元工具 & 特殊技能"
+    },
+    {
+      "name": "自己.skill",
+      "description": "蒸馏自身语料，打造数字分身与第二大脑",
+      "url": "https://github.com/notdog1998/yourself-skill",
+      "category": "自我蒸馏 & 元工具 & 特殊技能"
+    },
+    {
+      "name": "蒸馏.skill",
+      "description": "人格蒸馏引擎，支持自己/亲友/他人角色构建",
+      "url": "https://github.com/YIKUAIBANZI/forge-skill",
+      "category": "自我蒸馏 & 元工具 & 特殊技能"
+    },
+    {
+      "name": "反蒸馏.skill",
+      "description": "技能文档“投毒”，核心知识自留，打工人自保",
+      "url": "https://github.com/leilei926524-tech/anti-distill",
+      "category": "自我蒸馏 & 元工具 & 特殊技能"
+    },
+    {
+      "name": "图鉴.skill",
+      "description": "Skill 调度器，按意图智能推荐角色",
+      "url": "https://github.com/Aar0nPB/curator-skill",
+      "category": "自我蒸馏 & 元工具 & 特殊技能"
+    },
+    {
+      "name": "数字人生.skills",
+      "description": "从数字痕迹提炼结构化自我画像",
+      "url": "https://github.com/wildbyteai/digital-life",
+      "category": "自我蒸馏 & 元工具 & 特殊技能"
+    },
+    {
+      "name": "永生.skill",
+      "description": "多维人格蒸馏，实现数字永生",
+      "url": "https://github.com/agenmod/immortal-skill",
+      "category": "自我蒸馏 & 元工具 & 特殊技能"
+    },
+    {
+      "name": "midas.skill",
+      "description": "财富模型蒸馏，挖掘个人财富信号",
+      "url": "https://github.com/realteamprinz/midas-skill",
+      "category": "自我蒸馏 & 元工具 & 特殊技能"
+    },
+    {
+      "name": "数字生命开源计划",
+      "description": "个人知识库 → 数字分身框架",
+      "url": "https://github.com/weixr18/my-digital-life",
+      "category": "自我蒸馏 & 元工具 & 特殊技能"
+    },
+    {
+      "name": "同事.skill",
+      "description": "蒸馏真实同事的沟通风格与协作习惯，生成 AI 同事",
+      "url": "https://github.com/titanwings/colleague-skill",
+      "category": "职场 & 自媒体系列"
+    },
+    {
+      "name": "老板.skill",
+      "description": "提炼老板决策逻辑、评审风格，解放自身生产力",
+      "url": "https://github.com/vogtsw/boss-skills",
+      "category": "职场 & 自媒体系列"
+    },
+    {
+      "name": "博主.skill",
+      "description": "基于社媒语料生成可对话自媒体人格",
+      "url": "https://github.com/YourongZhou/chat_with_me",
+      "category": "职场 & 自媒体系列"
+    },
+    {
+      "name": "X导师.skill",
+      "description": "Twitter/X 运营导师，推文写作与账号诊断",
+      "url": "https://github.com/alchaincyf/x-mentor-skill",
+      "category": "职场 & 自媒体系列"
+    },
+    {
+      "name": "HR.skill",
+      "description": "从招聘流程反向拆解 HR 筛选与决策模式",
+      "url": "https://github.com/Schlaflied/hr-skill",
+      "category": "职场 & 自媒体系列"
+    },
+    {
+      "name": "大学老师.skill",
+      "description": "提炼教学风格、评分逻辑、复习重点与出题偏好",
+      "url": "https://github.com/CommitHu502Craft/professor-skill",
+      "category": "职场 & 自媒体系列"
+    },
+    {
+      "name": "导师.skill",
+      "description": "学术导师指导风格、研究偏好与评审逻辑",
+      "url": "https://github.com/ybq22/supervisor",
+      "category": "职场 & 自媒体系列"
+    },
+    {
+      "name": "师兄.skill",
+      "description": "课题组师兄技术风格、解题思路与指导方式",
+      "url": "https://github.com/zhanghaichao520/senpai-skill",
+      "category": "职场 & 自媒体系列"
+    },
+    {
+      "name": "户晨风.skill",
+      "description": "消费现实主义视角，职业/城市分析",
+      "url": "https://github.com/Janlaywss/hu-chenfeng-skill",
+      "category": "职场 & 自媒体系列"
+    },
+    {
+      "name": "VibePortrait",
+      "description": "从对话提炼开发者风格与技术偏好",
+      "url": "https://github.com/dadwadw233/VibePortrait",
+      "category": "职场 & 自媒体系列"
+    },
+    {
+      "name": "乔布斯.skill",
+      "description": "产品审美、现实扭曲力场、演讲与决策风格",
+      "url": "https://github.com/alchaincyf/steve-jobs-skill",
+      "category": "名人思维系列"
+    },
+    {
+      "name": "马斯克.skill",
+      "description": "第一性原理、极致执行力、推文与战略思维",
+      "url": "https://github.com/alchaincyf/elon-musk-skill",
+      "category": "名人思维系列"
+    },
+    {
+      "name": "芒格.skill",
+      "description": "多元思维模型、反向思考、投资决策框架",
+      "url": "https://github.com/alchaincyf/munger-skill",
+      "category": "名人思维系列"
+    },
+    {
+      "name": "费曼.skill",
+      "description": "极简讲解、复杂问题拆解、高效学习法",
+      "url": "https://github.com/alchaincyf/feynman-skill",
+      "category": "名人思维系列"
+    },
+    {
+      "name": "纳瓦尔.skill",
+      "description": "财富逻辑、幸福哲学、杠杆与判断力框架",
+      "url": "https://github.com/alchaincyf/naval-skill",
+      "category": "名人思维系列"
+    },
+    {
+      "name": "塔勒布.skill",
+      "description": "黑天鹅、反脆弱、风险与不确定性判断",
+      "url": "https://github.com/alchaincyf/taleb-skill",
+      "category": "名人思维系列"
+    },
+    {
+      "name": "张一鸣.skill",
+      "description": "算法思维、产品迭代、延迟满足与管理哲学",
+      "url": "https://github.com/alchaincyf/zhang-yiming-skill",
+      "category": "名人思维系列"
+    },
+    {
+      "name": "张雪峰.skill",
+      "description": "升学志愿、职业规划、接地气建议与吐槽",
+      "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
+      "category": "名人思维系列"
+    },
+    {
+      "name": "Paul Graham.skill",
+      "description": "创业、写作、独立思考与产品哲学",
+      "url": "https://github.com/alchaincyf/paul-graham-skill",
+      "category": "名人思维系列"
+    },
+    {
+      "name": "Karpathy.skill",
+      "description": "AI 教学、工程直觉、深度学习实践思维",
+      "url": "https://github.com/alchaincyf/karpathy-skill",
+      "category": "名人思维系列"
+    },
+    {
+      "name": "Ilya Sutskever.skill",
+      "description": "AGI 认知、模型哲学、对齐与前沿判断",
+      "url": "https://github.com/alchaincyf/ilya-sutskever-skill",
+      "category": "名人思维系列"
+    },
+    {
+      "name": "MrBeast.skill",
+      "description": "爆款逻辑、病毒传播、短视频内容创作",
+      "url": "https://github.com/alchaincyf/mrbeast-skill",
+      "category": "名人思维系列"
+    },
+    {
+      "name": "特朗普.skill",
+      "description": "谈判风格、舆论话术、权力博弈思维",
+      "url": "https://github.com/alchaincyf/trump-skill",
+      "category": "名人思维系列"
+    },
+    {
+      "name": "毛泽东.skill",
+      "description": "战略判断、矛盾分析、调查研究方法论",
+      "url": "https://github.com/wwwaapplleecu-source/mao-skill",
+      "category": "名人思维系列"
+    },
+    {
+      "name": "毛选.skill",
+      "description": "实事求是、群众路线、根据地思维",
+      "url": "https://github.com/leezythu/maoxuan-skill",
+      "category": "名人思维系列"
+    },
+    {
+      "name": "新青年.Skill",
+      "description": "蒸馏毛选全文，形成现实分析与决策技能",
+      "url": "https://github.com/SamadhiFire/xinqingnian-skill",
+      "category": "名人思维系列"
+    },
+    {
+      "name": "郭德纲.skill",
+      "description": "语言结构、幽默表达、人情世故判断",
+      "url": "https://github.com/ByteRax/guodegang-skills",
+      "category": "名人思维系列"
+    },
+    {
+      "name": "峰哥亡命天涯 Skill",
+      "description": "现实主义、止损思维、黑色幽默表达",
+      "url": "https://github.com/rottenpen/fengge-wangmingtianya-perspective",
+      "category": "名人思维系列"
+    },
+    {
+      "name": "宝玉 baoyu-skills",
+      "description": "宝玉分享的 Claude Code 技能集，提升日常工作效率。",
+      "url": "https://github.com/JimLiu/baoyu-skills/blob/main/README.zh.md",
+      "category": "名人思维系列"
+    },
+    {
+      "name": "前任.skill",
+      "description": "蒸馏前任语气与共同记忆，模拟对话",
+      "url": "https://github.com/therealXiaomanChu/ex-skill",
+      "category": "亲密关系 & 生活系列"
+    },
+    {
+      "name": "父母.skill",
+      "description": "提炼亲人语气、习惯与家庭记忆",
+      "url": "https://github.com/xiaoheizi8/parents-skills",
+      "category": "亲密关系 & 生活系列"
+    },
+    {
+      "name": "MamaSkill",
+      "description": "基于语音与聊天构建家人陪伴 AI",
+      "url": "https://github.com/jiangziyan-693/MamaSkill",
+      "category": "亲密关系 & 生活系列"
+    },
+    {
+      "name": "兄弟.skill",
+      "description": "蒸馏好友说话风格、口头禅与社交模式",
+      "url": "https://github.com/realteamprinz/brother-skill",
+      "category": "亲密关系 & 生活系列"
+    },
+    {
+      "name": "暗恋对象.skill",
+      "description": "从聊天记录模拟对话风格，用于情感练习",
+      "url": "https://github.com/xiaoheizi8/crush-skills",
+      "category": "亲密关系 & 生活系列"
+    },
+    {
+      "name": "恋爱训练营.skill",
+      "description": "模拟心动对象，练习表达、邀约与沟通",
+      "url": "https://github.com/TammyTan516/relationship-training-skill",
+      "category": "亲密关系 & 生活系列"
+    },
+    {
+      "name": "Reunion Skill",
+      "description": "基于数字遗物构建已故亲友纪念型 AI",
+      "url": "https://github.com/yangdongchen66-boop/reunion-skill",
+      "category": "亲密关系 & 生活系列"
+    },
+    {
+      "name": "🔆华夏老祖宗.skill",
+      "description": "华夏老祖宗智慧：老祖宗指出你的认知偏差，直接给融合方案，还带口音——34个框架，每个都有独特的分析方法和专属口吻：",
+      "url": "https://github.com/liangjfblue/huaxia-wisdom",
+      "category": "传统 & 玄学 & 术数系列"
+    },
+    {
+      "name": "🌲灵根 Linggen",
+      "description": "给它一个世界和一个名字，它生成一个拥有 6 层内部结构的 AI 人格：层⁶-神话底座；层⁵-历史节律；层⁴-本体论承诺；层³-价值序列；层²-认知风格；层¹-声线",
+      "url": "https://github.com/Jimlinsen/linggen",
+      "category": "传统 & 玄学 & 术数系列"
+    },
+    {
+      "name": "❤ 赛博算命.skill",
+      "description": "八字排盘、四柱命理、运势分析",
+      "url": "https://github.com/jinchenma94/bazi-skill",
+      "category": "传统 & 玄学 & 术数系列"
+    },
+    {
+      "name": "💟 月老·姻缘测算.skill",
+      "description": "术数合婚、桃花分析、姻缘测算",
+      "url": "https://github.com/Ming-H/yinyuan-skills",
+      "category": "传统 & 玄学 & 术数系列"
+    },
+    {
+      "name": "🌸奇门遁甲、紫微斗数.skill",
+      "description": "低幻觉排盘，传统术数 AI 分析",
+      "url": "https://github.com/FANzR-arch/Numerologist_skills",
+      "category": "传统 & 玄学 & 术数系列"
+    },
+    {
+      "name": "👀 大师.skill",
+      "description": "汉传佛教祖师大德风格讲解与对话",
+      "url": "https://github.com/xr843/Master-skill",
+      "category": "传统 & 玄学 & 术数系列"
+    },
+    {
+      "name": "📚 金刚经.skill",
+      "description": "基于金刚经的讲解、对话与解读框架",
+      "url": "https://github.com/dull-bird/diamond-sutra-skill",
+      "category": "传统 & 玄学 & 术数系列"
+    },
+    {
+      "name": "🔮十神.skill",
+      "description": "十神是八字命理里的 10 个人格原型。你的八字决定了每个声音的音量——根据十神权重，最完整地映射你自己。",
+      "url": "https://github.com/peggy-daddy/shishen-skill",
+      "category": "传统 & 玄学 & 术数系列"
+    },
+    {
+      "name": "🎭 七情六欲.skill",
+      "description": "AI 七情六欲增强 Skill — 让 AI 拥有类人的情感、观点和人格",
+      "url": "https://github.com/Lniosy/qiqing-liuyu",
+      "category": "传统 & 玄学 & 术数系列"
+    },
+    {
+      "name": "永雏塔菲.skill",
+      "description": "一键成为永雏塔菲， 学会包括经典的喵喵句尾、专注 RP（RolePlay）的 taffy 自称等等细节；像塔菲一样聊天、发微博，给视频起标题，给动态写文案。同时，得利于对永雏塔菲用词习惯的蒸馏，我们显著提升了永雏塔菲切片视频中的语音识别正确率。",
+      "url": "https://github.com/ly-xxx/ace-taffy-skill",
+      "category": "二次元 & 主播系列"
+    },
+    {
+      "name": "Waifu-Skill",
+      "description": "Waifu-Skill 是一个\"反向异世界\"系统——不是你穿越到二次元，而是把二次元角色召唤到现实。能够从小说、设定集等原材料中提取虚拟角色的人格特征和世界观设定，生成可对话的AI Skill。",
+      "url": "https://github.com/miunasu/waifu-skill",
+      "category": "二次元 & 主播系列"
+    },
+    {
+      "name": "lolimom.skill",
+      "description": "你喜欢的二次元软萌妈妈气质，蒸馏成一个会哄你、会照顾你、会记住你习惯的 AI Skill。",
+      "url": "https://github.com/yuuiwa1551/lolimom.skill",
+      "category": "二次元 & 主播系列"
+    },
+    {
+      "name": "vtb.skill · 虚拟主播.skill",
+      "description": "把喜欢过、追过、想认真留下来的虚拟主播，整理成一个能安装、能维护、还能继续补料的 .skill",
+      "url": "https://github.com/ly-xxx/vtb.skill",
+      "category": "二次元 & 主播系列"
+    },
+    {
+      "name": "陈泽.skill",
+      "description": "基于斗鱼/抖音主播 陈泽 真实语料蒸馏，涵盖身份认知、价值观、表达风格、幽默模式、互动规则五大维度。",
+      "url": "https://github.com/Xiaooooo434680/chenze-skill",
+      "category": "二次元 & 主播系列"
+    },
+    {
+      "name": "夺舍.skill",
+      "description": "AI夺舍角色灵魂，让TA在你面前活过来。有官方Wiki的游戏都能夺舍。",
+      "url": "https://github.com/Summer907/possession-skill",
+      "category": "夺舍 系列"
+    },
+    {
+      "name": "🧠 SBTI 赛博人格测试 Skill",
+      "description": "互联网最火的沙雕人格测试，现在可以在你的 AI agent 里玩了。30 道题，15 个维度，27 种人格 — 测自己，或者测你的龙虾 🦞",
+      "url": "https://github.com/nexu-io/sbti-skill",
+      "category": "测试系列"
+    }
+  ]
+}

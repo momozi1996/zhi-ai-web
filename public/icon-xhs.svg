@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <!-- Xiaohongshu icon: red rounded square with white simplified 'shu' mark -->
+  <rect x="1" y="1" width="22" height="22" rx="5" ry="5" fill="#FF2442"/>
+  <!-- simplified white '书' strokes -->
+  <rect x="11" y="4" width="2.4" height="15" fill="#FFFFFF"/>
+  <rect x="6" y="7" width="10" height="2.4" fill="#FFFFFF"/>
+  <rect x="6" y="12" width="8" height="2.4" fill="#FFFFFF"/>
+  <rect x="6" y="7" width="2.4" height="7.4" fill="#FFFFFF"/>
+  <rect x="15" y="14" width="2.4" height="3" fill="#FFFFFF"/>
+  <rect x="14" y="5" width="2.6" height="2.6" fill="#FFFFFF"/>
+</svg>

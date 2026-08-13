@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+  <!-- 8-bit stepped left arrow -->
+  <rect x="6" y="2" width="2" height="2" fill="#0B0B0F"/>
+  <rect x="4" y="4" width="2" height="2" fill="#0B0B0F"/>
+  <rect x="2" y="6" width="2" height="4" fill="#0B0B0F"/>
+  <rect x="4" y="6" width="10" height="4" fill="#0B0B0F"/>
+  <rect x="4" y="10" width="2" height="2" fill="#0B0B0F"/>
+  <rect x="6" y="12" width="2" height="2" fill="#0B0B0F"/>
+</svg>

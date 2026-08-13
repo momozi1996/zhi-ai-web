@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 28" width="28" height="28">
+  <!-- 8-bit robot head logo: blue face, black outline, yellow antenna -->
+  <!-- antenna -->
+  <rect x="13" y="1" width="2" height="3" fill="#0B0B0F"/>
+  <rect x="12" y="0" width="4" height="2" fill="#FFC53D"/>
+  <!-- head outline -->
+  <rect x="4" y="4" width="20" height="20" fill="#0B0B0F"/>
+  <!-- face -->
+  <rect x="6" y="6" width="16" height="16" fill="#1E5EFF"/>
+  <!-- eyes (white) -->
+  <rect x="9" y="10" width="4" height="4" fill="#FFFFFF"/>
+  <rect x="16" y="10" width="4" height="4" fill="#FFFFFF"/>
+  <!-- pupils (ink) -->
+  <rect x="11" y="12" width="2" height="2" fill="#0B0B0F"/>
+  <rect x="16" y="12" width="2" height="2" fill="#0B0B0F"/>
+  <!-- mouth (yellow) -->
+  <rect x="10" y="17" width="8" height="2" fill="#FFC53D"/>
+  <!-- ear blocks -->
+  <rect x="2" y="10" width="2" height="6" fill="#0B0B0F"/>
+  <rect x="24" y="10" width="2" height="6" fill="#0B0B0F"/>
+  <!-- chin pixel -->
+  <rect x="12" y="24" width="4" height="2" fill="#0B0B0F"/>
+</svg>
