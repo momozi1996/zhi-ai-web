@@ -1,0 +1,3091 @@
+{
+  "sha": "ddb35e538b3b9e817e39f0ce0a9129b5c0a8f0c8",
+  "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/ddb35e538b3b9e817e39f0ce0a9129b5c0a8f0c8",
+  "tree": [
+    {
+      "path": "1.480p.mov",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5796cdd5148a18bd22564e2ae1b6d2fe7f2951ff",
+      "size": 7055031,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/5796cdd5148a18bd22564e2ae1b6d2fe7f2951ff"
+    },
+    {
+      "path": "DirectorAgents-1",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "12c91a9b5db6f95ab6d3ffcb96997ccb7b3f99fe",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/12c91a9b5db6f95ab6d3ffcb96997ccb7b3f99fe"
+    },
+    {
+      "path": "DirectorAgents-1/CHANGELOG.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "013131b588581eeb9ca190a66b774f2af5f5f672",
+      "size": 2436,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/013131b588581eeb9ca190a66b774f2af5f5f672"
+    },
+    {
+      "path": "DirectorAgents-1/GITHUB_PUBLISH.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7ceba896157da2a089a31d978e7c00071492860a",
+      "size": 3150,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/7ceba896157da2a089a31d978e7c00071492860a"
+    },
+    {
+      "path": "DirectorAgents-1/LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "336c78e461825d1b49554f0f0b72bdc7e6ce73d0",
+      "size": 1101,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/336c78e461825d1b49554f0f0b72bdc7e6ce73d0"
+    },
+    {
+      "path": "DirectorAgents-1/PROJECT_CHECKLIST.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dcb79faef30b42fadc65f92d3cc6723238600808",
+      "size": 3204,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/dcb79faef30b42fadc65f92d3cc6723238600808"
+    },
+    {
+      "path": "DirectorAgents-1/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d2ec11527802121cd3b386b7886f67055b8cd6df",
+      "size": 15328,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/d2ec11527802121cd3b386b7886f67055b8cd6df"
+    },
+    {
+      "path": "DirectorAgents-1/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0db673145ad23bddc06d013ee41c613c67aa67f5",
+      "size": 14314,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/0db673145ad23bddc06d013ee41c613c67aa67f5"
+    },
+    {
+      "path": "DirectorAgents-1/directors",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f1d84c4e3ea7dc8edbfc07fb03f9768b1d337af3",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/f1d84c4e3ea7dc8edbfc07fb03f9768b1d337af3"
+    },
+    {
+      "path": "DirectorAgents-1/directors/伍迪·艾伦.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3195a71013768cd8434fbbffd01ff422e95391ca",
+      "size": 14214,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/3195a71013768cd8434fbbffd01ff422e95391ca"
+    },
+    {
+      "path": "DirectorAgents-1/directors/侯孝贤.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fca4b122861cf20474b53eec46f532eac990c620",
+      "size": 21487,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/fca4b122861cf20474b53eec46f532eac990c620"
+    },
+    {
+      "path": "DirectorAgents-1/directors/克里斯托弗·诺兰.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8ea54ccb15f08737143d340178276ae8577c3a43",
+      "size": 14278,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/8ea54ccb15f08737143d340178276ae8577c3a43"
+    },
+    {
+      "path": "DirectorAgents-1/directors/史蒂文·斯皮尔伯格.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9700cf82717e4bbf3ca987c530a86266ba55b865",
+      "size": 14977,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/9700cf82717e4bbf3ca987c530a86266ba55b865"
+    },
+    {
+      "path": "DirectorAgents-1/directors/吴宇森.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4b23df1fe069db540a3d9a0d0a68295b00e7ac15",
+      "size": 15928,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/4b23df1fe069db540a3d9a0d0a68295b00e7ac15"
+    },
+    {
+      "path": "DirectorAgents-1/directors/周星驰.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "62b0cf38826b54121470d285546633f8821aafe0",
+      "size": 15933,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/62b0cf38826b54121470d285546633f8821aafe0"
+    },
+    {
+      "path": "DirectorAgents-1/directors/大卫·芬奇.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1ee56c528cd24eb64ee730773c4ace76e8374616",
+      "size": 14950,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/1ee56c528cd24eb64ee730773c4ace76e8374616"
+    },
+    {
+      "path": "DirectorAgents-1/directors/奉俊昊.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4a2956320bd85205d6831ee254764bae675e1c23",
+      "size": 14538,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/4a2956320bd85205d6831ee254764bae675e1c23"
+    },
+    {
+      "path": "DirectorAgents-1/directors/姜文.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5f43652b6df9d9c80ad38a34f6ea3a3d7b46069e",
+      "size": 10110,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/5f43652b6df9d9c80ad38a34f6ea3a3d7b46069e"
+    },
+    {
+      "path": "DirectorAgents-1/directors/安德烈·塔可夫斯基.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ff314c131303839ffa3667ab028dff61493cecc3",
+      "size": 14582,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/ff314c131303839ffa3667ab028dff61493cecc3"
+    },
+    {
+      "path": "DirectorAgents-1/directors/宫崎骏.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d1579ec13aceccb81b620d34650d7c227b59524e",
+      "size": 8017,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/d1579ec13aceccb81b620d34650d7c227b59524e"
+    },
+    {
+      "path": "DirectorAgents-1/directors/小津安二郎.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5fa497c8685417c67cc9a8d8ed61010a7410d546",
+      "size": 13750,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/5fa497c8685417c67cc9a8d8ed61010a7410d546"
+    },
+    {
+      "path": "DirectorAgents-1/directors/弗朗西斯·福特·科波拉.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "31f73b3ecc334cc412193301c9c54e15fd9406b2",
+      "size": 15403,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/31f73b3ecc334cc412193301c9c54e15fd9406b2"
+    },
+    {
+      "path": "DirectorAgents-1/directors/张艺谋.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "60605d0191388b4a1068f4ff178718e35fbb0130",
+      "size": 7784,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/60605d0191388b4a1068f4ff178718e35fbb0130"
+    },
+    {
+      "path": "DirectorAgents-1/directors/徐克.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "60c899ed5b2a09b680bfe72eea300ca4d762f489",
+      "size": 15642,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/60c899ed5b2a09b680bfe72eea300ca4d762f489"
+    },
+    {
+      "path": "DirectorAgents-1/directors/昆汀·塔伦蒂诺.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "649bef1f4eb6cdb1e287a0cd1b14174150ea3d01",
+      "size": 12987,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/649bef1f4eb6cdb1e287a0cd1b14174150ea3d01"
+    },
+    {
+      "path": "DirectorAgents-1/directors/是枝裕和.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aa7b7780ec4be983a9204a61a613eca93aeb0f55",
+      "size": 7031,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/aa7b7780ec4be983a9204a61a613eca93aeb0f55"
+    },
+    {
+      "path": "DirectorAgents-1/directors/朴赞郁.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ff2ebd9d3e5283cd57429637cf4e4b9d3641641e",
+      "size": 13930,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/ff2ebd9d3e5283cd57429637cf4e4b9d3641641e"
+    },
+    {
+      "path": "DirectorAgents-1/directors/李安.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7fe95c8b6c83019f03aa810f409de9c42bc056ef",
+      "size": 20560,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/7fe95c8b6c83019f03aa810f409de9c42bc056ef"
+    },
+    {
+      "path": "DirectorAgents-1/directors/杜琪峰.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2f698e5c00ea5b2519ec570a78ec532d796246f9",
+      "size": 13478,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/2f698e5c00ea5b2519ec570a78ec532d796246f9"
+    },
+    {
+      "path": "DirectorAgents-1/directors/杨德昌.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a85f1cc5da1b60727167057a3f2adc1baa0b05bf",
+      "size": 17616,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/a85f1cc5da1b60727167057a3f2adc1baa0b05bf"
+    },
+    {
+      "path": "DirectorAgents-1/directors/王家卫.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f620776144e8c81b0b59702e0fb6b0394b667357",
+      "size": 13101,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/f620776144e8c81b0b59702e0fb6b0394b667357"
+    },
+    {
+      "path": "DirectorAgents-1/directors/米开朗基罗·安东尼奥尼.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "13a67d9c03fd5c12db29c9c5c881033b5f728682",
+      "size": 14052,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/13a67d9c03fd5c12db29c9c5c881033b5f728682"
+    },
+    {
+      "path": "DirectorAgents-1/directors/英格玛·伯格曼.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8874398b610f506a7d4beae6d585161b76674b39",
+      "size": 21334,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/8874398b610f506a7d4beae6d585161b76674b39"
+    },
+    {
+      "path": "DirectorAgents-1/directors/詹姆斯·卡梅隆.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3c0a3a28d1d0c2211bba0cb5769f7ec5774529f9",
+      "size": 13243,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/3c0a3a28d1d0c2211bba0cb5769f7ec5774529f9"
+    },
+    {
+      "path": "DirectorAgents-1/directors/费德里科·费里尼.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7548c6b20c69630b55ddf802938c56af8a41f8f9",
+      "size": 21589,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/7548c6b20c69630b55ddf802938c56af8a41f8f9"
+    },
+    {
+      "path": "DirectorAgents-1/directors/贾樟柯.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "63554058e6caafadda908bdd660fc6acc932841a",
+      "size": 12340,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/63554058e6caafadda908bdd660fc6acc932841a"
+    },
+    {
+      "path": "DirectorAgents-1/directors/路易斯·布努埃尔.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7ccf230135ea4af61f6610e6c02e6bb1dc878ad7",
+      "size": 11747,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/7ccf230135ea4af61f6610e6c02e6bb1dc878ad7"
+    },
+    {
+      "path": "DirectorAgents-1/directors/陈凯歌.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "96f3c28b120ecf0f58b0bc2e2e28f6e2e68b8ebf",
+      "size": 8502,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/96f3c28b120ecf0f58b0bc2e2e28f6e2e68b8ebf"
+    },
+    {
+      "path": "DirectorAgents-1/directors/陈可辛.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a6b259e86129bcc667566d75691970c0e8dd2ec1",
+      "size": 16293,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/a6b259e86129bcc667566d75691970c0e8dd2ec1"
+    },
+    {
+      "path": "DirectorAgents-1/directors/黑泽明.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3478112baf774833668f6b187a6447994df132a5",
+      "size": 14344,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/3478112baf774833668f6b187a6447994df132a5"
+    },
+    {
+      "path": "DirectorAgents-1/examples.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7d33a169d31107502a11cd56097974c7eb3adc19",
+      "size": 6992,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/7d33a169d31107502a11cd56097974c7eb3adc19"
+    },
+    {
+      "path": "DirectorAgents-1/references",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e5f8277a357bcb3c00005318cba4cc87a34df8cc",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/e5f8277a357bcb3c00005318cba4cc87a34df8cc"
+    },
+    {
+      "path": "DirectorAgents-1/references/01-core-research.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9444f09e8e3fb971f3f2c73d0797388939d7da0c",
+      "size": 2473,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/9444f09e8e3fb971f3f2c73d0797388939d7da0c"
+    },
+    {
+      "path": "DirectorAgents-1/scripts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "cdebfeac93f957ce6af7cd7266bc4dfed7413b79",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/cdebfeac93f957ce6af7cd7266bc4dfed7413b79"
+    },
+    {
+      "path": "DirectorAgents-1/scripts/generate_director_skills.sh",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b943b166e00887c02e84f9b24b4d5e9f855608a5",
+      "size": 6807,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/b943b166e00887c02e84f9b24b4d5e9f855608a5"
+    },
+    {
+      "path": "DirectorAgents-1/scripts/match_directors.sh",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "54bdaf66bee7397ed17b92b5ee90dc6e36ee6bdc",
+      "size": 2671,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/54bdaf66bee7397ed17b92b5ee90dc6e36ee6bdc"
+    },
+    {
+      "path": "EQ",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "82afd733efb8336a535d8cdf4bc1d483f13d2f73",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/82afd733efb8336a535d8cdf4bc1d483f13d2f73"
+    },
+    {
+      "path": "EQ/eq-skill",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d9bd0357c04e1cf3a2c9695bd4e4c04199de3b14",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/d9bd0357c04e1cf3a2c9695bd4e4c04199de3b14"
+    },
+    {
+      "path": "EQ/eq-skill/EQ情商训练完整指南.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d0c86868689f88f2923977165dcf79368b57e0c9",
+      "size": 3350,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/d0c86868689f88f2923977165dcf79368b57e0c9"
+    },
+    {
+      "path": "EQ/eq-skill/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c3529b73676e72320a3f4a8d7639a7393a86dd8b",
+      "size": 9943,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/c3529b73676e72320a3f4a8d7639a7393a86dd8b"
+    },
+    {
+      "path": "EQ/eq-skill/references",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6f87d4b56a8f3930576cb4e2d5573604df33c50e",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/6f87d4b56a8f3930576cb4e2d5573604df33c50e"
+    },
+    {
+      "path": "EQ/eq-skill/references/research",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ceb7ad9f7e76b50070cf77cd43be2497ddb5a66e",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/ceb7ad9f7e76b50070cf77cd43be2497ddb5a66e"
+    },
+    {
+      "path": "EQ/eq-skill/references/research/01-core-research.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e56b864b492b5f25f692c3c8f04d77cee87b78f5",
+      "size": 2732,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/e56b864b492b5f25f692c3c8f04d77cee87b78f5"
+    },
+    {
+      "path": "EQ/eq-skill/references/research/02-training-methods.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2b0fb295d567ec7dcf7904b00a4a4f8dba6aa922",
+      "size": 2079,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/2b0fb295d567ec7dcf7904b00a4a4f8dba6aa922"
+    },
+    {
+      "path": "EQ/sel-social-emotional-learning-skill",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "db406ed76ebfb0a7a506799921f61553fbeea3eb",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/db406ed76ebfb0a7a506799921f61553fbeea3eb"
+    },
+    {
+      "path": "EQ/sel-social-emotional-learning-skill/SEL社会化训练完整指南.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "217e461144fd122a5d1a18ae10a8f9dc364a333f",
+      "size": 34546,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/217e461144fd122a5d1a18ae10a8f9dc364a333f"
+    },
+    {
+      "path": "EQ/sel-social-emotional-learning-skill/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3447d5c62919bdeb5cf5812e04d678b4938ca2eb",
+      "size": 10254,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/3447d5c62919bdeb5cf5812e04d678b4938ca2eb"
+    },
+    {
+      "path": "EQ/sel-social-emotional-learning-skill/references",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d2f9c2e3335abebb2b2f75081d8a9ad91e49ee3b",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/d2f9c2e3335abebb2b2f75081d8a9ad91e49ee3b"
+    },
+    {
+      "path": "EQ/sel-social-emotional-learning-skill/references/research",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b0d7c49185f42e5d02b09f94523a1508215a1ed6",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/b0d7c49185f42e5d02b09f94523a1508215a1ed6"
+    },
+    {
+      "path": "EQ/sel-social-emotional-learning-skill/references/research/01-core-framework.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "92ecec1abc345fed52323fc1b7375994c71302b0",
+      "size": 2228,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/92ecec1abc345fed52323fc1b7375994c71302b0"
+    },
+    {
+      "path": "EQ/sel-social-emotional-learning-skill/references/research/02-practice-cases.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "174b54110e4c19528d726fbea46562230f8e4a8b",
+      "size": 1376,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/174b54110e4c19528d726fbea46562230f8e4a8b"
+    },
+    {
+      "path": "Gemini_Generated_Image_gaz0fggaz0fggaz0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5056c0030514635da5e2e2998a263fd96bdaf904",
+      "size": 9394275,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/5056c0030514635da5e2e2998a263fd96bdaf904"
+    },
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6d5fe4a1c87f81d38a81d3bedcd33c2592c20df2",
+      "size": 1062,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/6d5fe4a1c87f81d38a81d3bedcd33c2592c20df2"
+    },
+    {
+      "path": "Novelists",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "967511d8df9f896c2e4da9c780dc29163b035c4a",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/967511d8df9f896c2e4da9c780dc29163b035c4a"
+    },
+    {
+      "path": "Novelists/README_EN.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size": 1,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/8b137891791fe96927ad78e64b0aad7bded08bdc"
+    },
+    {
+      "path": "Novelists/README_JP.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size": 1,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/8b137891791fe96927ad78e64b0aad7bded08bdc"
+    },
+    {
+      "path": "Novelists/README_KO.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size": 1,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/8b137891791fe96927ad78e64b0aad7bded08bdc"
+    },
+    {
+      "path": "Novelists/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5071c17bacc6710c212d71881320057a088989f5",
+      "size": 10718,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/5071c17bacc6710c212d71881320057a088989f5"
+    },
+    {
+      "path": "Novelists/dangnianmingyue-skill",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "de2019e808fa76b72d0023c8780b05c3c51a78f7",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/de2019e808fa76b72d0023c8780b05c3c51a78f7"
+    },
+    {
+      "path": "Novelists/dangnianmingyue-skill/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "63efab1a7ffc543d4485f53aa4b2e23e7f12b7a6",
+      "size": 10255,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/63efab1a7ffc543d4485f53aa4b2e23e7f12b7a6"
+    },
+    {
+      "path": "Novelists/dangnianmingyue-skill/references",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "79772240d2259557e24d07c18ba2aa9e28e88d65",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/79772240d2259557e24d07c18ba2aa9e28e88d65"
+    },
+    {
+      "path": "Novelists/dangnianmingyue-skill/references/research",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "13818b88986b72bf16ee076ce556d7d181d23336",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/13818b88986b72bf16ee076ce556d7d181d23336"
+    },
+    {
+      "path": "Novelists/dangnianmingyue-skill/references/research/01-writings.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "54bd0fc296b01a9687528a6e818d0d814d836999",
+      "size": 15786,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/54bd0fc296b01a9687528a6e818d0d814d836999"
+    },
+    {
+      "path": "Novelists/dangnianmingyue-skill/references/research/02-conversations.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4584a2cda976ff2ed862beefacba6b9310067210",
+      "size": 9355,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/4584a2cda976ff2ed862beefacba6b9310067210"
+    },
+    {
+      "path": "Novelists/dangnianmingyue-skill/references/research/03-expression-dna.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cf066ef6a8aa107a6a3fa9955275667a3e884eec",
+      "size": 4437,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/cf066ef6a8aa107a6a3fa9955275667a3e884eec"
+    },
+    {
+      "path": "Novelists/dangnianmingyue-skill/references/research/04-external-views.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cb1b6eea9812e54f53064d407a00182add0920ee",
+      "size": 8454,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/cb1b6eea9812e54f53064d407a00182add0920ee"
+    },
+    {
+      "path": "Novelists/dangnianmingyue-skill/references/research/05-decisions.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4aed1656f7cb0b15570d1502d804bab5f614c3a2",
+      "size": 7885,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/4aed1656f7cb0b15570d1502d804bab5f614c3a2"
+    },
+    {
+      "path": "Novelists/dangnianmingyue-skill/references/research/06-timeline.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7c922eef77f078ab0d2b28c4018840f9a3adc182",
+      "size": 3199,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/7c922eef77f078ab0d2b28c4018840f9a3adc182"
+    },
+    {
+      "path": "Novelists/install.sh",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e1dcabeea01cdc32450ee0fcadda6d27b35975cd",
+      "size": 2967,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/e1dcabeea01cdc32450ee0fcadda6d27b35975cd"
+    },
+    {
+      "path": "Novelists/laoshe-skill",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7339145627d6558d92005dd252ad8f22f24ea999",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/7339145627d6558d92005dd252ad8f22f24ea999"
+    },
+    {
+      "path": "Novelists/laoshe-skill/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bf2d0c40da159a4018a5f5096f5154284096f509",
+      "size": 10018,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/bf2d0c40da159a4018a5f5096f5154284096f509"
+    },
+    {
+      "path": "Novelists/laoshe-skill/references",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8c292d6f6196f94d6871d450d1334befed5211f5",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/8c292d6f6196f94d6871d450d1334befed5211f5"
+    },
+    {
+      "path": "Novelists/laoshe-skill/references/research",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "4104608def99dd2be0ec65c0cf5aa1913eb9ee5a",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/4104608def99dd2be0ec65c0cf5aa1913eb9ee5a"
+    },
+    {
+      "path": "Novelists/laoshe-skill/references/research/01-writings.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c521a0c5f53b37be7f139886d15603af2dbc4aa5",
+      "size": 14742,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/c521a0c5f53b37be7f139886d15603af2dbc4aa5"
+    },
+    {
+      "path": "Novelists/laoshe-skill/references/research/02-conversations.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "54ad75ae1771197ec2b6b776887e1ed7f88abffd",
+      "size": 10625,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/54ad75ae1771197ec2b6b776887e1ed7f88abffd"
+    },
+    {
+      "path": "Novelists/laoshe-skill/references/research/03-expression-dna.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "df54d4ad0ae4b07b69e2ee36236842ef73d87fbf",
+      "size": 4379,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/df54d4ad0ae4b07b69e2ee36236842ef73d87fbf"
+    },
+    {
+      "path": "Novelists/laoshe-skill/references/research/04-external-views.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "912f46e428ec55719bbfa74056dd58ff01d20bb5",
+      "size": 10222,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/912f46e428ec55719bbfa74056dd58ff01d20bb5"
+    },
+    {
+      "path": "Novelists/laoshe-skill/references/research/05-decisions.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6d0c84ae554169552f0f6f72eb1c0136c5513eee",
+      "size": 7259,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/6d0c84ae554169552f0f6f72eb1c0136c5513eee"
+    },
+    {
+      "path": "Novelists/laoshe-skill/references/research/06-timeline.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a70c48e19ea6db2d043aef10e175660bc3986bc3",
+      "size": 4132,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/a70c48e19ea6db2d043aef10e175660bc3986bc3"
+    },
+    {
+      "path": "Novelists/libaihua-skill",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "194496ee694372c5581547750ec37f35f1648fd2",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/194496ee694372c5581547750ec37f35f1648fd2"
+    },
+    {
+      "path": "Novelists/libaihua-skill/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "df915f880c482f9023f33a597252b729201f9169",
+      "size": 10877,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/df915f880c482f9023f33a597252b729201f9169"
+    },
+    {
+      "path": "Novelists/libaihua-skill/references",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6d82743f18b97b2b1b4bf63b56372cc713bfa379",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/6d82743f18b97b2b1b4bf63b56372cc713bfa379"
+    },
+    {
+      "path": "Novelists/libaihua-skill/references/research",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "124eb04a6356823e95eb2eb2f6a192dd3a75e52d",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/124eb04a6356823e95eb2eb2f6a192dd3a75e52d"
+    },
+    {
+      "path": "Novelists/libaihua-skill/references/research/01-writings.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fe07a2131c9bf82eda2ba147be7dca7b27b5b42a",
+      "size": 6141,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/fe07a2131c9bf82eda2ba147be7dca7b27b5b42a"
+    },
+    {
+      "path": "Novelists/libaihua-skill/references/research/02-conversations.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7982798ef9894ea1762c472a33cbadae7ec52c70",
+      "size": 4751,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/7982798ef9894ea1762c472a33cbadae7ec52c70"
+    },
+    {
+      "path": "Novelists/libaihua-skill/references/research/03-expression-dna.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "959a2706301985558f939e1853f539cd02ff7ba9",
+      "size": 5168,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/959a2706301985558f939e1853f539cd02ff7ba9"
+    },
+    {
+      "path": "Novelists/libaihua-skill/references/research/04-external-views.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8e8ef6c6d8395637457e93a4bd96f9897a271153",
+      "size": 6939,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/8e8ef6c6d8395637457e93a4bd96f9897a271153"
+    },
+    {
+      "path": "Novelists/libaihua-skill/references/research/05-decisions.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b98bc742c6f3a22b04930445173b36560a2e8eba",
+      "size": 5227,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/b98bc742c6f3a22b04930445173b36560a2e8eba"
+    },
+    {
+      "path": "Novelists/libaihua-skill/references/research/06-timeline.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ffd576fec2e9e1e91bcbe3274eecd9d655de0a37",
+      "size": 4783,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/ffd576fec2e9e1e91bcbe3274eecd9d655de0a37"
+    },
+    {
+      "path": "Novelists/liucixin-skill",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "18ff650748be7a94d54b6a5c37c2597db75cbc7c",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/18ff650748be7a94d54b6a5c37c2597db75cbc7c"
+    },
+    {
+      "path": "Novelists/liucixin-skill/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b62b8cb9d4e3b79dbdb6209f26b3993640d9fcc9",
+      "size": 11944,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/b62b8cb9d4e3b79dbdb6209f26b3993640d9fcc9"
+    },
+    {
+      "path": "Novelists/liucixin-skill/references",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "797a957e6da4f2c7b7c657081812352b31c104a0",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/797a957e6da4f2c7b7c657081812352b31c104a0"
+    },
+    {
+      "path": "Novelists/liucixin-skill/references/research",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f49b8c41138c92a0ff6b4d90d5e726a384c47810",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/f49b8c41138c92a0ff6b4d90d5e726a384c47810"
+    },
+    {
+      "path": "Novelists/liucixin-skill/references/research/01-writings.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "167a3b6e315475ac68cf7bc23aadde6d132791fd",
+      "size": 14464,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/167a3b6e315475ac68cf7bc23aadde6d132791fd"
+    },
+    {
+      "path": "Novelists/liucixin-skill/references/research/02-conversations.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a44d3fac3fde6986af209fada8e4b8ad1b407f4a",
+      "size": 11911,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/a44d3fac3fde6986af209fada8e4b8ad1b407f4a"
+    },
+    {
+      "path": "Novelists/liucixin-skill/references/research/03-expression-dna.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "676b765ec0efb6dada05b48eb2b838d118669194",
+      "size": 7549,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/676b765ec0efb6dada05b48eb2b838d118669194"
+    },
+    {
+      "path": "Novelists/liucixin-skill/references/research/04-external-views.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3858b96ef2ff6927cf892cd57bb54eefc2ba4c0e",
+      "size": 12773,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/3858b96ef2ff6927cf892cd57bb54eefc2ba4c0e"
+    },
+    {
+      "path": "Novelists/liucixin-skill/references/research/05-decisions.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "67fef54a081a056ba3d4ba9027698dfd38fa35f4",
+      "size": 13011,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/67fef54a081a056ba3d4ba9027698dfd38fa35f4"
+    },
+    {
+      "path": "Novelists/liucixin-skill/references/research/06-timeline.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e4450f599c2158f22744c045a46f742c97ebe8bf",
+      "size": 7000,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/e4450f599c2158f22744c045a46f742c97ebe8bf"
+    },
+    {
+      "path": "Novelists/luxun-skill",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0e0a7a0dd678eaa430071d18b85fb141059ad0f1",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/0e0a7a0dd678eaa430071d18b85fb141059ad0f1"
+    },
+    {
+      "path": "Novelists/luxun-skill/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "78ecffdbc0283077e45d3b84641e2e3fd876a77c",
+      "size": 10030,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/78ecffdbc0283077e45d3b84641e2e3fd876a77c"
+    },
+    {
+      "path": "Novelists/luxun-skill/references",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c9198e62ddf05ba1d27e941a04f7c2a4fd33e2e8",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/c9198e62ddf05ba1d27e941a04f7c2a4fd33e2e8"
+    },
+    {
+      "path": "Novelists/luxun-skill/references/research",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a6a9b792edfbc42a14eed88db487c311386c7778",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/a6a9b792edfbc42a14eed88db487c311386c7778"
+    },
+    {
+      "path": "Novelists/luxun-skill/references/research/01-writings.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "36266b17a8938c99da404ae35746e7d8aa3ace24",
+      "size": 5845,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/36266b17a8938c99da404ae35746e7d8aa3ace24"
+    },
+    {
+      "path": "Novelists/luxun-skill/references/research/02-conversations.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8cbfb1e0422fd2a91b36d15ab50015d3f99552c2",
+      "size": 15722,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/8cbfb1e0422fd2a91b36d15ab50015d3f99552c2"
+    },
+    {
+      "path": "Novelists/luxun-skill/references/research/03-expression-dna.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3e9c97175e6619df42be7c020692f97b180ab2da",
+      "size": 11363,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/3e9c97175e6619df42be7c020692f97b180ab2da"
+    },
+    {
+      "path": "Novelists/luxun-skill/references/research/04-external-views.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c8261ad860ccf21c5f5022a0bfa3c0e8c905afd3",
+      "size": 9451,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/c8261ad860ccf21c5f5022a0bfa3c0e8c905afd3"
+    },
+    {
+      "path": "Novelists/luxun-skill/references/research/05-decisions.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "711dab28a61d3104bd223d4fc35fe60d480c8511",
+      "size": 14434,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/711dab28a61d3104bd223d4fc35fe60d480c8511"
+    },
+    {
+      "path": "Novelists/luxun-skill/references/research/06-timeline.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e621da8f2dfd105e349b1a8458ab3170085c30c9",
+      "size": 10229,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/e621da8f2dfd105e349b1a8458ab3170085c30c9"
+    },
+    {
+      "path": "Novelists/moxiangtongxiu-skill",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "303b380bcc2fccbb9626f76399c354cc67d81b8c",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/303b380bcc2fccbb9626f76399c354cc67d81b8c"
+    },
+    {
+      "path": "Novelists/moxiangtongxiu-skill/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3d708bb9c1ceaf5498ddc90fdef01ea25d44bfff",
+      "size": 22645,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/3d708bb9c1ceaf5498ddc90fdef01ea25d44bfff"
+    },
+    {
+      "path": "Novelists/moxiangtongxiu-skill/references",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a7a9a58a09e09c54b409d3a4cebc213e2ced193b",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/a7a9a58a09e09c54b409d3a4cebc213e2ced193b"
+    },
+    {
+      "path": "Novelists/moxiangtongxiu-skill/references/research",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2919fa5d50a8714aa2fcfda02a9a595f93173a18",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/2919fa5d50a8714aa2fcfda02a9a595f93173a18"
+    },
+    {
+      "path": "Novelists/moxiangtongxiu-skill/references/research/01-writings.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b5355eaecece8ce51730415c1d3e8d9b2ceefd67",
+      "size": 2175,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/b5355eaecece8ce51730415c1d3e8d9b2ceefd67"
+    },
+    {
+      "path": "Novelists/moxiangtongxiu-skill/references/research/02-conversations.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aa569d5acfc15e58f6ac7dad1e3ef45bcdd32e44",
+      "size": 2241,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/aa569d5acfc15e58f6ac7dad1e3ef45bcdd32e44"
+    },
+    {
+      "path": "Novelists/moxiangtongxiu-skill/references/research/03-expression-dna.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d0699e09ae20cb264c24858d061d5fd0bcbb82da",
+      "size": 2489,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/d0699e09ae20cb264c24858d061d5fd0bcbb82da"
+    },
+    {
+      "path": "Novelists/moxiangtongxiu-skill/references/research/04-external-views.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1592197cfc4041e22b76c5ad21f6a1976dfdab5d",
+      "size": 2115,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/1592197cfc4041e22b76c5ad21f6a1976dfdab5d"
+    },
+    {
+      "path": "Novelists/moxiangtongxiu-skill/references/research/05-decisions.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4274757646b6417ef6aaa3f9409e05ad9f9a1896",
+      "size": 2861,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/4274757646b6417ef6aaa3f9409e05ad9f9a1896"
+    },
+    {
+      "path": "Novelists/moxiangtongxiu-skill/references/research/06-timeline.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "054d19dbcf0d672c192b0acdcdeb94ad1a883da9",
+      "size": 2569,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/054d19dbcf0d672c192b0acdcdeb94ad1a883da9"
+    },
+    {
+      "path": "Novelists/moyan-skill",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "fcade9501e5b3929810c32cd56dbf97d32bb151e",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/fcade9501e5b3929810c32cd56dbf97d32bb151e"
+    },
+    {
+      "path": "Novelists/moyan-skill/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1b677967b5710f1cc754f90bebb37a9d5203c072",
+      "size": 13068,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/1b677967b5710f1cc754f90bebb37a9d5203c072"
+    },
+    {
+      "path": "Novelists/moyan-skill/references",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "37be62d38ada9c62685fd01e923b1886ed785f55",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/37be62d38ada9c62685fd01e923b1886ed785f55"
+    },
+    {
+      "path": "Novelists/moyan-skill/references/research",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "80bab33ec53046cb2397ca49b9c5396e833e325f",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/80bab33ec53046cb2397ca49b9c5396e833e325f"
+    },
+    {
+      "path": "Novelists/moyan-skill/references/research/01-writings.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0845fabae0b562426664cbae0da12a67e5830b61",
+      "size": 12507,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/0845fabae0b562426664cbae0da12a67e5830b61"
+    },
+    {
+      "path": "Novelists/moyan-skill/references/research/02-conversations.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "418320c904e04ce711b16b3bedc6c0de234c8559",
+      "size": 16692,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/418320c904e04ce711b16b3bedc6c0de234c8559"
+    },
+    {
+      "path": "Novelists/moyan-skill/references/research/03-expression-dna.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3df1e694a5547143f362d896b1dafe356528ecf8",
+      "size": 9175,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/3df1e694a5547143f362d896b1dafe356528ecf8"
+    },
+    {
+      "path": "Novelists/moyan-skill/references/research/04-external-views.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "30c4e096e61864b6fb89e76ed9b4a20918fed164",
+      "size": 10783,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/30c4e096e61864b6fb89e76ed9b4a20918fed164"
+    },
+    {
+      "path": "Novelists/moyan-skill/references/research/05-decisions.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "397b65df4d161fe93739c59a572e140ee359708d",
+      "size": 10871,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/397b65df4d161fe93739c59a572e140ee359708d"
+    },
+    {
+      "path": "Novelists/moyan-skill/references/research/06-timeline.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b03de8f7815b8d6a5cdac98326404415368d1ca4",
+      "size": 7242,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/b03de8f7815b8d6a5cdac98326404415368d1ca4"
+    },
+    {
+      "path": "Novelists/nanpaisanshu-skill",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ed1edc9a341b77e6286d766a0c04ffba1ed677ec",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/ed1edc9a341b77e6286d766a0c04ffba1ed677ec"
+    },
+    {
+      "path": "Novelists/nanpaisanshu-skill/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1e82dd1d6b3ea12cb0198a8db874aadace6b052c",
+      "size": 10492,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/1e82dd1d6b3ea12cb0198a8db874aadace6b052c"
+    },
+    {
+      "path": "Novelists/nanpaisanshu-skill/references",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7fcdc0a31d20431ff666c024d08364d1f040e980",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/7fcdc0a31d20431ff666c024d08364d1f040e980"
+    },
+    {
+      "path": "Novelists/nanpaisanshu-skill/references/research",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0cd288bc92ecc541f0f028dc6497da87aaeb09ea",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/0cd288bc92ecc541f0f028dc6497da87aaeb09ea"
+    },
+    {
+      "path": "Novelists/nanpaisanshu-skill/references/research/01-writings.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "29cd089d2be9491d1b95921e509c6aca112b240c",
+      "size": 16820,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/29cd089d2be9491d1b95921e509c6aca112b240c"
+    },
+    {
+      "path": "Novelists/nanpaisanshu-skill/references/research/02-conversations.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9a0a35f3d08629d795e82843c782d62b0591e13f",
+      "size": 13400,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/9a0a35f3d08629d795e82843c782d62b0591e13f"
+    },
+    {
+      "path": "Novelists/nanpaisanshu-skill/references/research/03-expression-dna.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "09baa9ab96cc2e7181d1fcd6f948690e09fe1d62",
+      "size": 7880,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/09baa9ab96cc2e7181d1fcd6f948690e09fe1d62"
+    },
+    {
+      "path": "Novelists/nanpaisanshu-skill/references/research/04-external-views.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "af7ce41a9ecfb473a0cb7f79224575a8976f26a7",
+      "size": 11029,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/af7ce41a9ecfb473a0cb7f79224575a8976f26a7"
+    },
+    {
+      "path": "Novelists/nanpaisanshu-skill/references/research/05-decisions.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9cf8c9677feb5e4f047f2dec35bebe40348fc27d",
+      "size": 9131,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/9cf8c9677feb5e4f047f2dec35bebe40348fc27d"
+    },
+    {
+      "path": "Novelists/nanpaisanshu-skill/references/research/06-timeline.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "788ebca01cc4d037e774331e00505c2ac82854d0",
+      "size": 8051,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/788ebca01cc4d037e774331e00505c2ac82854d0"
+    },
+    {
+      "path": "Novelists/qiongyao-skill",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e587865c469ab443f5679fe72699ee9b20b7af62",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/e587865c469ab443f5679fe72699ee9b20b7af62"
+    },
+    {
+      "path": "Novelists/qiongyao-skill/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fabbdabcf90a871dfeb9ae8f125ceab5096d5119",
+      "size": 11078,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/fabbdabcf90a871dfeb9ae8f125ceab5096d5119"
+    },
+    {
+      "path": "Novelists/qiongyao-skill/references",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "98dfc6ca97b2ec8b793b7238eea7e52ad3f50277",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/98dfc6ca97b2ec8b793b7238eea7e52ad3f50277"
+    },
+    {
+      "path": "Novelists/qiongyao-skill/references/research",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "97f477e85b89e758e283a0f802290825dea4ecfa",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/97f477e85b89e758e283a0f802290825dea4ecfa"
+    },
+    {
+      "path": "Novelists/qiongyao-skill/references/research/01-writings.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "21454b24589a54f3c1ea765acbfea8ba1b8f0907",
+      "size": 6105,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/21454b24589a54f3c1ea765acbfea8ba1b8f0907"
+    },
+    {
+      "path": "Novelists/qiongyao-skill/references/research/02-conversations.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bffd4f159418933d4ace3a8cfe2a6b3556424835",
+      "size": 6267,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/bffd4f159418933d4ace3a8cfe2a6b3556424835"
+    },
+    {
+      "path": "Novelists/qiongyao-skill/references/research/03-expression-dna.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "92ade54db62e6e028b2e439c4a93b89da3d98f8c",
+      "size": 5857,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/92ade54db62e6e028b2e439c4a93b89da3d98f8c"
+    },
+    {
+      "path": "Novelists/qiongyao-skill/references/research/04-external-views.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d4de5f5279b3b9483c8210c1e5784c8196686f21",
+      "size": 16037,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/d4de5f5279b3b9483c8210c1e5784c8196686f21"
+    },
+    {
+      "path": "Novelists/qiongyao-skill/references/research/05-decisions.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "db585eeb60caebc8f3b204ae6b1d0a47c9a8402e",
+      "size": 6693,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/db585eeb60caebc8f3b204ae6b1d0a47c9a8402e"
+    },
+    {
+      "path": "Novelists/qiongyao-skill/references/research/06-timeline.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d58128117d2deb013ac5ec86576a2f451f091e3c",
+      "size": 4740,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/d58128117d2deb013ac5ec86576a2f451f091e3c"
+    },
+    {
+      "path": "Novelists/readme.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e0a5a8c87c71489d206e7ecdef0635947defc7ec",
+      "size": 21702,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/e0a5a8c87c71489d206e7ecdef0635947defc7ec"
+    },
+    {
+      "path": "Novelists/references",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5f64e3a8adc2447a4c8342cda2bf8d6da903d348",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/5f64e3a8adc2447a4c8342cda2bf8d6da903d348"
+    },
+    {
+      "path": "Novelists/references/research",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e50c1ab3fc63b83c5174dfe45f4defe1b9aa9cef",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/e50c1ab3fc63b83c5174dfe45f4defe1b9aa9cef"
+    },
+    {
+      "path": "Novelists/references/research/01-writings.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8272463990b9bc72281f7ddb22fc27f8d1064a67",
+      "size": 7749,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/8272463990b9bc72281f7ddb22fc27f8d1064a67"
+    },
+    {
+      "path": "Novelists/references/research/02-conversations.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "928e68d3b409bf35465cb8b52aedf3a0f94df745",
+      "size": 19600,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/928e68d3b409bf35465cb8b52aedf3a0f94df745"
+    },
+    {
+      "path": "Novelists/references/research/03-expression-dna.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "90764737c4d6b8ffd6b406ad5950af334ff1e299",
+      "size": 9579,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/90764737c4d6b8ffd6b406ad5950af334ff1e299"
+    },
+    {
+      "path": "Novelists/references/research/04-external-views.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "42e0b53ffbd92c5870da72acb24556d01b1619c9",
+      "size": 10100,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/42e0b53ffbd92c5870da72acb24556d01b1619c9"
+    },
+    {
+      "path": "Novelists/references/research/05-decisions.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4b7eac5795d431ea25680697d3e05592fd85ae25",
+      "size": 7631,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/4b7eac5795d431ea25680697d3e05592fd85ae25"
+    },
+    {
+      "path": "Novelists/references/research/06-timeline.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "10a0289129387c8cb54b4683d952e563fe4474d7",
+      "size": 7663,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/10a0289129387c8cb54b4683d952e563fe4474d7"
+    },
+    {
+      "path": "Novelists/sanmao-skill",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "aa542005d14afaf73bd8686c5ceca3fb284988be",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/aa542005d14afaf73bd8686c5ceca3fb284988be"
+    },
+    {
+      "path": "Novelists/sanmao-skill/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9e265806f974feec888c3da20c52e7e25832f219",
+      "size": 9877,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/9e265806f974feec888c3da20c52e7e25832f219"
+    },
+    {
+      "path": "Novelists/sanmao-skill/references",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "534b310cac9259df132d423b5427515731fac787",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/534b310cac9259df132d423b5427515731fac787"
+    },
+    {
+      "path": "Novelists/sanmao-skill/references/research",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "aa057f1a06b8cd33a898cc4e7dce1a1556df01c8",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/aa057f1a06b8cd33a898cc4e7dce1a1556df01c8"
+    },
+    {
+      "path": "Novelists/sanmao-skill/references/research/01-writings.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3cd76eea86168b10c66d7ea3c587d8b3b9af3e77",
+      "size": 4614,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/3cd76eea86168b10c66d7ea3c587d8b3b9af3e77"
+    },
+    {
+      "path": "Novelists/sanmao-skill/references/research/02-conversations.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "47af0750eeae5695772af704a8778037f23e420d",
+      "size": 3864,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/47af0750eeae5695772af704a8778037f23e420d"
+    },
+    {
+      "path": "Novelists/sanmao-skill/references/research/03-expression-dna.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f3e3d9acd1560b4eb018d757e3c20c4b1b47b565",
+      "size": 3437,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/f3e3d9acd1560b4eb018d757e3c20c4b1b47b565"
+    },
+    {
+      "path": "Novelists/sanmao-skill/references/research/04-external-views.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f6a75becd76427d1d9095de01ecb5a356f57da05",
+      "size": 4527,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/f6a75becd76427d1d9095de01ecb5a356f57da05"
+    },
+    {
+      "path": "Novelists/sanmao-skill/references/research/05-decisions.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b4e1e730d08e60d130a31a9b8a82816c38108811",
+      "size": 8325,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/b4e1e730d08e60d130a31a9b8a82816c38108811"
+    },
+    {
+      "path": "Novelists/sanmao-skill/references/research/06-timeline.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0a24fab714b78020861d9f445b4ba9c40ba6f443",
+      "size": 3667,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/0a24fab714b78020861d9f445b4ba9c40ba6f443"
+    },
+    {
+      "path": "Novelists/shitiesheng-skill",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f8f889c20e704f20877cd5a2334376433dd94b90",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/f8f889c20e704f20877cd5a2334376433dd94b90"
+    },
+    {
+      "path": "Novelists/shitiesheng-skill/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d9510e61788411d28cf1a0c013ca6102655a056c",
+      "size": 10224,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/d9510e61788411d28cf1a0c013ca6102655a056c"
+    },
+    {
+      "path": "Novelists/shitiesheng-skill/references",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e0afae07b79e4f3508c8532f7a41e6a0ddd2b646",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/e0afae07b79e4f3508c8532f7a41e6a0ddd2b646"
+    },
+    {
+      "path": "Novelists/shitiesheng-skill/references/research",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2658d495661a86ab566c1025270b30d9b4335ef8",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/2658d495661a86ab566c1025270b30d9b4335ef8"
+    },
+    {
+      "path": "Novelists/shitiesheng-skill/references/research/01-writings.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3b6e89b1d3bc15b81c7417baf91e2951ce62a30b",
+      "size": 9967,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/3b6e89b1d3bc15b81c7417baf91e2951ce62a30b"
+    },
+    {
+      "path": "Novelists/shitiesheng-skill/references/research/02-conversations.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bda9bcff9d719a93bb0b8c0d77182e2eb8446b83",
+      "size": 9987,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/bda9bcff9d719a93bb0b8c0d77182e2eb8446b83"
+    },
+    {
+      "path": "Novelists/shitiesheng-skill/references/research/03-expression-dna.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "33f34a51db5a0b5547fde3b432fb6411d737ac00",
+      "size": 5847,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/33f34a51db5a0b5547fde3b432fb6411d737ac00"
+    },
+    {
+      "path": "Novelists/shitiesheng-skill/references/research/04-external-views.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "73801d44c5508953e9aa8eafb1b01caf992f6e0a",
+      "size": 13271,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/73801d44c5508953e9aa8eafb1b01caf992f6e0a"
+    },
+    {
+      "path": "Novelists/shitiesheng-skill/references/research/05-decisions.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7c914f495b59c2244d497678fdc51692b27da7ef",
+      "size": 8948,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/7c914f495b59c2244d497678fdc51692b27da7ef"
+    },
+    {
+      "path": "Novelists/shitiesheng-skill/references/research/06-timeline.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2d69611c4966d1b20d5001c1747976e807af9aa8",
+      "size": 9250,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/2d69611c4966d1b20d5001c1747976e807af9aa8"
+    },
+    {
+      "path": "Novelists/tangjiasanshao-skill",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ee9af09fa6d0fd9eb274adc35876165bbb605abe",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/ee9af09fa6d0fd9eb274adc35876165bbb605abe"
+    },
+    {
+      "path": "Novelists/tangjiasanshao-skill/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ad7594393880d2fad6764c860c1b94907a6a9abb",
+      "size": 15291,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/ad7594393880d2fad6764c860c1b94907a6a9abb"
+    },
+    {
+      "path": "Novelists/tangjiasanshao-skill/references",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e783623bf50959c283dd32f637c63258fab49a0c",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/e783623bf50959c283dd32f637c63258fab49a0c"
+    },
+    {
+      "path": "Novelists/tangjiasanshao-skill/references/research",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f20795c22f82959ac2f94023fe9e24f1633a1cb5",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/f20795c22f82959ac2f94023fe9e24f1633a1cb5"
+    },
+    {
+      "path": "Novelists/tangjiasanshao-skill/references/research/01-writings.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8a2234f5510051985bff789753b8a6c7411c080f",
+      "size": 3717,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/8a2234f5510051985bff789753b8a6c7411c080f"
+    },
+    {
+      "path": "Novelists/tangjiasanshao-skill/references/research/02-conversations.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a52c1e9e454fdfa514b18bdea81427fa07572fad",
+      "size": 2993,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/a52c1e9e454fdfa514b18bdea81427fa07572fad"
+    },
+    {
+      "path": "Novelists/tangjiasanshao-skill/references/research/03-expression-dna.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0c991ebf1b96ae5dbf8d6fa6178d557f4f4b4b4d",
+      "size": 2387,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/0c991ebf1b96ae5dbf8d6fa6178d557f4f4b4b4d"
+    },
+    {
+      "path": "Novelists/tangjiasanshao-skill/references/research/04-external-views.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "910d6af5a0f22783e048d94244747a9beb40c866",
+      "size": 2862,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/910d6af5a0f22783e048d94244747a9beb40c866"
+    },
+    {
+      "path": "Novelists/tangjiasanshao-skill/references/research/05-decisions.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "86640437faea373b8e59295405b3de5d38da3525",
+      "size": 3403,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/86640437faea373b8e59295405b3de5d38da3525"
+    },
+    {
+      "path": "Novelists/tangjiasanshao-skill/references/research/06-timeline.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6bc5fce3a7ad77c0d436005067c918cf69acd1ff",
+      "size": 3221,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/6bc5fce3a7ad77c0d436005067c918cf69acd1ff"
+    },
+    {
+      "path": "Novelists/tiancantudou-skill",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "49ea85ba448a689c3415c33ad4f48d02bd9cedcc",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/49ea85ba448a689c3415c33ad4f48d02bd9cedcc"
+    },
+    {
+      "path": "Novelists/tiancantudou-skill/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "66075158778336fd9ddb48b185cb092b89816f8e",
+      "size": 15418,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/66075158778336fd9ddb48b185cb092b89816f8e"
+    },
+    {
+      "path": "Novelists/tiancantudou-skill/references",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "54bd1b26d91eb9f0609881ec63de365d0c794e3c",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/54bd1b26d91eb9f0609881ec63de365d0c794e3c"
+    },
+    {
+      "path": "Novelists/tiancantudou-skill/references/research",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7a55d8e4e3fd5069bf07809e195d9bbe441feeb1",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/7a55d8e4e3fd5069bf07809e195d9bbe441feeb1"
+    },
+    {
+      "path": "Novelists/tiancantudou-skill/references/research/01-writings.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "37e8c57a17674f7a1b7b5bab7d171747ef0a1e95",
+      "size": 2654,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/37e8c57a17674f7a1b7b5bab7d171747ef0a1e95"
+    },
+    {
+      "path": "Novelists/tiancantudou-skill/references/research/02-conversations.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "55c43c48893d4aa2488f49a7791d3906ddeb58ea",
+      "size": 1779,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/55c43c48893d4aa2488f49a7791d3906ddeb58ea"
+    },
+    {
+      "path": "Novelists/tiancantudou-skill/references/research/03-expression-dna.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a7deb7ca93d4418955a9953ce736d7a8432a32e6",
+      "size": 2204,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/a7deb7ca93d4418955a9953ce736d7a8432a32e6"
+    },
+    {
+      "path": "Novelists/tiancantudou-skill/references/research/04-external-views.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "430465cca9457d5cd9c986133ee1b911c1068e45",
+      "size": 2624,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/430465cca9457d5cd9c986133ee1b911c1068e45"
+    },
+    {
+      "path": "Novelists/tiancantudou-skill/references/research/05-decisions.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "77595d433f117a2fc7d6b94ea51398b4c1345dbd",
+      "size": 3261,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/77595d433f117a2fc7d6b94ea51398b4c1345dbd"
+    },
+    {
+      "path": "Novelists/tiancantudou-skill/references/research/06-timeline.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8e5d6ca56a111b262633ee380f369364d090a5f0",
+      "size": 2685,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/8e5d6ca56a111b262633ee380f369364d090a5f0"
+    },
+    {
+      "path": "Novelists/tianxiabachang-skill",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "670b5c8e212a96a99402dbfd38d4e3a0a1e91a63",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/670b5c8e212a96a99402dbfd38d4e3a0a1e91a63"
+    },
+    {
+      "path": "Novelists/tianxiabachang-skill/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5ba4665b315121df656f9eee61e7bba169689369",
+      "size": 20421,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/5ba4665b315121df656f9eee61e7bba169689369"
+    },
+    {
+      "path": "Novelists/tianxiabachang-skill/references",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6b531986d3e2cafdf36d96ca4a4ad40088d0a2d2",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/6b531986d3e2cafdf36d96ca4a4ad40088d0a2d2"
+    },
+    {
+      "path": "Novelists/tianxiabachang-skill/references/research",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "813f166f12bb232c21aae16b70a49c665e99cbf6",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/813f166f12bb232c21aae16b70a49c665e99cbf6"
+    },
+    {
+      "path": "Novelists/tianxiabachang-skill/references/research/01-writings.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8ad7d11be0c62eda2c7a6a94867d77fbe39e7101",
+      "size": 3628,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/8ad7d11be0c62eda2c7a6a94867d77fbe39e7101"
+    },
+    {
+      "path": "Novelists/tianxiabachang-skill/references/research/02-conversations.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "11f0f64227554c974eda6ce1095e887ecc951876",
+      "size": 4568,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/11f0f64227554c974eda6ce1095e887ecc951876"
+    },
+    {
+      "path": "Novelists/tianxiabachang-skill/references/research/03-expression-dna.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "da3614a9f3cf78f0a82c91854d73fd0555c268ce",
+      "size": 3793,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/da3614a9f3cf78f0a82c91854d73fd0555c268ce"
+    },
+    {
+      "path": "Novelists/tianxiabachang-skill/references/research/04-external-views.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "feab8828f44427a4a32f22bd0181c7dc97481b43",
+      "size": 2602,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/feab8828f44427a4a32f22bd0181c7dc97481b43"
+    },
+    {
+      "path": "Novelists/tianxiabachang-skill/references/research/05-decisions.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0805e40d9680ebec451adc60f40dc750b15c1c7c",
+      "size": 3941,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/0805e40d9680ebec451adc60f40dc750b15c1c7c"
+    },
+    {
+      "path": "Novelists/tianxiabachang-skill/references/research/06-timeline.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "153f65f3a957f0a420d654bdd3e2a0365942afa8",
+      "size": 2934,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/153f65f3a957f0a420d654bdd3e2a0365942afa8"
+    },
+    {
+      "path": "Novelists/ximurong-skill",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "18fa14fd55732cf8d1b2a2d601174844b1b55204",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/18fa14fd55732cf8d1b2a2d601174844b1b55204"
+    },
+    {
+      "path": "Novelists/ximurong-skill/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3f17e89be5ce55db266dfe334e0fb51bb33d565f",
+      "size": 12949,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/3f17e89be5ce55db266dfe334e0fb51bb33d565f"
+    },
+    {
+      "path": "Novelists/ximurong-skill/references",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b00c2ad87f1fd9bd280a6dd2111459337b011626",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/b00c2ad87f1fd9bd280a6dd2111459337b011626"
+    },
+    {
+      "path": "Novelists/ximurong-skill/references/research",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "dadca3a5af9781930813330189a0a46d5b9a807e",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/dadca3a5af9781930813330189a0a46d5b9a807e"
+    },
+    {
+      "path": "Novelists/ximurong-skill/references/research/01-writings.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1a223a845af2848c039eaa4c06ab4ed4b1bac1c3",
+      "size": 7836,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/1a223a845af2848c039eaa4c06ab4ed4b1bac1c3"
+    },
+    {
+      "path": "Novelists/ximurong-skill/references/research/02-conversations.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0202018b5d0161eb84c758c6de29722c5df7decf",
+      "size": 7059,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/0202018b5d0161eb84c758c6de29722c5df7decf"
+    },
+    {
+      "path": "Novelists/ximurong-skill/references/research/04-external-views.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c9ab729a84e4dd5dc97c4098dae79ea74bc91bd3",
+      "size": 7089,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/c9ab729a84e4dd5dc97c4098dae79ea74bc91bd3"
+    },
+    {
+      "path": "Novelists/ximurong-skill/references/research/06-timeline.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aab7726b2588193a51e27a21c880a78b4b3ab43e",
+      "size": 10948,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/aab7726b2588193a51e27a21c880a78b4b3ab43e"
+    },
+    {
+      "path": "Novelists/yuhua-skill",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "63a630b6fb31c29a2c2f0ef4c7921e038e421539",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/63a630b6fb31c29a2c2f0ef4c7921e038e421539"
+    },
+    {
+      "path": "Novelists/yuhua-skill/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "498c1892b46e67e27897ea511a25b850e8cf2cf3",
+      "size": 12851,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/498c1892b46e67e27897ea511a25b850e8cf2cf3"
+    },
+    {
+      "path": "Novelists/yuhua-skill/references",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5b31e87165fdca2d30c25033709f32326883b057",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/5b31e87165fdca2d30c25033709f32326883b057"
+    },
+    {
+      "path": "Novelists/yuhua-skill/references/research",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3776217ffa5a1ee136f1ce98721884d940d3fdac",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/3776217ffa5a1ee136f1ce98721884d940d3fdac"
+    },
+    {
+      "path": "Novelists/yuhua-skill/references/research/01-writings.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "389a5306fd1702417434d050f5b6e07e40a09aee",
+      "size": 22787,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/389a5306fd1702417434d050f5b6e07e40a09aee"
+    },
+    {
+      "path": "Novelists/yuhua-skill/references/research/02-conversations.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9b658f20ce2d45d794b5b4de1040b55ddba8296e",
+      "size": 17093,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/9b658f20ce2d45d794b5b4de1040b55ddba8296e"
+    },
+    {
+      "path": "Novelists/yuhua-skill/references/research/03-expression-dna.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a42bb36ab3bb0659db08107cc12433264c6b9d7a",
+      "size": 7016,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/a42bb36ab3bb0659db08107cc12433264c6b9d7a"
+    },
+    {
+      "path": "Novelists/yuhua-skill/references/research/04-external-views.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d5ed73e24e0914e38e0da7739bcf9ea10625affa",
+      "size": 7636,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/d5ed73e24e0914e38e0da7739bcf9ea10625affa"
+    },
+    {
+      "path": "Novelists/yuhua-skill/references/research/05-decisions.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "24fe5e2f3cbda391b941511f758680ff8286653f",
+      "size": 11106,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/24fe5e2f3cbda391b941511f758680ff8286653f"
+    },
+    {
+      "path": "Novelists/yuhua-skill/references/research/06-timeline.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1b5457af134dbba34465b1ebdae03e28b262592c",
+      "size": 6746,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/1b5457af134dbba34465b1ebdae03e28b262592c"
+    },
+    {
+      "path": "Novelists/zhangailing-skill",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c8b6e437b36446faf56f1b36b1ed5aaf83becbdf",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/c8b6e437b36446faf56f1b36b1ed5aaf83becbdf"
+    },
+    {
+      "path": "Novelists/zhangailing-skill/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "557c62ffff2d332504c02c43307f4fcab14fdc19",
+      "size": 12554,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/557c62ffff2d332504c02c43307f4fcab14fdc19"
+    },
+    {
+      "path": "Novelists/zhangailing-skill/references",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1888b791ef812785d07b4d68dfb31227532f6041",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/1888b791ef812785d07b4d68dfb31227532f6041"
+    },
+    {
+      "path": "Novelists/zhangailing-skill/references/research",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "af6104fa7a09afce1a33c5eedb69d74a6ed95149",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/af6104fa7a09afce1a33c5eedb69d74a6ed95149"
+    },
+    {
+      "path": "Novelists/zhangailing-skill/references/research/01-writings.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8eab027bce024ee34d5f113f07b91017c7f2b267",
+      "size": 10750,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/8eab027bce024ee34d5f113f07b91017c7f2b267"
+    },
+    {
+      "path": "Novelists/zhangailing-skill/references/research/02-conversations.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1bca75725a157e4809ff37e3600790fdf6d3d479",
+      "size": 10440,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/1bca75725a157e4809ff37e3600790fdf6d3d479"
+    },
+    {
+      "path": "Novelists/zhangailing-skill/references/research/03-expression-dna.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "64640ce4fe52091626f882dcc2ee21b7742f8b75",
+      "size": 10420,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/64640ce4fe52091626f882dcc2ee21b7742f8b75"
+    },
+    {
+      "path": "Novelists/zhangailing-skill/references/research/04-external-views.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a91b5e04844916e7500f793ac30c2034b830b8aa",
+      "size": 9815,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/a91b5e04844916e7500f793ac30c2034b830b8aa"
+    },
+    {
+      "path": "README-EN.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "872bdb4d1b16cf743c9d2a960f470737b211c68f",
+      "size": 22586,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/872bdb4d1b16cf743c9d2a960f470737b211c68f"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "af2e9fb9b7cadfd4857893f9647454345e2e02ae",
+      "size": 17988,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/af2e9fb9b7cadfd4857893f9647454345e2e02ae"
+    },
+    {
+      "path": "persona-skills.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6356b2e430648b96880570ecb4f0d21cda72dcd7",
+      "size": 12897,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/6356b2e430648b96880570ecb4f0d21cda72dcd7"
+    },
+    {
+      "path": "tianya-gods-framework",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6d8849fe03745a77f083591816be15f7c230cb63",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/6d8849fe03745a77f083591816be15f7c230cb63"
+    },
+    {
+      "path": "tianya-gods-framework/INSTALL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7fa416859b034e96e6e66788d2b297cfe70483f1",
+      "size": 2414,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/7fa416859b034e96e6e66788d2b297cfe70483f1"
+    },
+    {
+      "path": "tianya-gods-framework/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bd54f7cfa2d9bc4864a1a939d975942dd5d646c6",
+      "size": 17391,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/bd54f7cfa2d9bc4864a1a939d975942dd5d646c6"
+    },
+    {
+      "path": "tianya-gods-framework/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a47b10b463794a69c7ac7f1096a8401d78d8dab5",
+      "size": 14101,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/a47b10b463794a69c7ac7f1096a8401d78d8dab5"
+    },
+    {
+      "path": "tianya-gods-framework/config.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "063364dd50781770dd07b19fd3b6f09a9d855ffa",
+      "size": 1666,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/063364dd50781770dd07b19fd3b6f09a9d855ffa"
+    },
+    {
+      "path": "tianya-gods-framework/gods",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0dc4f74a8757c264f51a7eee84e23614b309bb10",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/0dc4f74a8757c264f51a7eee84e23614b309bb10"
+    },
+    {
+      "path": "tianya-gods-framework/gods/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4bbf93338165e2cd2bb4d7c85a1471cf2303bd60",
+      "size": 2861,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/4bbf93338165e2cd2bb4d7c85a1471cf2303bd60"
+    },
+    {
+      "path": "tianya-gods-framework/gods/dangnianmingyue.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "629c43d302670c2dcd12410106c1f27156aa7302",
+      "size": 10064,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/629c43d302670c2dcd12410106c1f27156aa7302"
+    },
+    {
+      "path": "tianya-gods-framework/gods/dapeng-jinchimingwang.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1e4db45456fd7f9aec397349b456ddf16ef6826c",
+      "size": 10249,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/1e4db45456fd7f9aec397349b456ddf16ef6826c"
+    },
+    {
+      "path": "tianya-gods-framework/gods/kkndme.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "65e92599eedacf751ed345d78dc71f06091f2646",
+      "size": 10283,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/65e92599eedacf751ed345d78dc71f06091f2646"
+    },
+    {
+      "path": "tianya-gods-framework/gods/murongxuecun.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bc50058ed41577d7146aa8d6e6560564a5ae7c85",
+      "size": 9706,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/bc50058ed41577d7146aa8d6e6560564a5ae7c85"
+    },
+    {
+      "path": "tianya-gods-framework/gods/ningcaishen.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5f3d78b8ca4f0c2d6b4c5153f0a292e74ec39811",
+      "size": 9484,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/5f3d78b8ca4f0c2d6b4c5153f0a292e74ec39811"
+    },
+    {
+      "path": "tianya-gods-framework/install.sh",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aebaf7ae35bc1e1a461fe2ea62315dbd34ac041d",
+      "size": 4614,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/aebaf7ae35bc1e1a461fe2ea62315dbd34ac041d"
+    },
+    {
+      "path": "tianya-gods-framework/references",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b427baa02bb3ea382216ece252135d42424c7b69",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/b427baa02bb3ea382216ece252135d42424c7b69"
+    },
+    {
+      "path": "tianya-gods-framework/references/research",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "4f8288d963f51d7ef6bd227458a73ae9bf04b7e1",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/4f8288d963f51d7ef6bd227458a73ae9bf04b7e1"
+    },
+    {
+      "path": "tianya-gods-framework/references/research/01-writings.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5cd08d9fa151d16d8da54b4c677f8283884eb309",
+      "size": 9561,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/5cd08d9fa151d16d8da54b4c677f8283884eb309"
+    },
+    {
+      "path": "tianya-gods-framework/references/research/02-conversations.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "91e1d199df879da33638d0071af36b1fc934f247",
+      "size": 3728,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/91e1d199df879da33638d0071af36b1fc934f247"
+    },
+    {
+      "path": "tianya-gods-framework/references/research/03-expression-dna.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1a8e2f7e0b139f28276f8621e4f99dd5b2ed1a3f",
+      "size": 3135,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/1a8e2f7e0b139f28276f8621e4f99dd5b2ed1a3f"
+    },
+    {
+      "path": "tianya-gods-framework/references/research/04-external-views.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "17a533775eee745e44f77d03cfc100bcc4f364fb",
+      "size": 2078,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/17a533775eee745e44f77d03cfc100bcc4f364fb"
+    },
+    {
+      "path": "tianya-gods-framework/references/research/05-decisions.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0b82cdc0681fd64ec881af1524e0170b4c387a6a",
+      "size": 1303,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/0b82cdc0681fd64ec881af1524e0170b4c387a6a"
+    },
+    {
+      "path": "tianya-gods-framework/references/research/06-timeline.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e02af632ddd4bccefee0ee35963254a03c543a98",
+      "size": 1579,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/e02af632ddd4bccefee0ee35963254a03c543a98"
+    },
+    {
+      "path": "tianya-gods-framework/requirements.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1ab12c7577ad9700099dda22232d8aa8ab8cf8c0",
+      "size": 399,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/1ab12c7577ad9700099dda22232d8aa8ab8cf8c0"
+    },
+    {
+      "path": "tianya-gods-framework/scripts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "507a4953c8473d3e26615751e9f22884a330d5a7",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/507a4953c8473d3e26615751e9f22884a330d5a7"
+    },
+    {
+      "path": "tianya-gods-framework/scripts/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e306e4a5e039f1aadb4ef12dd98f950bec63fb31",
+      "size": 616,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/e306e4a5e039f1aadb4ef12dd98f950bec63fb31"
+    },
+    {
+      "path": "tianya-gods-framework/scripts/__pycache__",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "71ee23f54b06db0c8d7e353c542577902909d97c",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/71ee23f54b06db0c8d7e353c542577902909d97c"
+    },
+    {
+      "path": "tianya-gods-framework/scripts/__pycache__/team-orchestrator.cpython-39.pyc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "53949743a3ad208a0f71b5e208eb53160d166f0b",
+      "size": 19430,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/53949743a3ad208a0f71b5e208eb53160d166f0b"
+    },
+    {
+      "path": "tianya-gods-framework/scripts/team-orchestrator.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "16995e9493ced540b3f209957e5379d5e4513965",
+      "size": 24214,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/16995e9493ced540b3f209957e5379d5e4513965"
+    },
+    {
+      "path": "tianya-gods-framework/test.sh",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a4a72bdd5b87002f00e5a8e5c0e9217126eb5809",
+      "size": 3961,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/a4a72bdd5b87002f00e5a8e5c0e9217126eb5809"
+    },
+    {
+      "path": "tianya-gods-framework/tianya-gods",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "66465e838f882d665bab961a2b420155120dc004",
+      "size": 4752,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/66465e838f882d665bab961a2b420155120dc004"
+    },
+    {
+      "path": "zimeiti",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "eee2e19f65a52844cae24cff27d8dcba9dd2034d",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/eee2e19f65a52844cae24cff27d8dcba9dd2034d"
+    },
+    {
+      "path": "zimeiti/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fc08522fa97f86b4fe99b42d9f41450f874e2457",
+      "size": 28604,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/fc08522fa97f86b4fe99b42d9f41450f874e2457"
+    },
+    {
+      "path": "zimeiti/baoyu-skill",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0038026b830c958b4c5d8e2c6bd105d4b5b323ef",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/0038026b830c958b4c5d8e2c6bd105d4b5b323ef"
+    },
+    {
+      "path": "zimeiti/baoyu-skill/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c98c7e186180c60106c25ce5cfae81492f1c62ad",
+      "size": 8324,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/c98c7e186180c60106c25ce5cfae81492f1c62ad"
+    },
+    {
+      "path": "zimeiti/baoyu-skill/references",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b98d102dc466116f073a6f79a4ed157dc24a4838",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/b98d102dc466116f073a6f79a4ed157dc24a4838"
+    },
+    {
+      "path": "zimeiti/baoyu-skill/references/research",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "820c7086fafc78dabca00b5cac2aad00545bb349",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/820c7086fafc78dabca00b5cac2aad00545bb349"
+    },
+    {
+      "path": "zimeiti/baoyu-skill/references/research/01-writings.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d9a4503b59cc944e0e7dd88e2345c8efbbc898f6",
+      "size": 4637,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/d9a4503b59cc944e0e7dd88e2345c8efbbc898f6"
+    },
+    {
+      "path": "zimeiti/baoyu-skill/references/research/02-conversations.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dbf68aa93d4fff61a4a6c2464cedaeda1b85e652",
+      "size": 1950,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/dbf68aa93d4fff61a4a6c2464cedaeda1b85e652"
+    },
+    {
+      "path": "zimeiti/baoyu-skill/references/research/03-expression-dna.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "547793feda5a5b1866eaad646700507e3abd4f62",
+      "size": 2543,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/547793feda5a5b1866eaad646700507e3abd4f62"
+    },
+    {
+      "path": "zimeiti/baoyu-skill/references/research/04-external-views.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c906c2677b808e32bdf408716bea25fcbb89e370",
+      "size": 2047,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/c906c2677b808e32bdf408716bea25fcbb89e370"
+    },
+    {
+      "path": "zimeiti/baoyu-skill/references/research/05-decisions.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8b7d30ec26284075808d3e82620ad16329c33871",
+      "size": 1981,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/8b7d30ec26284075808d3e82620ad16329c33871"
+    },
+    {
+      "path": "zimeiti/baoyu-skill/references/research/06-timeline.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "68a7fdd1b8c640071f8a20da76f4e3f456294120",
+      "size": 1787,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/68a7fdd1b8c640071f8a20da76f4e3f456294120"
+    },
+    {
+      "path": "zimeiti/guixingren-skill",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "86ca4507f0d7feedca9aa0b2dab419bcb6e48af1",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/86ca4507f0d7feedca9aa0b2dab419bcb6e48af1"
+    },
+    {
+      "path": "zimeiti/guixingren-skill/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fad43867da45d4b90f917f1d126b00d079f61cbd",
+      "size": 12549,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/fad43867da45d4b90f917f1d126b00d079f61cbd"
+    },
+    {
+      "path": "zimeiti/guixingren-skill/references",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b06a7ba12529c989a187ca1302b1b367be3b27ee",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/b06a7ba12529c989a187ca1302b1b367be3b27ee"
+    },
+    {
+      "path": "zimeiti/guixingren-skill/references/research",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f5512cd807b226df0c76f70818d6c564b0faab09",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/f5512cd807b226df0c76f70818d6c564b0faab09"
+    },
+    {
+      "path": "zimeiti/guixingren-skill/references/research/01-writings.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8fe0bfb03a6cfe57ce4091583c605918e7292d94",
+      "size": 4243,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/8fe0bfb03a6cfe57ce4091583c605918e7292d94"
+    },
+    {
+      "path": "zimeiti/guixingren-skill/references/research/02-conversations.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "398267f3c6e2f67b0481fac71f0b1d4a39b650e8",
+      "size": 3497,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/398267f3c6e2f67b0481fac71f0b1d4a39b650e8"
+    },
+    {
+      "path": "zimeiti/guixingren-skill/references/research/03-expression-dna.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bdfe772e0413fe46b43266b9038bc67372db1dda",
+      "size": 3704,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/bdfe772e0413fe46b43266b9038bc67372db1dda"
+    },
+    {
+      "path": "zimeiti/guixingren-skill/references/research/04-external-views.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2fe02c34860dab33bcd69acc02da2ef08d6e0f75",
+      "size": 2016,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/2fe02c34860dab33bcd69acc02da2ef08d6e0f75"
+    },
+    {
+      "path": "zimeiti/guixingren-skill/references/research/05-decisions.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d9a29bd282135ecd1bbe0e717fd95d9dbdb52ef3",
+      "size": 3234,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/d9a29bd282135ecd1bbe0e717fd95d9dbdb52ef3"
+    },
+    {
+      "path": "zimeiti/guixingren-skill/references/research/06-timeline.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "18df89f8ff5b1f183592f9e2ee553f5c651f7138",
+      "size": 2998,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/18df89f8ff5b1f183592f9e2ee553f5c651f7138"
+    },
+    {
+      "path": "zimeiti/jikegongyuan-skill",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d5bb8ca53aadb8254a8b624f0574cb3e5cba5a01",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/d5bb8ca53aadb8254a8b624f0574cb3e5cba5a01"
+    },
+    {
+      "path": "zimeiti/jikegongyuan-skill/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9ee22942c686b45a52b349409552627e21b787e9",
+      "size": 7431,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/9ee22942c686b45a52b349409552627e21b787e9"
+    },
+    {
+      "path": "zimeiti/jikegongyuan-skill/references",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8ec87da1a970052814b188c89d496c8d2c063f99",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/8ec87da1a970052814b188c89d496c8d2c063f99"
+    },
+    {
+      "path": "zimeiti/jikegongyuan-skill/references/research",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d3bfb3929a795d95a8052b731be681d6f4df5127",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/d3bfb3929a795d95a8052b731be681d6f4df5127"
+    },
+    {
+      "path": "zimeiti/jikegongyuan-skill/references/research/01-writings.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c90b3ddbb7bb483023e7aaa6c88272dc163ac6c6",
+      "size": 3750,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/c90b3ddbb7bb483023e7aaa6c88272dc163ac6c6"
+    },
+    {
+      "path": "zimeiti/jikegongyuan-skill/references/research/02-conversations.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "712197558a57a4746f51dc44a0aed933bc33a298",
+      "size": 2331,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/712197558a57a4746f51dc44a0aed933bc33a298"
+    },
+    {
+      "path": "zimeiti/jikegongyuan-skill/references/research/03-expression-dna.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "94772ef3bd7d66bc6d5b321526a9d7df3ba7297c",
+      "size": 2976,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/94772ef3bd7d66bc6d5b321526a9d7df3ba7297c"
+    },
+    {
+      "path": "zimeiti/jikegongyuan-skill/references/research/04-external-views.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6ef3eca7d93709bbab9bba1326027088cadcaa48",
+      "size": 1473,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/6ef3eca7d93709bbab9bba1326027088cadcaa48"
+    },
+    {
+      "path": "zimeiti/jikegongyuan-skill/references/research/05-decisions.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4d3d70c226209a85503cca864de3f0f646c15f4e",
+      "size": 1916,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/4d3d70c226209a85503cca864de3f0f646c15f4e"
+    },
+    {
+      "path": "zimeiti/jikegongyuan-skill/references/research/06-timeline.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6da5b17649d6f74a8a7a51b89b41d366d233b14b",
+      "size": 2451,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/6da5b17649d6f74a8a7a51b89b41d366d233b14b"
+    },
+    {
+      "path": "zimeiti/jiqizhixin-skill",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8e3c2f85b05fb9c5175e2cfcf6f913c7278ff49c",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/8e3c2f85b05fb9c5175e2cfcf6f913c7278ff49c"
+    },
+    {
+      "path": "zimeiti/jiqizhixin-skill/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dde9b5cb06b5582dbe851ceeb608a3f914457e71",
+      "size": 14057,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/dde9b5cb06b5582dbe851ceeb608a3f914457e71"
+    },
+    {
+      "path": "zimeiti/jiqizhixin-skill/references",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "950a0fecf1508137d09c9a78801557d0d0900851",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/950a0fecf1508137d09c9a78801557d0d0900851"
+    },
+    {
+      "path": "zimeiti/jiqizhixin-skill/references/research",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a87e68dfaa6006032cd5c026dc4b1eba7ddfc004",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/a87e68dfaa6006032cd5c026dc4b1eba7ddfc004"
+    },
+    {
+      "path": "zimeiti/jiqizhixin-skill/references/research/01-writings.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d51aab1429836f3a9ecca6a3b0625a2844c68c15",
+      "size": 3770,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/d51aab1429836f3a9ecca6a3b0625a2844c68c15"
+    },
+    {
+      "path": "zimeiti/jiqizhixin-skill/references/research/02-conversations.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0d3a3830aa620f04f0705773c3c96bd4dd21c477",
+      "size": 2024,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/0d3a3830aa620f04f0705773c3c96bd4dd21c477"
+    },
+    {
+      "path": "zimeiti/jiqizhixin-skill/references/research/03-expression-dna.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cd8fedd01f76bca6823f63714c7afb1d065e0279",
+      "size": 4126,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/cd8fedd01f76bca6823f63714c7afb1d065e0279"
+    },
+    {
+      "path": "zimeiti/jiqizhixin-skill/references/research/04-external-views.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5b49dd49255397c4b89976fa15b5bd7c169acdcb",
+      "size": 2402,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/5b49dd49255397c4b89976fa15b5bd7c169acdcb"
+    },
+    {
+      "path": "zimeiti/jiqizhixin-skill/references/research/05-decisions.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "160d44e502dd5da48de227134a5b301cce8a8f60",
+      "size": 3030,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/160d44e502dd5da48de227134a5b301cce8a8f60"
+    },
+    {
+      "path": "zimeiti/jiqizhixin-skill/references/research/06-timeline.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e7e633c86c0bd5781427b281d215adb3c6136fc4",
+      "size": 3182,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/e7e633c86c0bd5781427b281d215adb3c6136fc4"
+    },
+    {
+      "path": "zimeiti/liangziwei-skill",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5b08c9244bdfb18660427e815db90313f0bd8873",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/5b08c9244bdfb18660427e815db90313f0bd8873"
+    },
+    {
+      "path": "zimeiti/liangziwei-skill/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fec622036f6966e5f1000faa3a5d90f72bb4f9d4",
+      "size": 7217,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/fec622036f6966e5f1000faa3a5d90f72bb4f9d4"
+    },
+    {
+      "path": "zimeiti/liangziwei-skill/references",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "114a15da6e91a903a9fea7d6244a487db30f5a03",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/114a15da6e91a903a9fea7d6244a487db30f5a03"
+    },
+    {
+      "path": "zimeiti/liangziwei-skill/references/research",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a74ffeb615af1f64febcc15dae304b6a6f0d64d3",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/a74ffeb615af1f64febcc15dae304b6a6f0d64d3"
+    },
+    {
+      "path": "zimeiti/liangziwei-skill/references/research/01-writings.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "87aec98164df2db211e59bec49f10036fe33c5a6",
+      "size": 3994,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/87aec98164df2db211e59bec49f10036fe33c5a6"
+    },
+    {
+      "path": "zimeiti/liangziwei-skill/references/research/02-conversations.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c9c4e7ca76bd5ab8acfd403faa969a2ec8daa198",
+      "size": 2013,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/c9c4e7ca76bd5ab8acfd403faa969a2ec8daa198"
+    },
+    {
+      "path": "zimeiti/liangziwei-skill/references/research/03-expression-dna.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bb266680e75d81d156d1631a67dbd9587d4e0e93",
+      "size": 3145,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/bb266680e75d81d156d1631a67dbd9587d4e0e93"
+    },
+    {
+      "path": "zimeiti/liangziwei-skill/references/research/04-external-views.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7eec2dd25413123ee2f073a59adcdeb099320531",
+      "size": 1908,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/7eec2dd25413123ee2f073a59adcdeb099320531"
+    },
+    {
+      "path": "zimeiti/liangziwei-skill/references/research/05-decisions.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fa6eaa60db28a5690542f7d9446ea19c41072bcf",
+      "size": 2076,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/fa6eaa60db28a5690542f7d9446ea19c41072bcf"
+    },
+    {
+      "path": "zimeiti/liangziwei-skill/references/research/06-timeline.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2a248ac0af4f308ae4c75d378cacd5f732f2301b",
+      "size": 2577,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/2a248ac0af4f308ae4c75d378cacd5f732f2301b"
+    },
+    {
+      "path": "zimeiti/lijigang-skill",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "516a2881220bf734cf8950a3e2df190cf3e13b95",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/516a2881220bf734cf8950a3e2df190cf3e13b95"
+    },
+    {
+      "path": "zimeiti/lijigang-skill/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bc385e7265b440779d9092375967df8083065b24",
+      "size": 8431,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/bc385e7265b440779d9092375967df8083065b24"
+    },
+    {
+      "path": "zimeiti/lijigang-skill/references",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1e8efe83d3d160f10e64427237caa97276ffc195",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/1e8efe83d3d160f10e64427237caa97276ffc195"
+    },
+    {
+      "path": "zimeiti/lijigang-skill/references/research",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "aa05335a0088e0536e946db674b6e884db597ac4",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/aa05335a0088e0536e946db674b6e884db597ac4"
+    },
+    {
+      "path": "zimeiti/lijigang-skill/references/research/01-writings.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2452b03d8d659338ef80bfa290092b4e63bcdd3c",
+      "size": 5606,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/2452b03d8d659338ef80bfa290092b4e63bcdd3c"
+    },
+    {
+      "path": "zimeiti/lijigang-skill/references/research/02-conversations.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b61158d5382224a9bc9aacc92950c33cc504534d",
+      "size": 3094,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/b61158d5382224a9bc9aacc92950c33cc504534d"
+    },
+    {
+      "path": "zimeiti/lijigang-skill/references/research/03-expression-dna.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d8ec3ee2f74f4e94d122bd99d186c698e4128bb5",
+      "size": 3055,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/d8ec3ee2f74f4e94d122bd99d186c698e4128bb5"
+    },
+    {
+      "path": "zimeiti/lijigang-skill/references/research/04-external-views.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f15636bbac1a4fbee341e458114289e771ef2efe",
+      "size": 2389,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/f15636bbac1a4fbee341e458114289e771ef2efe"
+    },
+    {
+      "path": "zimeiti/lijigang-skill/references/research/05-decisions.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f5121b65e92bb8963c82a6d225a5ffc65d569f47",
+      "size": 1756,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/f5121b65e92bb8963c82a6d225a5ffc65d569f47"
+    },
+    {
+      "path": "zimeiti/lijigang-skill/references/research/06-timeline.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "44071322112a4374308ee9472c4567458ac75bec",
+      "size": 1884,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/44071322112a4374308ee9472c4567458ac75bec"
+    },
+    {
+      "path": "zimeiti/qiuzhi2046-skill",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "bdcb3c68929ae9d5431db4bc9d177706d09386eb",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/bdcb3c68929ae9d5431db4bc9d177706d09386eb"
+    },
+    {
+      "path": "zimeiti/qiuzhi2046-skill/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c9395fd90c2dc2c409e8f9a3ad7f20f9cb8b0c32",
+      "size": 16802,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/c9395fd90c2dc2c409e8f9a3ad7f20f9cb8b0c32"
+    },
+    {
+      "path": "zimeiti/qiuzhi2046-skill/references",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1a4a13b79d37d5db071d72c989258babfad26865",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/1a4a13b79d37d5db071d72c989258babfad26865"
+    },
+    {
+      "path": "zimeiti/qiuzhi2046-skill/references/research",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "923f32a28a6b580680cce27e677de52d0caee3c1",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/923f32a28a6b580680cce27e677de52d0caee3c1"
+    },
+    {
+      "path": "zimeiti/qiuzhi2046-skill/references/research/01-writings.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "52404ef9737b3b8ae4248465a5e6002df3db78e8",
+      "size": 3268,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/52404ef9737b3b8ae4248465a5e6002df3db78e8"
+    },
+    {
+      "path": "zimeiti/qiuzhi2046-skill/references/research/02-conversations.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "54957b6934487070ead083077511ceff4ae520c2",
+      "size": 3154,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/54957b6934487070ead083077511ceff4ae520c2"
+    },
+    {
+      "path": "zimeiti/qiuzhi2046-skill/references/research/03-expression-dna.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ce904f04c37707a2a537baa00c561795f0e98e0e",
+      "size": 2749,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/ce904f04c37707a2a537baa00c561795f0e98e0e"
+    },
+    {
+      "path": "zimeiti/qiuzhi2046-skill/references/research/04-external-views.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "306025c7ad1c3faee17cd0a08226e2a1d14d9818",
+      "size": 2508,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/306025c7ad1c3faee17cd0a08226e2a1d14d9818"
+    },
+    {
+      "path": "zimeiti/qiuzhi2046-skill/references/research/05-decisions.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7082a362917fb35f780b142d6d63485eb667121f",
+      "size": 3067,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/7082a362917fb35f780b142d6d63485eb667121f"
+    },
+    {
+      "path": "zimeiti/qiuzhi2046-skill/references/research/06-timeline.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1df36065576cfecc6ceef22d2b3117717bfd2f4a",
+      "size": 2980,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/1df36065576cfecc6ceef22d2b3117717bfd2f4a"
+    },
+    {
+      "path": "zimeiti/saibochanshin-skill",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "04ae10efe4980543d9e24c97105a259f889e87d1",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/04ae10efe4980543d9e24c97105a259f889e87d1"
+    },
+    {
+      "path": "zimeiti/saibochanshin-skill/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "235c5458ecb303b13bd2fceae42442ef9beeef32",
+      "size": 17623,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/235c5458ecb303b13bd2fceae42442ef9beeef32"
+    },
+    {
+      "path": "zimeiti/saibochanshin-skill/references",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d8aedcd070721ba92c0dc15bd7a968c3bd44af9c",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/d8aedcd070721ba92c0dc15bd7a968c3bd44af9c"
+    },
+    {
+      "path": "zimeiti/saibochanshin-skill/references/research",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9e0baf53999ce1eac6b57d2e5d801facc8719f41",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/9e0baf53999ce1eac6b57d2e5d801facc8719f41"
+    },
+    {
+      "path": "zimeiti/saibochanshin-skill/references/research/01-writings.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "734ae1730f603ebb98d8ddeddd9ea35397555fb5",
+      "size": 4863,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/734ae1730f603ebb98d8ddeddd9ea35397555fb5"
+    },
+    {
+      "path": "zimeiti/saibochanshin-skill/references/research/02-conversations.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1e9869439279a289f4a91ef23bd78278b63d04a5",
+      "size": 4422,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/1e9869439279a289f4a91ef23bd78278b63d04a5"
+    },
+    {
+      "path": "zimeiti/saibochanshin-skill/references/research/03-expression-dna.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "77485210008a1e10331bdbb4a496a3b630d7b9da",
+      "size": 5312,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/77485210008a1e10331bdbb4a496a3b630d7b9da"
+    },
+    {
+      "path": "zimeiti/saibochanshin-skill/references/research/04-external-views.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "627d3260f3f400cb31cc89395abca7934fa7cf62",
+      "size": 2815,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/627d3260f3f400cb31cc89395abca7934fa7cf62"
+    },
+    {
+      "path": "zimeiti/saibochanshin-skill/references/research/05-decisions.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b74ee1911935decae549da658205bfd6661f40a4",
+      "size": 3432,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/b74ee1911935decae549da658205bfd6661f40a4"
+    },
+    {
+      "path": "zimeiti/saibochanshin-skill/references/research/06-timeline.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "94ac6c79a035f7ac989478145d1decc8c317d632",
+      "size": 3720,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/94ac6c79a035f7ac989478145d1decc8c317d632"
+    },
+    {
+      "path": "zimeiti/saiwenqiaoyi-skill",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "bf5e38b20fa1de4cbb618d00d440efbb09a05479",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/bf5e38b20fa1de4cbb618d00d440efbb09a05479"
+    },
+    {
+      "path": "zimeiti/saiwenqiaoyi-skill/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0c326367658bc8c989fd925a617d0e10cdf45b57",
+      "size": 14252,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/0c326367658bc8c989fd925a617d0e10cdf45b57"
+    },
+    {
+      "path": "zimeiti/saiwenqiaoyi-skill/references",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e6041a4decd1a2cb1a90950a1abb0309c258e38c",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/e6041a4decd1a2cb1a90950a1abb0309c258e38c"
+    },
+    {
+      "path": "zimeiti/saiwenqiaoyi-skill/references/research",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "13b55a8547a49ebbb076417d720e98966d8e0e4e",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/13b55a8547a49ebbb076417d720e98966d8e0e4e"
+    },
+    {
+      "path": "zimeiti/saiwenqiaoyi-skill/references/research/01-writings.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "80b532c6bd33e6f299e58031b00597d08314f1a5",
+      "size": 3296,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/80b532c6bd33e6f299e58031b00597d08314f1a5"
+    },
+    {
+      "path": "zimeiti/saiwenqiaoyi-skill/references/research/02-conversations.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "86646997709013276763e8ee658c6c6e650b1e89",
+      "size": 1940,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/86646997709013276763e8ee658c6c6e650b1e89"
+    },
+    {
+      "path": "zimeiti/saiwenqiaoyi-skill/references/research/03-expression-dna.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8458e66546990dcd9d9634ae8a841a80b11b7a92",
+      "size": 3696,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/8458e66546990dcd9d9634ae8a841a80b11b7a92"
+    },
+    {
+      "path": "zimeiti/saiwenqiaoyi-skill/references/research/04-external-views.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "519637bac77d03fd15217ff109bedaf5dd05bd2e",
+      "size": 1623,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/519637bac77d03fd15217ff109bedaf5dd05bd2e"
+    },
+    {
+      "path": "zimeiti/saiwenqiaoyi-skill/references/research/05-decisions.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "168441ddcf24cc734b4ef2343fd25b394c6b5520",
+      "size": 2937,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/168441ddcf24cc734b4ef2343fd25b394c6b5520"
+    },
+    {
+      "path": "zimeiti/saiwenqiaoyi-skill/references/research/06-timeline.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cf58f003146e83a567e0ec1f5f35962c244ee182",
+      "size": 3219,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/cf58f003146e83a567e0ec1f5f35962c244ee182"
+    },
+    {
+      "path": "zimeiti/shuzishengmingkazike-skill",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "126046b789cafdddd79bcc5b1c8020546577b612",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/126046b789cafdddd79bcc5b1c8020546577b612"
+    },
+    {
+      "path": "zimeiti/shuzishengmingkazike-skill/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2765a22cbd543a6521d2f5dd9ec3c536ab01a26e",
+      "size": 15801,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/2765a22cbd543a6521d2f5dd9ec3c536ab01a26e"
+    },
+    {
+      "path": "zimeiti/shuzishengmingkazike-skill/references",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "dcdda28bca18498e64c4d17666633ace5480a6f3",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/dcdda28bca18498e64c4d17666633ace5480a6f3"
+    },
+    {
+      "path": "zimeiti/shuzishengmingkazike-skill/references/research",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ecaff577bc3242c510a5474160e3ae4a56a3b529",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/ecaff577bc3242c510a5474160e3ae4a56a3b529"
+    },
+    {
+      "path": "zimeiti/shuzishengmingkazike-skill/references/research/01-writings.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ced027563c5c0e1d8ea4455e590f43ddeb1f417d",
+      "size": 4607,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/ced027563c5c0e1d8ea4455e590f43ddeb1f417d"
+    },
+    {
+      "path": "zimeiti/shuzishengmingkazike-skill/references/research/02-conversations.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cf3ebd6739f68c21c1e67ad8cf4d14b2a6fd7976",
+      "size": 3924,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/cf3ebd6739f68c21c1e67ad8cf4d14b2a6fd7976"
+    },
+    {
+      "path": "zimeiti/shuzishengmingkazike-skill/references/research/03-expression-dna.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1bffb13b640c0ca5bf7550757ead8f289f9b414e",
+      "size": 3922,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/1bffb13b640c0ca5bf7550757ead8f289f9b414e"
+    },
+    {
+      "path": "zimeiti/shuzishengmingkazike-skill/references/research/04-external-views.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7174c3d91d7d2b9f69cd0d4f205a883d9e8b1ecf",
+      "size": 1997,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/7174c3d91d7d2b9f69cd0d4f205a883d9e8b1ecf"
+    },
+    {
+      "path": "zimeiti/shuzishengmingkazike-skill/references/research/05-decisions.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d217a8bc4d181beb7a070df5a999014844a2ecb3",
+      "size": 3172,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/d217a8bc4d181beb7a070df5a999014844a2ecb3"
+    },
+    {
+      "path": "zimeiti/shuzishengmingkazike-skill/references/research/06-timeline.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c8e538ce215b6b8992180e8227d049e818a5e525",
+      "size": 3275,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/c8e538ce215b6b8992180e8227d049e818a5e525"
+    },
+    {
+      "path": "zimeiti/tegongyuzhou-skill",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d3d1e5e39267a23aefe03d118cb069eccaea3d48",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/d3d1e5e39267a23aefe03d118cb069eccaea3d48"
+    },
+    {
+      "path": "zimeiti/tegongyuzhou-skill/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0cdb0d8353ef04a0096783f928a7717463aafa87",
+      "size": 13308,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/0cdb0d8353ef04a0096783f928a7717463aafa87"
+    },
+    {
+      "path": "zimeiti/tegongyuzhou-skill/references",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5da321d517e6ebf3b692c91817cb5715594f9076",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/5da321d517e6ebf3b692c91817cb5715594f9076"
+    },
+    {
+      "path": "zimeiti/tegongyuzhou-skill/references/research",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5db1379d6a204b98df8bc6ef545994e69f89c5eb",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/5db1379d6a204b98df8bc6ef545994e69f89c5eb"
+    },
+    {
+      "path": "zimeiti/tegongyuzhou-skill/references/research/01-writings.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f7ad96358fe85235508ea65c83ec830c670e40f2",
+      "size": 4140,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/f7ad96358fe85235508ea65c83ec830c670e40f2"
+    },
+    {
+      "path": "zimeiti/tegongyuzhou-skill/references/research/02-conversations.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3dfce6806513df10a34a7d82f969d75634d7b18c",
+      "size": 1915,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/3dfce6806513df10a34a7d82f969d75634d7b18c"
+    },
+    {
+      "path": "zimeiti/tegongyuzhou-skill/references/research/03-expression-dna.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "639c8b8aa0862457b6afec088329016fe7c72f34",
+      "size": 4218,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/639c8b8aa0862457b6afec088329016fe7c72f34"
+    },
+    {
+      "path": "zimeiti/tegongyuzhou-skill/references/research/04-external-views.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e3edf7fe30be137fde474165e0a5b14c3593ab6c",
+      "size": 2584,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/e3edf7fe30be137fde474165e0a5b14c3593ab6c"
+    },
+    {
+      "path": "zimeiti/tegongyuzhou-skill/references/research/05-decisions.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b74b3209d845f6141d5d4d093b2056bfc63fa4b1",
+      "size": 3046,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/b74b3209d845f6141d5d4d093b2056bfc63fa4b1"
+    },
+    {
+      "path": "zimeiti/tegongyuzhou-skill/references/research/06-timeline.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0170787835381b0ac6862df069f7b6e13d9ad0f8",
+      "size": 2473,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/0170787835381b0ac6862df069f7b6e13d9ad0f8"
+    },
+    {
+      "path": "zimeiti/xinzhiyuan-skill",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "fcc5c6667e5fbc3410668bb0671fb1900dbdb3db",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/fcc5c6667e5fbc3410668bb0671fb1900dbdb3db"
+    },
+    {
+      "path": "zimeiti/xinzhiyuan-skill/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2d61ee80f4d43e8d3a1ac0e76f47282bc945bff2",
+      "size": 6519,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/2d61ee80f4d43e8d3a1ac0e76f47282bc945bff2"
+    },
+    {
+      "path": "zimeiti/xinzhiyuan-skill/references",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9c8b5b63cc61dd9bc59e9f726df68beac61c6b10",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/9c8b5b63cc61dd9bc59e9f726df68beac61c6b10"
+    },
+    {
+      "path": "zimeiti/xinzhiyuan-skill/references/research",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9d372ef1d11707a3b368fa2236dfa6dc409308d5",
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/trees/9d372ef1d11707a3b368fa2236dfa6dc409308d5"
+    },
+    {
+      "path": "zimeiti/xinzhiyuan-skill/references/research/01-writings.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "031d61d171f3c541ceca540d7483e28dfec9b783",
+      "size": 1858,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/031d61d171f3c541ceca540d7483e28dfec9b783"
+    },
+    {
+      "path": "zimeiti/xinzhiyuan-skill/references/research/02-conversations.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "72526c8d915df8f417336eaac12703acffbddca8",
+      "size": 1282,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/72526c8d915df8f417336eaac12703acffbddca8"
+    },
+    {
+      "path": "zimeiti/xinzhiyuan-skill/references/research/03-expression-dna.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "18ef568e44dabcd221c160004d286cea4df8a517",
+      "size": 2082,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/18ef568e44dabcd221c160004d286cea4df8a517"
+    },
+    {
+      "path": "zimeiti/xinzhiyuan-skill/references/research/04-external-views.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bbbfb33d5ce719c1074dc2f0dd555ee95db7a309",
+      "size": 1162,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/bbbfb33d5ce719c1074dc2f0dd555ee95db7a309"
+    },
+    {
+      "path": "zimeiti/xinzhiyuan-skill/references/research/05-decisions.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7e48e02c55a79233c56f560fec8e9bacea9bb469",
+      "size": 1558,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/7e48e02c55a79233c56f560fec8e9bacea9bb469"
+    },
+    {
+      "path": "zimeiti/xinzhiyuan-skill/references/research/06-timeline.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "df76906ca577ea0d1f25f70d40272c7fa826cd31",
+      "size": 1641,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/df76906ca577ea0d1f25f70d40272c7fa826cd31"
+    },
+    {
+      "path": "赛博蒸馏Skill实操指南.pdf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c90d7fed81611f83d68fc2f3854512428218cf69",
+      "size": 1360426,
+      "url": "https://api.github.com/repos/momozi1996/awesome-ai-persona-skills/git/blobs/c90d7fed81611f83d68fc2f3854512428218cf69"
+    }
+  ],
+  "truncated": false
+}
