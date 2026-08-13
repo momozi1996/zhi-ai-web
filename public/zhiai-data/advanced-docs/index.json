@@ -1,0 +1,86 @@
+[
+  {
+    "file": "00-Overview.md",
+    "path": "00-Overview.md",
+    "title": "00 Agent工程总览 (Overview)",
+    "size_bytes": 4856,
+    "summary": "# 00 Agent工程总览 (Overview) > Agent工程全景图、技术栈概览、发展趋势 **内容重点**: 宏观视角，建立全局认知 --- ## 1. 章节总览 本模块聚焦现代AI Age"
+  },
+  {
+    "file": "01-Core-Concepts.md",
+    "path": "01-Core-Concepts.md",
+    "title": "01 Agent核心概念 (Core Concepts)",
+    "size_bytes": 7211,
+    "summary": "# 01 Agent核心概念 (Core Concepts) > Agent定义、架构模式、关键术语、设计原则 --- ## 1. 本章定位 本章为Agent工程的概念底座，厘清行业混杂术语，拆解Ag"
+  },
+  {
+    "file": "02-Agent-Model-Training-Agent.md",
+    "path": "02-Agent-Model-Training-Agent.md",
+    "title": "02 Agent模型训练 (Agent Model Training)",
+    "size_bytes": 8316,
+    "summary": "# 02 Agent模型训练 (Agent Model Training) > Agent模型训练方法、SFT、RLHF、DPO、工具调用训练 **内容重点**: 训练技术，模型优化 --- ## 1"
+  },
+  {
+    "file": "03-Agent-Data-Pipeline-Agent.md",
+    "path": "03-Agent-Data-Pipeline-Agent.md",
+    "title": "03 Agent数据管线 (Agent Data Pipeline)",
+    "size_bytes": 9685,
+    "summary": "# 03 Agent数据管线 (Agent Data Pipeline) > 数据采集、合成、清洗、标注、质量评估 **内容重点**: 数据工程，数据质量 --- ## 1. 本章定位 数据是Agen"
+  },
+  {
+    "file": "04-Agent-Infrastructure-Agent.md",
+    "path": "04-Agent-Infrastructure-Agent.md",
+    "title": "04 Agent基础设施 (Agent Infrastructure)",
+    "size_bytes": 8942,
+    "summary": "# 04 Agent基础设施 (Agent Infrastructure) > 部署、推理、服务化、监控、弹性伸缩 **内容重点**: 工程架构，基础设施 --- ## 1. 本章定位 本章讲解Age"
+  },
+  {
+    "file": "05-Harness-Engineering.md",
+    "path": "05-Harness-Engineering.md",
+    "title": "05 Harness工程 (Harness Engineering)",
+    "size_bytes": 8494,
+    "summary": "# 05 Harness工程 (Harness Engineering) > 工具调用框架、MCP协议、A2A协议、API集成 **内容重点**: 协议标准，工具生态 --- ## 1. 本章定位 H"
+  },
+  {
+    "file": "06-Capability-Engineering.md",
+    "path": "06-Capability-Engineering.md",
+    "title": "06 Agent能力工程 (Capability Engineering)",
+    "size_bytes": 9571,
+    "summary": "# 06 Agent能力工程 (Capability Engineering) > 规划、记忆、工具使用、自我反思、多Agent协作 **内容重点**: 能力建设，能力增强 --- ## 1. 本章定"
+  },
+  {
+    "file": "07-Knowledge-Distillation.md",
+    "path": "07-Knowledge-Distillation.md",
+    "title": "07 知识蒸馏 (Knowledge Distillation)",
+    "size_bytes": 8526,
+    "summary": "# 07 知识蒸馏 (Knowledge Distillation) > 教师模型蒸馏、能力迁移、模型压缩、效率优化 **内容重点**: 蒸馏技术，模型优化 --- ## 1. 本章定位 Agent知"
+  },
+  {
+    "file": "08-Evaluation-Benchmarks.md",
+    "path": "08-Evaluation-Benchmarks.md",
+    "title": "08 评测与基准 (Evaluation & Benchmarks)",
+    "size_bytes": 8705,
+    "summary": "# 08 评测与基准 (Evaluation & Benchmarks) > AgentBench、SWE-bench、评估方法、指标体系 **内容重点**: 评测体系，效果衡量 --- ## 1. "
+  },
+  {
+    "file": "09-Code-Data-Resources.md",
+    "path": "09-Code-Data-Resources.md",
+    "title": "09 代码、数据与资源 (Code, Data & Resources)",
+    "size_bytes": 9202,
+    "summary": "# 09 代码、数据与资源 (Code, Data & Resources) > 开源代码、数据集、工具链、预训练模型 **内容重点**: 资源汇总，工具推荐 --- ## 1. 本章定位 Agent"
+  },
+  {
+    "file": "10-Applications-Case-Studies.md",
+    "path": "10-Applications-Case-Studies.md",
+    "title": "10 应用与案例 (Applications & Case Studies)",
+    "size_bytes": 10181,
+    "summary": "# 10 应用与案例 (Applications & Case Studies) > 实际应用、成功案例、最佳实践、行业解决方案 **内容重点**: 落地应用，实战经验 --- ## 1. 本章定位 "
+  },
+  {
+    "file": "README.md",
+    "path": "README.md",
+    "title": "Agent工程与训练｜进阶知识",
+    "size_bytes": 4299,
+    "summary": "# Agent工程与训练｜进阶知识 > 本目录：`docs/04‑Agent工程与训练/进阶知识` 本套文档面向**做私有微调Agent的工程师、TPM、AI产品**，聚焦从0到1落地可生产可用的LL"
+  }
+]

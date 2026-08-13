@@ -1,0 +1,98 @@
+[
+  {
+    "file": "A2A_Protocol_A2A协议化与协调工程.md",
+    "path": "A2A_Protocol_A2A协议化与协调工程.md",
+    "title": "Agent-to-Agent (A2A) 协议化与协调工程：多智能体系统的通信规范与解耦架构",
+    "size_bytes": 11907,
+    "summary": "随着 AI Agent 走出单体应用阶段，跨部门、跨业务甚至跨企业的智能体协同需求爆发。传统的集中式主从调度（Master-Worker）架构在应对大规模异构 Agent 时，展现出高耦合、状态同步混",
+    "date": null
+  },
+  {
+    "file": "AI4AI_系统架构与全自动训练流水线.md",
+    "path": "AI4AI_系统架构与全自动训练流水线.md",
+    "title": "AI4AI（AI for AI）技术指南：从合成数据、自我对齐到闭环评测的全景范式",
+    "size_bytes": 29826,
+    "summary": "随着大语言模型（LLM）与多模态模型参数规模与智力水平的飞跃，传统的“人工采集数据 + 人类手动标注 + 人类反馈强化学习（RLHF）”模式正在迅速触及物理天花板。 在此背景下，AI4AI（AI fo",
+    "date": null
+  },
+  {
+    "file": "Agent Observability & Eval-Driven Harness_可观测性与评测驱动工程.md",
+    "path": "Agent Observability & Eval-Driven Harness_可观测性与评测驱动工程.md",
+    "title": "Agent 可观测性与评测驱动工程（Eval-Driven Harness）：生产级 AI Agent 的质量与运维闭环",
+    "size_bytes": 11564,
+    "summary": "将大语言模型（LLM）从 Demo 推向生产环境的过程中，最大的挑战莫过于其非确定性（Non-deterministic）与黑盒执行路径。传统的 APM（应用性能监控，如 Datadog、Promet",
+    "date": null
+  },
+  {
+    "file": "Chaos Agent Engineering混沌 Agent 工程与合成压力注入.md",
+    "path": "Chaos Agent Engineering混沌 Agent 工程与合成压力注入.md",
+    "title": "混沌 Agent 工程与合成压力注入（Chaos Agent Engineering）：自主多智能体系统的抗脆弱演练",
+    "size_bytes": 7740,
+    "summary": "当企业开始部署数十个互相协同的自治智能体（Multi-Agent Swarms）时，系统进入了复杂非线性系统（Complex Nonlinear System） 的范畴。 在这种系统里，单一 Agen",
+    "date": null
+  },
+  {
+    "file": "Graph_Engineering_图工程.md",
+    "path": "Graph_Engineering_图工程.md",
+    "title": "图工程（Graph Engineering）完整指南：从 Agent 编排到 GraphRAG 的系统级架构",
+    "size_bytes": 14910,
+    "summary": "随着大语言模型（LLM）应用从简单的“单轮问答（Prompt）”向“自主智能体（Agent）”与“企业级深度检索”迈进，行业对 LLM 系统控制力与可靠性的需求爆发。在此背景下，图工程（Graph E",
+    "date": null
+  },
+  {
+    "file": "Harness_Engineering_驾驭工程.md",
+    "path": "Harness_Engineering_驾驭工程.md",
+    "title": "Harness Engineering（驾驭工程）：构建受控、高可复原的 Agent 执行外骨骼",
+    "size_bytes": 14379,
+    "summary": "在 AI 应用工程的演进链条中，“写出完美的 Prompt（提示词工程）”正在迅速退潮。工业界（特别是以 Anthropic 的 Claude Code、OpenAI 以及 SWE-bench 顶级团",
+    "date": null
+  },
+  {
+    "file": "Loop_Engineering_循环工程.md",
+    "path": "Loop_Engineering_循环工程.md",
+    "title": "《Loop Engineering 循环工程：2026 AI 工程新范式》",
+    "size_bytes": 36831,
+    "summary": "全文：3-4万字 序言：2026年，AI 工程正在发生无声政变 大佬集体换口径 范式崩塌 OpenAI + Anthropic + Google 顶级工程师一致认为： 2026 年，AI 工程师的核心",
+    "date": "2026-06-07"
+  },
+  {
+    "file": "MemoryCompaction&Sleep Protocol记忆压缩与睡眠.md",
+    "path": "MemoryCompaction&Sleep Protocol记忆压缩与睡眠.md",
+    "title": "记忆压缩与“睡眠/巩固”协议（Memory Compaction & Sleep Protocol）：长生存期 Agent 的记忆拓扑重构",
+    "size_bytes": 9537,
+    "summary": "当 Agent 从“一次性工具”转变为“长期运行的数字员工”时，它面临的最严峻挑战不是算力，而是记忆退化与上下文毒化（Context Contamination）。运行数周后，历史对话中大量的中间报错",
+    "date": "2026-07-20"
+  },
+  {
+    "file": "Neuro-Symbolic Verification Harness_神经-符号联合验证工程.md",
+    "path": "Neuro-Symbolic Verification Harness_神经-符号联合验证工程.md",
+    "title": "神经-符号联合验证工程（Neuro-Symbolic Verification Harness）：零概率幻觉的确定性安全护栏",
+    "size_bytes": 6665,
+    "summary": "尽管大语言模型（LLM）具备令人惊叹的直觉、自然语言理解与代码生成能力，但其基于概率计算的本质决定了它永远无法达到“100% 绝对无幻觉”。 在金融精算、医疗剂量控制、工控系统与高危基础设施运维场景中",
+    "date": null
+  },
+  {
+    "file": "Speculative_Execution&Shadow_Agents_推测性执行与影子Agent架构.md",
+    "path": "Speculative_Execution&Shadow_Agents_推测性执行与影子Agent架构.md",
+    "title": "推测性执行与影子 Agent 架构（Speculative Execution & Shadow Agents）：破解 Agent 延迟瓶颈的预计算范式",
+    "size_bytes": 9631,
+    "summary": "大语言模型（LLM）驱动的 Agent 正在走向复杂业务场景，但高延迟（High Latency）始终是阻止其获得主流用户体验的“第一杀手”。一个包含 4 步推理、2 次工具调用与 1 次人机确认的典",
+    "date": null
+  },
+  {
+    "file": "readme.md",
+    "path": "readme.md",
+    "title": "一、千万别错过的最新知识点（近三个月最热门，2026.4-2026.7）",
+    "size_bytes": 2038,
+    "summary": "收录WAIC 2026、WWDC 2026、顶会最新突破、主流厂商开源重磅成果，优先更新，时效性最高 - MoE混合专家轻量化落地：7B/13B小参数量专家模型量产部署方案 - 百万上下文窗口低成本优",
+    "date": "2026.4-2026.7"
+  },
+  {
+    "file": "人类高级干预下的AI训练AI.md",
+    "path": "人类高级干预下的AI训练AI.md",
+    "title": "人类高级干预下的 AI 训练 AI（Human-Guided AI4AI）技术指南：高维断点、宪法控制与深思式监督",
+    "size_bytes": 28661,
+    "summary": "在完全闭环的 AI4AI（AI 训练 AI）范式中，系统展现出前所未有的演进效率，但同时也暴露出严重的失控风险：模型可能产生奖励篡改（Reward Hacking）、近亲繁殖式的数据坍塌（Synthe",
+    "date": null
+  }
+]

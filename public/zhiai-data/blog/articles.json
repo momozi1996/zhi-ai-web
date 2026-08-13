@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "title": "深度长文｜AI训练AI 新范式开启：AI4AI （AI for AI），AIBuildAI，AI训练/优化/评测AI（讲解视频+代码）",
+    "account": "momo子讲AI",
+    "date": "2026-08-01",
+    "summary": "全文很长，建议你收藏后慢慢读。读完之后，你对\"大模型是怎么炼成的\"这件事的理解，会超过身边99%的人。省流：直接看讲解视频（也是AI生成）写在前面的话：AI新范式开启一个正在发生的转折点如果你还觉得，训练一个大模型，靠的是成千上万的人类标注",
+    "original_url": "https://mp.weixin.qq.com/s/IAEMrU8MP3Cx0iERWf_Q0A",
+    "cover": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/iazCrKuBFsicDjhJsn9wTcpDRDwDOHQ3c9IHrM70t9TlsmLSptEQLNntxZm3RpAPFBtIyicxCdiavrndCeZWMTjVFcE4RJhxEJSMVJnwYlqgt18/0?wx_fmt=jpeg",
+    "file": "article-1.md",
+    "word_count": 13770
+  },
+  {
+    "id": 2,
+    "title": "我做了全球首个会「自进化」「自微调」的 Code Agent ：momo Code（V1.0.0）🤔",
+    "account": "momo子讲AI",
+    "date": "2026-06-27",
+    "summary": "我做了全球首个完全开源免费、会「自进化」「自微调」的CodeAgent我把它命名为MOMOCODE。\"MOMO代表了每一个身处AI时代，心怀热爱、坚持微光，想要躬身创造价值的普通人。\"官网：开源地址：MOMOCODE：不只是代码Agent，",
+    "original_url": "https://mp.weixin.qq.com/s/MWW8eczRSylEAoRELntS7Q",
+    "cover": "https://mmbiz.qpic.cn/mmbiz_jpg/iazCrKuBFsicA9NEuQw5kC1QJok7lkoDYZiaXzMmgy9cvhsyPIzQEVmSCQOZ0o6MelCU5zImja0bSReoqbVNAkgNr1U9V5kY5HDLSqibIIv3aY0/0?wx_fmt=jpeg",
+    "file": "article-2.md",
+    "word_count": 3381
+  },
+  {
+    "id": 3,
+    "title": "我手搓了一个「多Agent智囊团」，打包了20位天涯“远古大神”，并连夜开源了它～【附Github地址】",
+    "account": "momo子讲AI",
+    "date": "2026-05-06",
+    "summary": "“一个人思考，是智慧；二十个人思考，是智囊团。”作为一个长期和AI打交道的人，我做了一次疯狂的、有意义的“数字复古”。我手搓了一个「天涯神贴大神·多Agent决策系统」,使用多Agent架构，打包提取了20位天涯传奇大神（大鹏金翅明王、KK",
+    "original_url": "https://mp.weixin.qq.com/s/86ajDWbXnZGDKXs29jQDBg",
+    "cover": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/iazCrKuBFsicAeBB94Pg8hOvBtX3EfribF1rrhEksNyPia6x1Ew0nxk6PFybGiasicoKQAia8mGPX7oAmD4xkg1sr5iawwNubq3bNBoGZ3SNx2ECBH0/0?wx_fmt=jpeg",
+    "file": "article-3.md",
+    "word_count": 3607
+  },
+  {
+    "id": 4,
+    "title": "12 位 AI自媒体顶流大V的skill仓库：github开源（秋芝、卡兹克、赛文乔伊、赛博禅心、量子位、新智元、极客公园、硅星人、机器之心）",
+    "account": "momo子讲AI",
+    "date": "2026-05-04",
+    "summary": "一键拥有12位AI顶流大V能力：这个开源仓库，让AI直接写出爆款内容全文约2600字。引言2026年，AI创作早已不是“写通顺”，而是像真人一样思考、表达、输出人格化内容。你是否遇到过这些问题：想做AI科普，却写不出卡兹克的数据碾压感；想做",
+    "original_url": "https://mp.weixin.qq.com/s/DyzWBThUdNthaxX3CIaIQg",
+    "cover": "https://mmbiz.qpic.cn/mmbiz_jpg/iazCrKuBFsicCDhxruF6mCmDBnl3aXzgdKUYuqag8JBZ971SOEKjwSpdCZaZcda2MIaLG6sGL9g7iaPJ4G1eel0Fvhag8ZC3A57WHWpW6hL8Io/0?wx_fmt=jpeg",
+    "file": "article-4.md",
+    "word_count": 6626
+  },
+  {
+    "id": 5,
+    "title": "gpt image 2 生成连续的多个游戏界面，OpenAI这次真的封神了！",
+    "account": "momo子讲AI",
+    "date": "2026-04-24",
+    "summary": "我用gptimage2生成连续的多个游戏界面。🔥不夸张地说，OpenAI这次真的封神了！连续3幕：1、提示词：生成一款受金瓶梅启发的动作角色扮演游戏对话截图，主要有街区和人物，人物主要是潘金莲Maketheaspectratio16:92、",
+    "original_url": "https://mp.weixin.qq.com/s/wvcvWvg2UeR-lJhtAVdD9Q",
+    "cover": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/iazCrKuBFsicBBibRASycs3MSM5gRavgEQgr1kMsjJSAAYuRzDUrlAwoFmWNxG8qSg2icsfbeicLicnYkKibyDBdUNhGoYnf6vJYaM72hgbiauglIvE/0?wx_fmt=jpeg",
+    "file": "article-5.md",
+    "word_count": 227
+  },
+  {
+    "id": 6,
+    "title": "集结31位顶级导演｜一个开源“多agent导演智囊团”的诞生 ：张艺谋、周星驰、王家卫、诺兰、卡梅隆、宫崎骏、朴赞郁...    (附GitHub)",
+    "account": "momo子讲AI",
+    "date": "2026-05-11",
+    "summary": "🎬我把31位顶级导演装进了集结号：一个开源“多agent导演智囊团”的诞生🎬这是我基于MultiAgent（clawteam）框架搭建的DirectorAgents，尝试用31位大师的视野，重构叙事逻辑。DirectorAgent",
+    "original_url": "https://mp.weixin.qq.com/s/0AE-09BgvquuBPx8K7uXrA",
+    "cover": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/iazCrKuBFsicDvibJjpNty47pKn8ktlUzopPT4j0mg3YnkLQnRyw6viaibp9FjG40aDBaGcX345tErbqPEkT974NVhJrcgrzOyNlm9YS3ibnPviaWs/0?wx_fmt=jpeg",
+    "file": "article-6.md",
+    "word_count": 3917
+  },
+  {
+    "id": 7,
+    "title": "我蒸馏了永乐大典.skill， AI让中华文明瑰宝永生 （附带原著） | AI 也可以让文明永存",
+    "account": "momo子讲AI",
+    "date": "2026-04-22",
+    "summary": "我用AI复活永乐大典📜🔥华夏文脉赛博永生🇨🇳🔗项目地址：github.com/momozi1996/yongledadianskillhttps://github.com/momozi1996/yongledadianskill/bl",
+    "original_url": "https://mp.weixin.qq.com/s/JrqIkaCTlUYDx1nh42sHvQ",
+    "cover": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/iazCrKuBFsicBUWxTic42ibwFHicbCNRmaBQODWghBndlDOyLvFIZ1Wb4E5Sgueeqvf7uPw1lln7mtP6DQp7TF3cmxIZZzyShksUz1ZJyrZOlAWU/0?wx_fmt=jpeg",
+    "file": "article-7.md",
+    "word_count": 1107
+  },
+  {
+    "id": 8,
+    "title": "开源: 蒸馏作家&小说家Skill 库  (刘慈欣，余华，莫言，张爱玲，李碧华，琼瑶..)",
+    "account": "momo子讲AI",
+    "date": "2026-04-12",
+    "summary": "开源🔥作家Skills｜刘慈欣/余华/莫言...我耗时1天，基于女娲skill，打造了全网首个作家&小说家Skill库。📁开源地址GitHubhttps://github.com/momozi1996/awesomeaip",
+    "original_url": "https://mp.weixin.qq.com/s/rTd5zITEceIgDPhRJn6xeA",
+    "cover": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/iazCrKuBFsicDGMGUhRNv2mkpCU88N7rbfP1icckanicz9QUzqEMJrOHvkq2NTibkRuSUdSrEmaTK7V9on0Psb2JYriboZU87h0ZUD4UwxJFYxWN0/0?wx_fmt=jpeg",
+    "file": "article-8.md",
+    "word_count": 1007
+  },
+  {
+    "id": 9,
+    "title": "全网最全、持续更新的 AI 人格蒸馏 Skill 合集｜ 自我蒸馏、职场关系、名人思维、情感陪伴、玄学术数、二次元角色、SBTI测试等7大场景",
+    "account": "momo子讲AI",
+    "date": "2026-04-13",
+    "summary": "全网最全、持续更新的AI人格蒸馏Skill合集：自我蒸馏、职场关系、名人思维、情感陪伴、玄学术数、二次元角色、SBTI测试等7大场景AI赛博人格蒸馏技能（Skill）完整汇总表省流版本：直接访问这个github链接ht",
+    "original_url": "https://mp.weixin.qq.com/s/ymQiecaXzufzFAXbLmm-dw",
+    "cover": "https://mmbiz.qpic.cn/mmbiz_jpg/iazCrKuBFsicDtn4QQhCibc9SmnvB6WYUTbMGNKBBP8oXtLsBqMmJTknOWAADYttOZmRj3E3Ea93ibWVof2c9qxXibT7HQuvDN1QQqGWWeetmzww/0?wx_fmt=jpeg",
+    "file": "article-9.md",
+    "word_count": 4731
+  }
+]

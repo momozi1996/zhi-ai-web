@@ -1,0 +1,308 @@
+[
+  {
+    "file": "00-导读和学习流程图.md",
+    "path": "03/00-导读和学习流程图.md",
+    "title": "00. 全文导读与学习流程图｜AI Agent 智能体全链路技术文档",
+    "dir": "03",
+    "subdir": "",
+    "size_bytes": 5711,
+    "summary": "00. 全文导读与学习流程图｜AI Agent 智能体全链路技术文档 一、文档整体定位 本文档合集为2026工业级 AI Agent 全链路落地权威手册，共8篇核心章节，覆盖从基础认知 → 数据建设"
+  },
+  {
+    "file": "01-模型基本结构.md",
+    "path": "03/01-模型基本结构.md",
+    "title": "01-模型基本结构",
+    "dir": "03",
+    "subdir": "",
+    "size_bytes": 11715,
+    "summary": "title: AI Agent模型结构 category: 03AIAgent智能体 tags: 'Agent', '智能体', '架构设计' related: 'ReAct', 'CoT', 'Pl"
+  },
+  {
+    "file": "02-业界开源模型清单.md",
+    "path": "03/02-业界开源模型清单.md",
+    "title": "02 AI Agent开源清单",
+    "dir": "03",
+    "subdir": "",
+    "size_bytes": 14492,
+    "summary": "title: AI Agent开源清单 category: 03AI Agent智能体 tags: 'Agent', '开源框架', '2026' related: 'AutoGPT', 'CrewA"
+  },
+  {
+    "file": "03-数据预训练与后训练.md",
+    "path": "03/03-数据预训练与后训练.md",
+    "title": "03 Agent数据工程",
+    "dir": "03",
+    "subdir": "",
+    "size_bytes": 13337,
+    "summary": "title: Agent数据工程 category: 03AIAgent智能体 tags: 'Agent', '训练数据', '工具调用数据' related: '指令数据', '轨迹数据' crea"
+  },
+  {
+    "file": "04-数据合成方法.md",
+    "path": "03/04-数据合成方法.md",
+    "title": "04 Agent数据合成",
+    "dir": "03",
+    "subdir": "",
+    "size_bytes": 12252,
+    "summary": "title: Agent数据合成 category: 03AIAgent智能体 tags: 'Agent', '数据合成', '合成轨迹' related: '模拟环境', '合成交互' create"
+  },
+  {
+    "file": "05-模型训练.md",
+    "path": "03/05-模型训练.md",
+    "title": "05 Agent模型训练",
+    "dir": "03",
+    "subdir": "",
+    "size_bytes": 9920,
+    "summary": "title: Agent模型训练 category: 03AIAgent智能体 tags: 'Agent', '训练', '强化学习' related: 'SFT', 'RL', 'DPO' crea"
+  },
+  {
+    "file": "06-模型微调.md",
+    "path": "03/06-模型微调.md",
+    "title": "06 Agent模型微调",
+    "dir": "03",
+    "subdir": "",
+    "size_bytes": 10054,
+    "summary": "title: Agent模型微调 category: 03AIAgent智能体 tags: 'Agent', '微调', '工具微调' related: '工具微调', '领域适应' created:"
+  },
+  {
+    "file": "07-模型评估.md",
+    "path": "03/07-模型评估.md",
+    "title": "07 Agent模型评估",
+    "dir": "03",
+    "subdir": "",
+    "size_bytes": 9744,
+    "summary": "title: Agent模型评估 category: 03AIAgent智能体 tags: 'Agent', '评估', 'AgentBench' related: '任务完成率', '工具使用评估'"
+  },
+  {
+    "file": "08-模型开源和推广方案.md",
+    "path": "03/08-模型开源和推广方案.md",
+    "title": "08 Agent开源推广",
+    "dir": "03",
+    "subdir": "",
+    "size_bytes": 13330,
+    "summary": "title: Agent开源推广 category: 03AIAgent智能体 tags: 'Agent', '开源', '商业化' related: '平台', '应用商店', 'SaaS' cre"
+  },
+  {
+    "file": "00-Overview.md",
+    "path": "04/00-Overview.md",
+    "title": "00 Agent工程总览 (Overview)",
+    "dir": "04",
+    "subdir": "",
+    "size_bytes": 3478,
+    "summary": "title: Agent工程总览 category: Agent工程与训练 tags: 'Agent定义', '技术栈', '发展历程', '2026趋势' related: 'Agent工程', '"
+  },
+  {
+    "file": "01-Agent 工程目录规范.md",
+    "path": "04/01-Agent 工程目录规范.md",
+    "title": "01-Agent 工程目录规范.md",
+    "dir": "04",
+    "subdir": "",
+    "size_bytes": 8230,
+    "summary": "01Agent 工程目录规范.md 一、规范目的 本文档定义 2026 生产级 AI Agent 工程标准化目录结构，适用于：Agent 训练工程、微调工程、数据合成流水线、推理部署、私有化上线、"
+  },
+  {
+    "file": "02 - 训练环境工程搭建.md",
+    "path": "04/02 - 训练环境工程搭建.md",
+    "title": "02-训练环境工程搭建.md",
+    "dir": "04",
+    "subdir": "",
+    "size_bytes": 9864,
+    "summary": "02训练环境工程搭建.md 一、文档定位 本文为 Agent 工程与训练实战体系 第二篇，基于上一章标准化目录结构，完成生产级训练环境从零搭建。本文全程聚焦工程兼容、环境锁版本、容器隔离、多设备适"
+  },
+  {
+    "file": "03 - 数据工程流水线.md",
+    "path": "04/03 - 数据工程流水线.md",
+    "title": "03-数据工程流水线.md",
+    "dir": "04",
+    "subdir": "",
+    "size_bytes": 8342,
+    "summary": "03数据工程流水线.md 一、文档定位 本文属于 Agent 工程与训练实战体系 第三章，完全聚焦工程落地流水线，不重复前期理论层的数据范式。重点解决：数据杂乱、格式不统一、脏数据炸训练、toke"
+  },
+  {
+    "file": "04 - 单卡多卡训练工程适配.md",
+    "path": "04/04 - 单卡多卡训练工程适配.md",
+    "title": "04-单卡/多卡训练工程适配.md",
+    "dir": "04",
+    "subdir": "",
+    "size_bytes": 8896,
+    "summary": "04单卡/多卡训练工程适配.md 一、文档定位 本文为 Agent 工程与训练实战体系 第四章，承接上一章数据工程流水线，聚焦训练硬件层工程适配。区别于前文训练理论，本文只解决真实训练落地问题：单"
+  },
+  {
+    "file": "01-模型基本结构.md",
+    "path": "04/基本知识点/01-模型基本结构.md",
+    "title": "01 Agent工程架构",
+    "dir": "04",
+    "subdir": "基本知识点",
+    "size_bytes": 1873,
+    "summary": "title: Agent工程架构 category: 04Agent工程与训练 tags: 'Agent工程', 'MCP', '工具协议' related: 'MCP协议', 'Function C"
+  },
+  {
+    "file": "02-业界开源模型清单.md",
+    "path": "04/基本知识点/02-业界开源模型清单.md",
+    "title": "02 Agent工程工具清单",
+    "dir": "04",
+    "subdir": "基本知识点",
+    "size_bytes": 1894,
+    "summary": "title: Agent工程工具清单 category: 04Agent工程与训练 tags: 'Agent工程', '工具链', '2026' related: 'Cursor', 'Windsur"
+  },
+  {
+    "file": "03-数据预训练与后训练.md",
+    "path": "04/基本知识点/03-数据预训练与后训练.md",
+    "title": "03 Agent工程数据",
+    "dir": "04",
+    "subdir": "基本知识点",
+    "size_bytes": 1868,
+    "summary": "title: Agent工程数据 category: 04Agent工程与训练 tags: 'Agent工程', '数据', '工作流数据' related: 'MCP数据', '工具描述' crea"
+  },
+  {
+    "file": "04-数据合成方法.md",
+    "path": "04/基本知识点/04-数据合成方法.md",
+    "title": "04 Agent工程数据合成",
+    "dir": "04",
+    "subdir": "基本知识点",
+    "size_bytes": 1898,
+    "summary": "title: Agent工程数据合成 category: 04Agent工程与训练 tags: 'Agent工程', '数据合成', '工作流合成' related: '自动标注', '合成工作流' "
+  },
+  {
+    "file": "05-模型训练.md",
+    "path": "04/基本知识点/05-模型训练.md",
+    "title": "05 Agent工程训练",
+    "dir": "04",
+    "subdir": "基本知识点",
+    "size_bytes": 1871,
+    "summary": "title: Agent工程训练 category: 04Agent工程与训练 tags: 'Agent工程', '训练', '部署训练' related: '分布式训练', '推理优化' creat"
+  },
+  {
+    "file": "06-模型微调.md",
+    "path": "04/基本知识点/06-模型微调.md",
+    "title": "06 Agent工程微调",
+    "dir": "04",
+    "subdir": "基本知识点",
+    "size_bytes": 1865,
+    "summary": "title: Agent工程微调 category: 04Agent工程与训练 tags: 'Agent工程', '微调', '个性化' related: '用户适应', '领域微调' created"
+  },
+  {
+    "file": "07-模型评估.md",
+    "path": "04/基本知识点/07-模型评估.md",
+    "title": "07 Agent工程评估",
+    "dir": "04",
+    "subdir": "基本知识点",
+    "size_bytes": 1871,
+    "summary": "title: Agent工程评估 category: 04Agent工程与训练 tags: 'Agent工程', '评估', '系统评估' related: '性能评估', '稳定性评估' creat"
+  },
+  {
+    "file": "08-模型开源和推广方案.md",
+    "path": "04/基本知识点/08-模型开源和推广方案.md",
+    "title": "08 Agent工程开源推广",
+    "dir": "04",
+    "subdir": "基本知识点",
+    "size_bytes": 1883,
+    "summary": "title: Agent工程开源推广 category: 04Agent工程与训练 tags: 'Agent工程', '开源', '生态' related: '开发者生态', '应用市场' creat"
+  },
+  {
+    "file": "00-Overview.md",
+    "path": "04/进阶知识点/00-Overview.md",
+    "title": "00 Agent工程总览 (Overview)",
+    "dir": "04",
+    "subdir": "进阶知识点",
+    "size_bytes": 1955,
+    "summary": "title: Agent工程总览 category: Agent工程与训练 tags: 'Agent定义', '技术栈', '发展历程', '2026趋势' related: 'Agent工程', '"
+  },
+  {
+    "file": "01-Core-Concepts.md",
+    "path": "04/进阶知识点/01-Core-Concepts.md",
+    "title": "01 Agent核心概念 (Core Concepts)",
+    "dir": "04",
+    "subdir": "进阶知识点",
+    "size_bytes": 2066,
+    "summary": "title: Agent核心概念 category: Agent工程与训练 tags: 'Agent定义', 'ReAct', 'CoT', 'PlanandExecute', 'MultiAgent"
+  },
+  {
+    "file": "02-Agent-Model-Training-Agent.md",
+    "path": "04/进阶知识点/02-Agent-Model-Training-Agent.md",
+    "title": "02 Agent模型训练 (Agent Model Training)",
+    "dir": "04",
+    "subdir": "进阶知识点",
+    "size_bytes": 2078,
+    "summary": "title: Agent模型训练 category: Agent工程与训练 tags: 'SFT', 'RLHF', 'DPO', '工具调用训练', '拒绝采样' related: 'Agent工程"
+  },
+  {
+    "file": "03-Agent-Data-Pipeline-Agent.md",
+    "path": "04/进阶知识点/03-Agent-Data-Pipeline-Agent.md",
+    "title": "03 Agent数据管线 (Agent Data Pipeline)",
+    "dir": "04",
+    "subdir": "进阶知识点",
+    "size_bytes": 2121,
+    "summary": "title: Agent数据管线 category: Agent工程与训练 tags: '数据收集', '数据合成', '数据清洗', '指令标注', '质量过滤' related: 'Agent工程"
+  },
+  {
+    "file": "04-Agent-Infrastructure-Agent.md",
+    "path": "04/进阶知识点/04-Agent-Infrastructure-Agent.md",
+    "title": "04 Agent基础设施 (Agent Infrastructure)",
+    "dir": "04",
+    "subdir": "进阶知识点",
+    "size_bytes": 2103,
+    "summary": "title: Agent基础设施 category: Agent工程与训练 tags: '部署架构', '推理优化', '服务化', '监控告警', '弹性伸缩' related: 'Agent工程'"
+  },
+  {
+    "file": "05-Harness-Engineering.md",
+    "path": "04/进阶知识点/05-Harness-Engineering.md",
+    "title": "05 Harness工程 (Harness Engineering)",
+    "dir": "04",
+    "subdir": "进阶知识点",
+    "size_bytes": 2077,
+    "summary": "title: Harness工程 category: Agent工程与训练 tags: 'MCP', 'A2A', 'Function Calling', '工具注册', 'API集成' relate"
+  },
+  {
+    "file": "06-Capability-Engineering.md",
+    "path": "04/进阶知识点/06-Capability-Engineering.md",
+    "title": "06 Agent能力工程 (Capability Engineering)",
+    "dir": "04",
+    "subdir": "进阶知识点",
+    "size_bytes": 2115,
+    "summary": "title: Agent能力工程 category: Agent工程与训练 tags: '规划能力', '记忆系统', '工具使用', '自我反思', '协作机制' related: 'Agent工程"
+  },
+  {
+    "file": "07-Knowledge-Distillation.md",
+    "path": "04/进阶知识点/07-Knowledge-Distillation.md",
+    "title": "07 知识蒸馏 (Knowledge Distillation)",
+    "dir": "04",
+    "subdir": "进阶知识点",
+    "size_bytes": 2117,
+    "summary": "title: 知识蒸馏 category: Agent工程与训练 tags: '教师模型', '蒸馏策略', '能力迁移', '模型压缩', '效率优化' related: 'Agent工程', 'M"
+  },
+  {
+    "file": "08-Evaluation-Benchmarks.md",
+    "path": "04/进阶知识点/08-Evaluation-Benchmarks.md",
+    "title": "08 评测与基准 (Evaluation & Benchmarks)",
+    "dir": "04",
+    "subdir": "进阶知识点",
+    "size_bytes": 2109,
+    "summary": "title: 评测与基准 category: Agent工程与训练 tags: 'AgentBench', 'SWEbench', '评估指标', '人工评估', '自动评估' related: 'A"
+  },
+  {
+    "file": "09-Code-Data-Resources.md",
+    "path": "04/进阶知识点/09-Code-Data-Resources.md",
+    "title": "09 代码、数据与资源 (Code, Data & Resources)",
+    "dir": "04",
+    "subdir": "进阶知识点",
+    "size_bytes": 2137,
+    "summary": "title: 代码、数据与资源 category: Agent工程与训练 tags: '开源代码', '数据集', '工具链', '预训练模型', '社区资源' related: 'Agent工程',"
+  },
+  {
+    "file": "10-Applications-Case-Studies.md",
+    "path": "04/进阶知识点/10-Applications-Case-Studies.md",
+    "title": "10 应用与案例 (Applications & Case Studies)",
+    "dir": "04",
+    "subdir": "进阶知识点",
+    "size_bytes": 2062,
+    "summary": "title: 应用与案例 category: Agent工程与训练 tags: '编程助手', '自动化办公', '智能客服', '内容创作', '行业方案' related: 'Agent工程', "
+  },
+  {
+    "file": "README.md",
+    "path": "04/进阶知识点/README.md",
+    "title": "四、Agent 工程与训练知识库（详细版）",
+    "dir": "04",
+    "subdir": "进阶知识点",
+    "size_bytes": 5804,
+    "summary": "title: Agent工程与训练知识库（详细版） category: Agent工程与训练 tags: \"Agent工程\", \"MCP\", \"A2A\", \"工具调用\", \"Agent训练\", \"20"
+  }
+]
